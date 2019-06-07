@@ -1,0 +1,622 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef95ba0c284c054149600a",
+    "_parentId": "5cef95b30c284c0541496008",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd4188e5f53d705477b70b9",
+    "_layout": "right",
+    "_parentId": "5cd4188e5f53d705477b7065",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The common stages surrounding data use in projects",
+    "displayTitle": "The common stages surrounding data use in projects",
+    "body": "<p>Regardless of the project lifecycle or workflow that is implemented there are a number of common stages to effectively integrating data into a project.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cef94420c284c0541495ffd",
+    "_parentId": "5cef94260c284c0541495ffc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Saving lives",
+    "displayTitle": "Saving lives",
+    "body": "<p>Florence Nightingale managed and trained nurses in taking care of wounded soldiers during the Crimean war (1853-1856).</p><p>She noticed that potentially more people died from diseases than by through combat. &nbsp;To test this hypothesis she collected data from hospitals and from the front line which she analysed, and validated her hypothesis.&nbsp;</p><p>She then created this visual which helped her build a compelling argument that enabled policy makers to make an evidence-built change that addressed how the wounded were taken care of.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cef8b9c0c284c0541495ff0",
+    "_parentId": "5cef8b7f0c284c0541495fef",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef959e0c284c0541496003",
+    "_parentId": "5cef95900c284c0541496000",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/756debb13a70db3929ce908439087754998a51b9.jpeg",
+      "small": "course/en/assets/756debb13a70db3929ce908439087754998a51b9.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/stock-exchange-board-210607/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Protecting valuable history",
+    "displayTitle": "Protecting valuable history",
+    "body": "<p>&nbsp;In 2018, ARUP conducted an analysis for the Victoria &amp; Albert Europe Galleries to help them investigate and fix a humidity problem that had to potential to damage their valuable collection.&nbsp;</p><p>A vast amount of data was collected from the air handling systems and combined with additional data and knowledge about use of the gallery.&nbsp;</p><p>The outcome of this investigation was found to be a series of faulty sensors that were causing the system to perform badly.</p>",
+    "instruction": "",
+    "_id": "5cef8e5c0c284c0541495ff7",
+    "_parentId": "5cef8e4c0c284c0541495ff6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef93a00c284c0541495ffb",
+    "_parentId": "5cef935d0c284c0541495ff9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/83aff34743ac17de0c692893967eff4e0e57097c.png",
+      "small": "course/en/assets/83aff34743ac17de0c692893967eff4e0e57097c.png",
+      "attribution": "<a href=\"https://www.arup.com/\" target=\"_blank\">ARUP</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cf39b9cc192f50575596ae1",
+    "_parentId": "5cee789964b2fb0565510055",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Stage 1: Defining the question & scope",
+    "displayTitle": "Stage 1: Defining the question & scope",
+    "body": "<p>Although data can help inform us, sometimes it may not be appropriate or lawful to use data. To help establish the appropriateness and lawfulness of collecting and using data a number of questions should first be considered. Such questions might include:</p><ul><li>Will data help solve the problem?</li><li>Does appropriate data exist or be collected?</li><li>Is the data reliable/from a reliable source?</li><li>Is the data biased or affected by targets?</li><li>Do domain experts think it should be used?</li><li>Are there any ethical or legal issues surrounding the collection, use and sharing of the data?</li><li>What are our responsibilities when using data as part of the project?</li></ul>",
+    "instruction": "",
+    "_id": "5cef95260c284c0541495fff",
+    "_parentId": "5cee789964b2fb0565510055",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Recognising opportunities to use data in projects",
+    "displayTitle": "Recognising opportunities to use data in projects",
+    "body": "<p>Data can help us in many ways. The use of data is not recent either. Explore the examples below to find out:</p><ul><li>How data pioneer Florence Nightingale used data to <strong>test a hypothesis</strong> and help save lives using a compelling data visualisation.</li><li>How ARUP used data to <strong>investigate</strong> the root cause of a major humidity problem in an Art gallery.</li><li>How ARUP used inferential statistics to <strong>build a model</strong> to predict seismic risks to buildings.&nbsp;</li></ul>",
+    "instruction": "",
+    "_id": "5cef8b2c0c284c0541495fee",
+    "_parentId": "5cef8add0c284c0541495fed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using data in projects at ARUP",
+    "displayTitle": "Using data in projects at ARUP",
+    "body": "<p>When used well, there is a huge opportunity for data to be used in projects at ARUP. Data can help us in many ways. Data can be used to test hypothesis. Data can be used to investigate potential solutions. Data can even be used to predict the impact of future changes and events.&nbsp;</p><p>This module explores:</p><ul><li>Examples of uses of data in projects</li><li>How to recognise if data should be used in projects</li><li>The common stages of using data in projects at ARUP</li></ul>",
+    "instruction": "",
+    "_id": "5cd4188e5f53d705477b708f",
+    "_layout": "left",
+    "_parentId": "5cd4188e5f53d705477b7065",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Data is changing the way we live and work.&nbsp;Demand for workers with specialist data skills has more than tripled over five years (+231%). Organisations around the world are implementing data training programmes to help skills up workers to help domain experts, such as those at ARUP, to make the most of the opportunities data brings.&nbsp;&nbsp;</p><p>Let&rsquo;s bust one myth straight away - we don&rsquo;t all need to become expert programmers of Python or R to be a modern data worker. Organisations who want to use data better will typically need a wide range of skills - from strategy to innovation, data management, statistics and machine learning.</p><p>At ARUP data can help us build better solutions, more complex models based upon more data as well as to monitor projects after completion to ensure sustainability.</p><p>This programme has been developed to help you recognise the opportunities to make strategic use of data in projects and introduces the common stages related to using data in projects at ARUP.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cee887464b2fb0565510057",
+    "_parentId": "5cecf865eb3e74054d10644d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Natural disaster modeling",
+    "displayTitle": "Natural disaster modeling",
+    "body": "<p>Amazon, Seattle contacted ARUP to build risk assessment model that identifies the buildings that are at&nbsp;higher risk in the event of an earthquake, and to develop the resilience objectives&nbsp;and strategies to reduce the impact.</p><p>To build this model, the team used data collected from each&nbsp;building&nbsp;and run thousands of simulation models to estimate the casualties, repair costs, and downtime across a range of earthquake intensities.&nbsp;</p><p>In this process, the team ultimately digitalised the information by integrating data into the project workflow - a transformation that received&nbsp;the Gold Award&nbsp;Transformation Awards 2017-18.</p>",
+    "instruction": "",
+    "_id": "5cef939d0c284c0541495ffa",
+    "_parentId": "5cef935d0c284c0541495ff9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef8b9e0c284c0541495ff1",
+    "_parentId": "5cef8b7f0c284c0541495fef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "small": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg\" target=\"_blank\">Florence Nightingale</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef8ad70c284c0541495fec",
+    "_parentId": "5cecf865eb3e74054d10644d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg",
+      "small": "course/en/assets/5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/photo-of-a-laptop-on-top-of-table-1516704/\" target=\"_blank\">Rawpexel.com</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef95ae0c284c0541496007",
+    "_parentId": "5cef95ae0c284c0541496005",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b85befeb7a8fb628a3eb959f82d6d1c0a04ba7f0.jpg",
+      "small": "course/en/assets/b85befeb7a8fb628a3eb959f82d6d1c0a04ba7f0.jpg",
+      "attribution": "<a href=\"https://www.thegraphicaltree.com\" target=\"_blank\">ARUP</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Stage 2: Data acquisition and management",
+    "displayTitle": "Stage 2: Data acquisition and management",
+    "body": "<p>Having established that it is appropriate and lawful to use data as part of a project, the next stage is to gather and prepare data ready for use.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cef959b0c284c0541496002",
+    "_parentId": "5cef95900c284c0541496000",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Establishing data requirements",
+        "body": "<p>ARUP will often source data from clients. When doing this it is critically important to carefully specify what data we require to solve the problem. We may also source data from multiple clients and it is important that the data is high quality, well structured and interoperable. Spending time and care on getting the right set of requirements saves a lot of time and effort later.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data acquisition and sources",
+        "body": "<p>ARUP already acquires data from a number of sources. For data we don&rsquo;t hold already there are a number of acquisition techniques we use regularly and could be reused in your project.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data storage and management",
+        "body": "<p>Once data is acquired, we need to store and manage it appropriately. At this point we must consider both our needs and responsibilities in order to make the best decision about how to store the data and what continual management processes are required to ensure we fulfil our obligations with that data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cleaning and transforming data",
+        "body": "<p>Unless data is collected specifically for the project it is unlikely the data will be a perfect fit. The process of cleaning and transforming data is used to ensure that the quality and usability of the data is maximised. This helps ensure that results are robust and reliable.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cef8e5e0c284c0541495ff8",
+    "_parentId": "5cef8e4c0c284c0541495ff6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/25f27475dd49d435b8ee40e559403a2c42d74095.png",
+      "small": "course/en/assets/25f27475dd49d435b8ee40e559403a2c42d74095.png",
+      "attribution": "<a href=\"https://www.arup.com/\" target=\"_blank\">ARUP</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>When used well, there is a huge opportunity for data to be used in projects at ARUP. Data can help us in many ways. Data can be used to test hypothesis that help save lives. Data can be used to investigate potential solutions to humidity damaging artwork. Data can even be used to predict the impact of earthquakes on business assets.&nbsp;</p><p>The first stage in any project that considers using data is to establish if it is appropriate and lawful to do so. Involving domain experts and users at this stage is critical to establish this as well as expectations that each group has.&nbsp;</p><p>Having established that it is appropriate and lawful to use data as part of a project, there are a number of stages common to all projects that use data. You can find out more about each in more detail within the ARUP university platform.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cef95b70c284c0541496009",
+    "_parentId": "5cef95b30c284c0541496008",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Stage 3: Data analysis and communication",
+    "displayTitle": "Stage 3: Data analysis and communication",
+    "body": "<p>With data acquired, stored and quality checked, the next stage is to analyse, validate and communicate insights found in the data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cef95ae0c284c0541496006",
+    "_parentId": "5cef95ae0c284c0541496005",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Exploratory data analysis",
+        "body": "<p>Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. Primarily EDA has two purposes (1) to check&nbsp;assumptions, completeness,&nbsp; model fitting and hypothesis testing (2) to formulate hypotheses that could lead to new data collection and experiments.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Deeper analysis, prediction and machine learning",
+        "body": "<p>Exploratory data analysis will reveal the opportunity to perform deeper analysis using the data and even build models that predict potential outcomes. More complex techniques including machine learning can also help us process and build models based upon vast amounts of data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Validating results",
+        "body": "<p>Regardless of how we analyse data or the model we build it is necessary to validate the results and clearly outline any limitations in the analysis.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Communicating outputs",
+        "body": "<p>All of this analysis amounts to nothing if it isn&rsquo;t effectively used in the decision making process. Using a compelling way to communicate the results, such as a carefully crafted visualisation or immersive experience can reassure our clients about the expertise that ARUP is able to bring to solutions designed using data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]

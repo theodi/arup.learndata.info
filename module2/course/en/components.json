@@ -1,0 +1,536 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><strong>Value</strong>: The value related to a specific attribute.</p><p><strong>Categorical data</strong>: A limited list of specified values.</p><p><strong>Ordinal data</strong>: Values&nbsp;with a meaningful order.</p><p><strong>Continuous data</strong>: Values within a certain range.</p><p><strong>Schema</strong>: A definition of the attributes, values and value types in&nbsp;a dataset.</p><p><strong>Metadata</strong>: Data about data.</p><p><strong>Tabular data</strong>: Data organised in rows and columns.</p><p><strong>Hierarchical data</strong>: Data organised in a tree like structure.</p><p><strong>Network data</strong>: Data where relationships and bi-directional or cyclic.</p><p><strong>File format</strong>: A standard method to encode data for digital storage.</p><p><strong>Fitness for purpose</strong>: How suitable a dataset is to answer a particular question or deliver a particular insight.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd54de111812d052c7705d7",
+    "_parentId": "5cd54d8211812d052c7705d5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Establishing the fitness for purpose of a dataset",
+    "displayTitle": "Establishing the fitness for purpose of a dataset",
+    "body": "<p>Fitness for purpose describes how suitable a dataset is to answer a particular question or deliver a particular insight, likely defined in a project scope.</p><p>Fitness for purpose may be captured in a set of data requirements, covering topics such as:</p>",
+    "instruction": "",
+    "_id": "5cd585f811812d052c770605",
+    "_parentId": "5cd5473011812d052c77038f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Rights",
+        "body": "<p>Do we have the rights to use the data?</p><p>Is the data closed, shared or open?&nbsp;</p><p>Can the data be shared with third parties who need it?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Completeness",
+        "body": "<p>Do we have the data required for the project?</p><p>Are there any missing records, values or timeframes?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Conformity",
+        "body": "<p>Is there consistency in the data?</p><p>Is there a standard that ensures&nbsp;the quality of the data?</p><p>Does the data conform to a schema?</p><p>Is the data in a suitable format?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accuracy",
+        "body": "<p>Are the values&nbsp;of any given&nbsp;record correct and representative of the real-world object in consideration.</p><p>Is there any bias in the data?</p><p>Has the data been collected correctly?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Lifecycle",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd588b011812d052c770606",
+    "_parentId": "5cd5473011812d052c770396",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "small": "course/en/assets/0e2fd8fcd1a07f10c385649faacf87fa782f6ed7.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The data lifecycle",
+    "displayTitle": "The data lifecycle",
+    "body": "<p>The data life cycle&nbsp;is the sequence of stages that a particular&nbsp;dataset goes through from its initial generation or capture to its eventual archival and/or deletion.&nbsp;</p><p>The individual life cycle for each dataset will often be controlled by our&nbsp;legal objections;&nbsp;either defined by the&nbsp;terms of use or as embodied in law.&nbsp;&nbsp;</p><p>Such obligations will often dictate:</p><ul><li>What we can use the dataset for</li><li>How long we can retain it</li><li>Who we can share it with</li><li>Where the data can be stored</li></ul>",
+    "instruction": "",
+    "_id": "5cd5591a11812d052c7705e3",
+    "_parentId": "5cd5473011812d052c770396",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd58f5711812d052c770619",
+    "_parentId": "5cd5473011812d052c77038f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "small": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data is the fundamental building block from which knowledge is derived. To get the most from data it is necessary to understand the different forms it can take and its application throughout the complete data life cycle.&nbsp;</p><p>At ARUP, we transform complex data into valuable insight to enable our clients&nbsp;to maximise performance and fulfil strategic vision.&nbsp;</p><p>Organisations are now faced with an unprecedented volume and variety. It is essential to understand the key characteristics of this data in order to understand how analytics can be applied and insight delivered.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd54de911812d052c7705d8",
+    "_parentId": "5cd54d7911812d052c7705d4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Essential terminology",
+    "displayTitle": "",
+    "body": "<p><strong>Data</strong>: Quantities, characters or symbols etc on which analysis can be performed.</p><p><strong>Dataset</strong>: A collection of data that is treated as a single unit (e.g collection of records).</p><p><strong>Degree of structure</strong>: How structured or unstructured the data is.</p><p><strong>Structured data</strong>: Any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p><strong>Semi-structured data</strong>: Organised by does not obey a formal fixed structure.</p><p><strong>Unstructured data</strong>: Not organised in any pre-defined manner.</p><p><strong>Degree of openness</strong>: Is the data&nbsp;open, shared or closed.</p><p><strong>Terms of use</strong>: State what we are allowed to do with the data.</p><p><strong>Attribute</strong>: The name for a specific property of feature of a data record.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd54dde11812d052c7705d6",
+    "_parentId": "5cd54d8211812d052c7705d5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "DIK triangle ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd5473011812d052c7703bb",
+    "_layout": "left",
+    "_parentId": "5cd5473011812d052c77038d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+      "small": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd5473011812d052c7703e4",
+    "_layout": "right",
+    "_parentId": "5cd5473011812d052c770398",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "alt": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How knowledge is derived from data",
+    "displayTitle": "",
+    "body": "<p>Data can be <strong>quantitative</strong> (i.e. numerical values) or <strong>qualitative</strong> (i.e. descriptive).</p><ul><li>&ldquo;Rainfall yesterday: 5mm&rdquo; is an example of quantitative data.</li><li>&ldquo;Today will be cloudy with sunny periods&rdquo; is an example of qualitative data.</li></ul><p>Data can be:</p><ul><li>Digital (i.e. stored on or usable by some digital system)</li><li>Non-digital (e.g. written in a paper notebook)</li></ul><ol dir=\"ltr\"></ol>",
+    "instruction": "",
+    "_id": "5cd5473011812d052c7703d9",
+    "_layout": "right",
+    "_parentId": "5cd5473011812d052c77038d",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data requirements",
+    "displayTitle": "Data requirements",
+    "body": "<p>Data is the fundamental building block from which knowledge is derived. To get the most from data it is necessary to understand the different forms it can take and its application throughout the complete data lifecycle. In this module we are going to explore:</p><ul><li>How knowledge is derived from data</li><li>Structured, semi-structured and unstructured data</li><li>Open, shared and closed data</li><li>The characteristics of data</li><li>Data formats</li><li>Establishing the fitness for purpose of a dataset</li><li>The data lifecycle</li></ul>",
+    "instruction": "",
+    "_id": "5cd5473011812d052c7703bc",
+    "_layout": "left",
+    "_parentId": "5cd5473011812d052c770398",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Examining the characteristics of a data",
+    "displayTitle": "Examining the characteristics of a data",
+    "body": "<p>A data record (shown below) is typically made up of&nbsp;many parts. At the heart of of data record are <strong>attributes</strong> and <strong>values</strong>. These values can have many types (e.g. <strong>categorical</strong>, <strong>ordinal</strong> and <strong>continuous</strong>) and these influence the analysis that can be performed. Tightly controlling the types helps ensure consistency and quality of the data. The attributes and value types are defined by a <strong>schema</strong>. It is much easier to integrate data if&nbsp;multiple parties use the same schema. Finally, comprehensive <strong>metadata </strong>(data about data) is a key element of effective data governance as it will often define our rights to use and share the data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd56de711812d052c7705f5",
+    "_parentId": "5cd5473011812d052c770390",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/80ecda6f99de417d05b5fb2e40855188dbce85cc.jpg",
+      "small": "course/en/assets/80ecda6f99de417d05b5fb2e40855188dbce85cc.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Open, shared and closed data",
+    "displayTitle": "Open, shared and closed data",
+    "body": "<p>Data exists on a spectrum. It is of critical importance&nbsp;to consider our rights and responsibilities when using and sharing both our own and third party data. Explore the spectrum below and see if you can identify datasets that exist in each area.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd5583611812d052c7705dd",
+    "_parentId": "5cd5473011812d052c77038e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4b9a31f4284c7b08287472f195df0a6b974935ac.jpg",
+      "small": "course/en/assets/4b9a31f4284c7b08287472f195df0a6b974935ac.jpg",
+      "attribution": "<a href=\"https://theodi.org/about-the-odi/the-data-spectrum/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-eight",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd54ded11812d052c7705d9",
+    "_parentId": "5cd54d7911812d052c7705d4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Structured, semi-structured and unstructured data",
+    "displayTitle": "Structured, semi-structured and unstructured data",
+    "body": "",
+    "instruction": "",
+    "_id": "5cd56c8a11812d052c7705f1",
+    "_parentId": "5cd5473011812d052c770380",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Structured data",
+        "body": "<p>Structured data refers to any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p>Think of data in relational databases or high quality&nbsp;spreadsheets.</p><p>Well structured data is often referred to as machine readable; in a form that a computer can process without human assistance.&nbsp;</p><p><strong>Did you know?&nbsp;</strong>A&nbsp;&quot;<strong>Total&quot;</strong>&nbsp;row to the bottom of a spreadsheet will break machine readability and the consistent structure.&nbsp;<strong>Tip</strong>: Put data analysis in a separate sheet to the data!&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Structured data"
+      },
+      {
+        "title": "Semi-structured data",
+        "body": "<p>Semi-structured data does not obey a formal fixed structure.&nbsp;</p><p>Semi-structured data can be:</p><p>1. A mix of structured and unstructured data</p><p>2. Self-describing using a range of attributes or tags that are not fixed.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/2a19879f6b900d72901569f42dbeab2e82f3caa7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Semi-structured data"
+      },
+      {
+        "title": "Unstructured data",
+        "body": "<p>Unstructured data is not organised in any pre-defined manner. The majority of text based, such as free text responses to surveys, is unstructured.</p><p>Typically unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or coding.</p>",
+        "_graphic": {
+          "src": "course/en/assets/dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Unstructured data"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Decoding data formats",
+    "displayTitle": "Decoding data formats",
+    "body": "<p>There are many types structured data. These different structures are defined by the relationship between the attributes in a record or the relationship between records in a dataset.&nbsp;</p><p>Broadly speaking there are three types of data structure, tabular, hierarchical and network that are each suited to different data formats.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cd5804211812d052c770601",
+    "_parentId": "5cd5473011812d052c770397",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Tabular data",
+        "body": "<p>The most common structure for data is tabular. Data is organised into rows, each containing a single record.&nbsp;</p><p>Formats like XLS, CSV and databases like Postgres, MySQL and Oracle are ideally suited for tabular data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id\" target=\"_blank\">Benjaminec</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Tabular data"
+      },
+      {
+        "title": "Hierarchical data",
+        "body": "<p>Hierarchical data shows the relationships between data records, such as a family tree or municipalities in each country.</p><p>Formats such as XML and JSON and semi-structured databases (e.g. NoSQL) are more suited for hierarchical data.</p><p>In some cases hierarchical data structures can also be use to embed nested data in a record, e.g.</p><code>Company name: ARUP<br />Company location: {<br />&nbsp; &nbsp;&nbsp;lat: 51.5216039<br />&nbsp; &nbsp;&nbsp;long: -0.1377894<br />}</code><p>Nested data can also be created using multiple tables in a relational database.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f271a2d9838334d53d5c8625d0f6f2f2055f2fef.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/office-organizational-corporate-hierarchy-tree-chart-199692071\" target=\"_blank\">Ing Andrej Kaprinay</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Hierarchical data"
+      },
+      {
+        "title": "Network data",
+        "body": "<p>Network&nbsp;data allows relationships to exist between any combination of records in any direction.</p><p>A good example of a network data structure is a social network. Consider first, second and third degree contacts on LinkedIn or your network of friends on Facebook.</p><p>The Web is another example of a network data structure, where webpages link to any number of other pages in any direction.</p><p>Network data can be represented in JSON-LD and XML/RDF. Both of these formats follow the&nbsp;Resource Description Framework (RDF) try to simplify and standardise the way network data is represented.</p>",
+        "_graphic": {
+          "src": "course/en/assets/459d2295255e21bf83e51cc8f9ff550248735286.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/illustration-network-eps-8-136115477?src=id\" target=\"_blank\">Ovchinnkov Vladimir</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Network data"
+      }
+    ]
+  }
+]

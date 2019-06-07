@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Data Requirements",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c770398",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How knowledge is derived from data",
+    "displayTitle": "How knowledge is derived from data",
+    "body": "<p>Data often becomes useful only once it is queried or analysed in some way. Think of data as the lowest level of abstraction from which information an then knowledge is derived.</p><p>Broadly speaking, data can be numbers, facts, collections of words, pictures, or any other value that has been captured or recorded in some way.</p>",
+    "_classes": "inverted color-two",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c77038d",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Structured, semi-structured and unstructured data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c770380",
+    "_type": "block",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Open, shared and closed data",
+    "displayTitle": "Open, shared and closed data",
+    "body": "",
+    "_classes": "color-two inverted",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c77038e",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Examining the characteristics of a data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c770390",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How to choose the right format for data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight inverted",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c770397",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Establishing the fitness for purpose of a dataset",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c77038f",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Essential terminology",
+    "displayTitle": "Essential terminology",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd54d8211812d052c7705d5",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "The data lifecycle",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd5473011812d052c770396",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5cd54d7911812d052c7705d4",
+    "_parentId": "5cd5473011812d052c77036c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]

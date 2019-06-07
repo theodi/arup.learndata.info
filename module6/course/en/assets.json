@@ -1,0 +1,219 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "97302230b50ad006a958d82900985508d759ebeb.png": {
+    "title": "Box plot",
+    "description": "Box plot",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "d311763519ddbad72b7a18158055a27705093b32.jpeg": {
+    "title": "Distributions in data",
+    "description": "Distributions in data",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "401ea564f28461094bebcb51696a22b549c3c707.png": {
+    "title": "averages comparison",
+    "description": "averages comparison",
+    "source": "https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg",
+    "licence": "CC-BY-SA",
+    "attribution": "Cmglee",
+    "tags": []
+  },
+  "f56e1fcf0f495ad31bdd44d879dd7323140a52bf.png": {
+    "title": "Standard deviations",
+    "description": "Standard deviations",
+    "source": "https://www.mathsisfun.com/data/standard-normal-distribution.html",
+    "licence": "",
+    "attribution": "Maths is fun",
+    "tags": []
+  },
+  "12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg": {
+    "title": "ARUP - Structured data",
+    "description": "ARUP - Structured data",
+    "source": "https://theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "2a19879f6b900d72901569f42dbeab2e82f3caa7.jpg": {
+    "title": "ARUP - Semi Structured",
+    "description": "ARUP - Semi Structured",
+    "source": "https://theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg": {
+    "title": "ARUP - Unstructured data",
+    "description": "ARUP - Unstructured data",
+    "source": "https://theodi.org",
+    "licence": "CC0",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "e022d2597136dfd4621fd74706406bc70efd8e4e.png": {
+    "title": "dataset types",
+    "description": "dataset types",
+    "source": "https://towardsdatascience.com/data-types-in-statistics-347e152e8bee",
+    "licence": "All rights reserved",
+    "attribution": "Niklas Donges",
+    "tags": []
+  },
+  "241b8f5efe4a9ae035aaf75fa48d92a76449452a.png": {
+    "title": "Sampling - Whole population",
+    "description": "Sampling - Whole population",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "e25b99988906329601bc9927610ff8b2aa3ea7e7.png": {
+    "title": "Sampling - random",
+    "description": "Sampling - random",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "85aab02dfdcfda134ccdcdf573fadcb19ee160ff.png": {
+    "title": "Sampling - convenience",
+    "description": "Sampling - convenience",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "a2f951fd24a03a95832d1f8df1919b486320859a.png": {
+    "title": "Sampling - Clustered",
+    "description": "Sampling - Clustered",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "ddc5c74dc1520e97e611ce44a7b81764f75008e1.png": {
+    "title": "Sampling - Systematic",
+    "description": "Sampling - Systematic",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "793d0f17fe71aea8bb775386cc36c9b7e37b60b9.png": {
+    "title": "Sampling - Stratified (random)",
+    "description": "Sampling - Stratified (random)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "de92f5cbd617282aeac1bf79093e1821d37bf7af.png": {
+    "title": "Bar Graph Icon",
+    "description": "Bar Graph Icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "eab94f2cad7840fb05597d7f359606c3a4fb25ba.png": {
+    "title": "Box Plot icon",
+    "description": "Box Plot icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "5db78d9aef09c0b70c18cbe61dc1403b45ec4fec.png": {
+    "title": "Bubble map icon",
+    "description": "Bubble map icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "fce3ba845f0168ab9f2e535dea1930cd3b2efc75.png": {
+    "title": "Histogram icon",
+    "description": "Histogram icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "3dd016c227402d34e2d333200771a50a256a3494.png": {
+    "title": "Line graph icon",
+    "description": "Line graph icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "8ad4fbe3753e1df65159f4449959e528afa8a3d9.png": {
+    "title": "Pie chart icon",
+    "description": "Pie chart icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "8e7d4a63ed000c40717eea153a891a41c6762601.png": {
+    "title": "Scatterplot icon",
+    "description": "Scatterplot icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "45166324b488a146712207780b5187e78b80d358.png": {
+    "title": "Stacked Area Graph Icon",
+    "description": "Stacked Area Graph Icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "644c4dc1f4583e7424d0f2293ea530ed73759dea.png": {
+    "title": "Stream Graph icon",
+    "description": "Stream Graph icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "a53c14493bf7a438e5bedbe9ece3d9ed993dc19f.png": {
+    "title": "Pareto graph icon",
+    "description": "Pareto graph icon",
+    "source": "https://datavizcatalogue.com/index.html",
+    "licence": "All rights reserved",
+    "attribution": "Data Viz Catalogue",
+    "tags": []
+  }
+}

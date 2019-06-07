@@ -1,0 +1,83 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png": {
+    "title": "Mortality of the British Army",
+    "description": "Mortality of the British Army",
+    "source": "https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg",
+    "licence": "CC0",
+    "attribution": "Florence Nightingale",
+    "tags": []
+  },
+  "d28ef400d5d11d9984ac313007e55a2d27589939.png": {
+    "title": "Road map",
+    "description": "roadmap",
+    "source": "http://www.freepik.com",
+    "licence": "CC-BY",
+    "attribution": "Freepik",
+    "tags": []
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg": {
+    "title": "Pointing at data on laptop",
+    "description": "Pointing at data on laptop\n",
+    "source": "https://www.pexels.com/photo/photo-of-a-laptop-on-top-of-table-1516704/",
+    "licence": "CC0",
+    "attribution": "Rawpexel.com",
+    "tags": []
+  },
+  "25f27475dd49d435b8ee40e559403a2c42d74095.png": {
+    "title": "ARUP V&A Project",
+    "description": "ARUP V&A Project",
+    "source": "https://www.arup.com/",
+    "licence": "All rights reserved",
+    "attribution": "ARUP",
+    "tags": []
+  },
+  "83aff34743ac17de0c692893967eff4e0e57097c.png": {
+    "title": "ARUP Seattle disaster modelling",
+    "description": "ARUP Seattle disaster modelling",
+    "source": "https://www.arup.com/",
+    "licence": "All rights reserved",
+    "attribution": "ARUP",
+    "tags": []
+  },
+  "756debb13a70db3929ce908439087754998a51b9.jpeg": {
+    "title": "Stock market data",
+    "description": "Stock market data",
+    "source": "https://www.pexels.com/photo/stock-exchange-board-210607/",
+    "licence": "CC0",
+    "attribution": "Pexels",
+    "tags": []
+  },
+  "b85befeb7a8fb628a3eb959f82d6d1c0a04ba7f0.jpg": {
+    "title": "ARUP AI Exhibition",
+    "description": "ARUP AI Exhibition",
+    "source": "https://www.thegraphicaltree.com",
+    "licence": "All rights reserved",
+    "attribution": "ARUP",
+    "tags": []
+  }
+}
