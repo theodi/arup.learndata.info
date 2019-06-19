@@ -1,0 +1,128 @@
+{
+  "94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg": {
+    "title": "Cleaning 3",
+    "description": "people cleaning",
+    "source": "http://www.shutterstock.com/pic-232737427",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Kirill_M",
+    "tags": [
+      {
+        "title": "cleaning",
+        "_id": "5847ffa04d7b7e82691e4b92"
+      },
+      {
+        "title": "people",
+        "_id": "584ed53e4e62ce485eb14558"
+      },
+      {
+        "title": "people cleaning",
+        "_id": "58bff532d084d5167a04aec8"
+      }
+    ]
+  },
+  "14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg": {
+    "title": "Open Refine",
+    "description": "Open Refine",
+    "source": "http://openrefine.org/",
+    "licence": "CC-BY-SA",
+    "attribution": "OpenRefine",
+    "tags": [
+      {
+        "title": "cleaning",
+        "_id": "5847ffa04d7b7e82691e4b92"
+      },
+      {
+        "title": "Photo",
+        "_id": "584801b24d7b7e82691e4b9d"
+      }
+    ]
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "97302230b50ad006a958d82900985508d759ebeb.png": {
+    "title": "Box plot",
+    "description": "Box plot",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "401ea564f28461094bebcb51696a22b549c3c707.png": {
+    "title": "averages comparison",
+    "description": "averages comparison",
+    "source": "https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg",
+    "licence": "CC-BY-SA",
+    "attribution": "Cmglee",
+    "tags": []
+  },
+  "241b8f5efe4a9ae035aaf75fa48d92a76449452a.png": {
+    "title": "Sampling - Whole population",
+    "description": "Sampling - Whole population",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "e25b99988906329601bc9927610ff8b2aa3ea7e7.png": {
+    "title": "Sampling - random",
+    "description": "Sampling - random",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "85aab02dfdcfda134ccdcdf573fadcb19ee160ff.png": {
+    "title": "Sampling - convenience",
+    "description": "Sampling - convenience",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "a2f951fd24a03a95832d1f8df1919b486320859a.png": {
+    "title": "Sampling - Clustered",
+    "description": "Sampling - Clustered",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "ddc5c74dc1520e97e611ce44a7b81764f75008e1.png": {
+    "title": "Sampling - Systematic",
+    "description": "Sampling - Systematic",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "793d0f17fe71aea8bb775386cc36c9b7e37b60b9.png": {
+    "title": "Sampling - Stratified (random)",
+    "description": "Sampling - Stratified (random)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "0245d47abb4dd66f8924811da8942cb641a7dd95.png": {
+    "title": "data-cleaned-transformed",
+    "description": "data-cleaned-transformed",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "d84e28f35543eddfd2e00e5744e9cb0d2ff141a2.png": {
+    "title": "data-cleaning-errors",
+    "description": "data-cleaning-errors",
+    "source": "Needs changing",
+    "licence": "All rights reserved",
+    "attribution": "Needs changing",
+    "tags": []
+  }
+}
