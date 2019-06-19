@@ -1,9 +1,9 @@
 [
   {
-    "title": "Using data in projects at ARUP",
+    "title": "Working with data at ARUP",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
+    "_classes": "",
     "_trackingId": 1,
     "instruction": "",
     "_isOptional": false,
@@ -23,17 +23,17 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "",
+    "title": "There are four phases to our methodology",
+    "displayTitle": "There are four phases to our methodology",
     "body": "",
-    "_classes": "inverted color-one",
+    "_classes": "inverted color-eight",
     "_trackingId": 2,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cecf865eb3e74054d10644d",
+    "_id": "5d03a2a37cf4f2053e2a9a5c",
     "_parentId": "5cd4188e5f53d705477b7035",
     "_type": "block",
     "_onScreen": {
@@ -46,17 +46,17 @@
     }
   },
   {
-    "title": "Recognising opportunities to use data in projects",
+    "title": "How we work",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "inverted color-eight",
     "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cef8add0c284c0541495fed",
+    "_id": "5d0662efa6999a055af122d0",
     "_parentId": "5cd4188e5f53d705477b7035",
     "_type": "block",
     "_onScreen": {
@@ -69,17 +69,17 @@
     }
   },
   {
-    "title": "Block title",
+    "title": "phase one",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-two",
+    "_classes": "color-one",
     "_trackingId": 4,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cef8b7f0c284c0541495fef",
+    "_id": "5d0914b51e087d056956f8f4",
     "_parentId": "5cd4188e5f53d705477b7035",
     "_type": "block",
     "_onScreen": {
@@ -92,11 +92,195 @@
     }
   },
   {
-    "title": "Protecting valuable history",
+    "title": "phase two",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-one",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0917321e087d056956f908",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "phase three",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0916cc1e087d056956f900",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "phase four",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-one",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d09172c1e087d056956f904",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "between phases",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0919081e087d056956f90c",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Our approach: The double-diamond methodology",
+    "displayTitle": "Our approach: The double-diamond methodology",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0668cea6999a055af122e4",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Repeating stages",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 5,
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0a0177f284ec05609f22a8",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Stakeholder engagement",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0669ffa6999a055af122ee",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Integrating data into the project",
+    "displayTitle": "Integrating data into the project",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d0a0f11f284ec05609f22ca",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Case study, a data approach",
+    "displayTitle": "Case study, a data approach",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -115,17 +299,17 @@
     }
   },
   {
-    "title": "Natural disaster modeling",
+    "title": "What would you do after collecting data?",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-two",
-    "_trackingId": 6,
+    "_classes": "",
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cef935d0c284c0541495ff9",
+    "_id": "5d0a0e42f284ec05609f22c4",
     "_parentId": "5cd4188e5f53d705477b7035",
     "_type": "block",
     "_onScreen": {
@@ -141,8 +325,8 @@
     "title": "The common stages surrounding data use in projects",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
-    "_trackingId": 7,
+    "_classes": "inverted footer",
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -165,7 +349,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-three",
-    "_trackingId": 8,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -188,7 +372,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 9,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -211,7 +395,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-three",
-    "_trackingId": 10,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -234,7 +418,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted footer",
-    "_trackingId": 11,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

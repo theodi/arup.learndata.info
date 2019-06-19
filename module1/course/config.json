@@ -70,7 +70,9 @@
       "adapt-skillsFramework",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
-      "adapt-contrib-accordion"
+      "adapt-contrib-accordion",
+      "adapt-contrib-matching",
+      "adapt-contrib-mcq"
     ]
   }
 }

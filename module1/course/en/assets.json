@@ -16,14 +16,6 @@
       }
     ]
   },
-  "1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png": {
-    "title": "Mortality of the British Army",
-    "description": "Mortality of the British Army",
-    "source": "https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg",
-    "licence": "CC0",
-    "attribution": "Florence Nightingale",
-    "tags": []
-  },
   "d28ef400d5d11d9984ac313007e55a2d27589939.png": {
     "title": "Road map",
     "description": "roadmap",
@@ -40,25 +32,9 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg": {
-    "title": "Pointing at data on laptop",
-    "description": "Pointing at data on laptop\n",
-    "source": "https://www.pexels.com/photo/photo-of-a-laptop-on-top-of-table-1516704/",
-    "licence": "CC0",
-    "attribution": "Rawpexel.com",
-    "tags": []
-  },
   "25f27475dd49d435b8ee40e559403a2c42d74095.png": {
     "title": "ARUP V&A Project",
     "description": "ARUP V&A Project",
-    "source": "https://www.arup.com/",
-    "licence": "All rights reserved",
-    "attribution": "ARUP",
-    "tags": []
-  },
-  "83aff34743ac17de0c692893967eff4e0e57097c.png": {
-    "title": "ARUP Seattle disaster modelling",
-    "description": "ARUP Seattle disaster modelling",
     "source": "https://www.arup.com/",
     "licence": "All rights reserved",
     "attribution": "ARUP",
@@ -76,6 +52,14 @@
     "title": "ARUP AI Exhibition",
     "description": "ARUP AI Exhibition",
     "source": "https://www.thegraphicaltree.com",
+    "licence": "All rights reserved",
+    "attribution": "ARUP",
+    "tags": []
+  },
+  "fce21e5f6d5ebce939c793219cb17f56141b527e.png": {
+    "title": "ARUP Double Diamond",
+    "description": "ARUP Double Diamond",
+    "source": "",
     "licence": "All rights reserved",
     "attribution": "ARUP",
     "tags": []

@@ -60,6 +60,97 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Phase 4: Support and maintain",
+    "displayTitle": "Phase 4: Support and maintain",
+    "body": "<p>The last phase in our methodology is the Support and Maintenance of Solutions: where we provide support that enables sustainable solutions to the project&rsquo;s output.</p><p>&nbsp;</p><p><strong>What role can data play in this phase?</strong></p>",
+    "instruction": "",
+    "_id": "5d09172c1e087d056956f906",
+    "_parentId": "5d09172c1e087d056956f904",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "To monitor the performance of the solution",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "To provide insight to inform similar future projects",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "To evaluate if there was an overspend",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      },
+      {
+        "text": "To offload the project team",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -74,30 +165,6 @@
     "_parentId": "5cef94260c284c0541495ffc",
     "_type": "component",
     "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Saving lives",
-    "displayTitle": "Saving lives",
-    "body": "<p>Florence Nightingale managed and trained nurses in taking care of wounded soldiers during the Crimean war (1853-1856).</p><p>She noticed that potentially more people died from diseases than by through combat. &nbsp;To test this hypothesis she collected data from hospitals and from the front line which she analysed, and validated her hypothesis.&nbsp;</p><p>She then created this visual which helped her build a compelling argument that enabled policy makers to make an evidence-built change that addressed how the wounded were taken care of.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5cef8b9c0c284c0541495ff0",
-    "_parentId": "5cef8b7f0c284c0541495fef",
-    "_type": "component",
-    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -138,60 +205,6 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Protecting valuable history",
-    "displayTitle": "Protecting valuable history",
-    "body": "<p>&nbsp;In 2018, ARUP conducted an analysis for the Victoria &amp; Albert Europe Galleries to help them investigate and fix a humidity problem that had to potential to damage their valuable collection.&nbsp;</p><p>A vast amount of data was collected from the air handling systems and combined with additional data and knowledge about use of the gallery.&nbsp;</p><p>The outcome of this investigation was found to be a series of faulty sensors that were causing the system to perform badly.</p>",
-    "instruction": "",
-    "_id": "5cef8e5c0c284c0541495ff7",
-    "_parentId": "5cef8e4c0c284c0541495ff6",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5cef93a00c284c0541495ffb",
-    "_parentId": "5cef935d0c284c0541495ff9",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/83aff34743ac17de0c692893967eff4e0e57097c.png",
-      "small": "course/en/assets/83aff34743ac17de0c692893967eff4e0e57097c.png",
-      "attribution": "<a href=\"https://www.arup.com/\" target=\"_blank\">ARUP</a> <span class='assetLicence'>[All rights reserved]</span>"
-    }
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -228,9 +241,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Stage 1: Defining the question & scope",
-    "displayTitle": "Stage 1: Defining the question & scope",
-    "body": "<p>Although data can help inform us, sometimes it may not be appropriate or lawful to use data. To help establish the appropriateness and lawfulness of collecting and using data a number of questions should first be considered. Such questions might include:</p><ul><li>Will data help solve the problem?</li><li>Does appropriate data exist or be collected?</li><li>Is the data reliable/from a reliable source?</li><li>Is the data biased or affected by targets?</li><li>Do domain experts think it should be used?</li><li>Are there any ethical or legal issues surrounding the collection, use and sharing of the data?</li><li>What are our responsibilities when using data as part of the project?</li></ul>",
+    "title": "Stage 1: Ensure it is appropriate to use data",
+    "displayTitle": "Stage 1: Ensure it is appropriate to use data",
+    "body": "<p>Regardless of the stage of the project you are at. Before simply using data, you need to carefully consider if using data is appropriate, for example it might not be lawful to use data.&nbsp;Such questions might include:</p><ul><li>Will data help solve the problem?</li><li>Does appropriate data exist or be collected?</li><li>Is the data reliable/from a reliable source?</li><li>Is the data biased or affected by targets?</li><li>Do domain experts think it should be used?</li><li>Are there any ethical or legal issues surrounding the collection, use and sharing of the data?</li><li>What are our responsibilities when using data as part of the project?</li></ul>",
     "instruction": "",
     "_id": "5cef95260c284c0541495fff",
     "_parentId": "5cee789964b2fb0565510055",
@@ -247,38 +260,14 @@
   },
   {
     "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Recognising opportunities to use data in projects",
-    "displayTitle": "Recognising opportunities to use data in projects",
-    "body": "<p>Data can help us in many ways. The use of data is not recent either. Explore the examples below to find out:</p><ul><li>How data pioneer Florence Nightingale used data to <strong>test a hypothesis</strong> and help save lives using a compelling data visualisation.</li><li>How ARUP used data to <strong>investigate</strong> the root cause of a major humidity problem in an Art gallery.</li><li>How ARUP used inferential statistics to <strong>build a model</strong> to predict seismic risks to buildings.&nbsp;</li></ul>",
-    "instruction": "",
-    "_id": "5cef8b2c0c284c0541495fee",
-    "_parentId": "5cef8add0c284c0541495fed",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
     "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Using data in projects at ARUP",
-    "displayTitle": "Using data in projects at ARUP",
-    "body": "<p>When used well, there is a huge opportunity for data to be used in projects at ARUP. Data can help us in many ways. Data can be used to test hypothesis. Data can be used to investigate potential solutions. Data can even be used to predict the impact of future changes and events.&nbsp;</p><p>This module explores:</p><ul><li>Examples of uses of data in projects</li><li>How to recognise if data should be used in projects</li><li>The common stages of using data in projects at ARUP</li></ul>",
+    "title": "Working with data at ARUP",
+    "displayTitle": "Working with data at ARUP",
+    "body": "<p dir=\"ltr\">Arup was founded on the belief that the built environment can change people&rsquo;s lives for the better, and shape a better world. Every day, everywhere, we strive to meet this aim helping clients solve their most complex challenges by harnessing our diverse skills and constantly expanding what&rsquo;s technically possible.</p><p dir=\"ltr\">To solve these challenges. there may be many options that are suitable to approach the right solution; The question is therefore, how do we assess the one that is most adequate?</p><p dir=\"ltr\">We have always approached our work with data. Now more than ever, data is available, accessible, varied, and in large volumes that we have to consider how and when will data enhance our solutions.</p><p dir=\"ltr\">It is our skills and capability, coupled with our expertise, data, and the insight it generates that we are able to provide intelligent solutions.</p><p dir=\"ltr\">In this module we will explore how to define the scope of a project when we work with data, and introduce briefly what to expect in the following sections which cover in depth the different aspects of the data lifecycle.</p>",
     "instruction": "",
     "_id": "5cd4188e5f53d705477b708f",
     "_layout": "left",
@@ -291,114 +280,6 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>Data is changing the way we live and work.&nbsp;Demand for workers with specialist data skills has more than tripled over five years (+231%). Organisations around the world are implementing data training programmes to help skills up workers to help domain experts, such as those at ARUP, to make the most of the opportunities data brings.&nbsp;&nbsp;</p><p>Let&rsquo;s bust one myth straight away - we don&rsquo;t all need to become expert programmers of Python or R to be a modern data worker. Organisations who want to use data better will typically need a wide range of skills - from strategy to innovation, data management, statistics and machine learning.</p><p>At ARUP data can help us build better solutions, more complex models based upon more data as well as to monitor projects after completion to ensure sustainability.</p><p>This programme has been developed to help you recognise the opportunities to make strategic use of data in projects and introduces the common stages related to using data in projects at ARUP.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5cee887464b2fb0565510057",
-    "_parentId": "5cecf865eb3e74054d10644d",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Natural disaster modeling",
-    "displayTitle": "Natural disaster modeling",
-    "body": "<p>Amazon, Seattle contacted ARUP to build risk assessment model that identifies the buildings that are at&nbsp;higher risk in the event of an earthquake, and to develop the resilience objectives&nbsp;and strategies to reduce the impact.</p><p>To build this model, the team used data collected from each&nbsp;building&nbsp;and run thousands of simulation models to estimate the casualties, repair costs, and downtime across a range of earthquake intensities.&nbsp;</p><p>In this process, the team ultimately digitalised the information by integrating data into the project workflow - a transformation that received&nbsp;the Gold Award&nbsp;Transformation Awards 2017-18.</p>",
-    "instruction": "",
-    "_id": "5cef939d0c284c0541495ffa",
-    "_parentId": "5cef935d0c284c0541495ff9",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5cef8b9e0c284c0541495ff1",
-    "_parentId": "5cef8b7f0c284c0541495fef",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
-      "small": "course/en/assets/1f04f2be8a4b3b6dfc142ddc44c4fdc43f841689.png",
-      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Nightingale-mortality.jpg\" target=\"_blank\">Florence Nightingale</a> <span class='assetLicence'>[CC0]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5cef8ad70c284c0541495fec",
-    "_parentId": "5cecf865eb3e74054d10644d",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg",
-      "small": "course/en/assets/5eb0e9be849d8451a868e2e3d10aa4775de04021.jpeg",
-      "attribution": "<a href=\"https://www.pexels.com/photo/photo-of-a-laptop-on-top-of-table-1516704/\" target=\"_blank\">Rawpexel.com</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -432,6 +313,30 @@
     }
   },
   {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "There are four phases to our methodology",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">At Arup we use a methodology that helps us approach our projects, and work with our clients. In the following section, we are going to cover the methodology we follow during our project life-cycle. And we will look at a case study to understand how this methodology integrates data to assess its use and fitness to solve our client&rsquo;s concerns.</p>",
+    "instruction": "",
+    "_id": "5d03a2a47cf4f2053e2a9a5d",
+    "_parentId": "5d03a2a37cf4f2053e2a9a5c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
     "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
@@ -457,7 +362,7 @@
     "_items": [
       {
         "title": "Establishing data requirements",
-        "body": "<p>ARUP will often source data from clients. When doing this it is critically important to carefully specify what data we require to solve the problem. We may also source data from multiple clients and it is important that the data is high quality, well structured and interoperable. Spending time and care on getting the right set of requirements saves a lot of time and effort later.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;ARUP will often source data from clients. When doing this it is critically important to carefully specify what data we require to solve the problem. We may also source data from multiple clients and it is important that the data is high quality, well structured and interoperable. Spending time and care on getting the right set of requirements saves a lot of time and effort later.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -467,7 +372,7 @@
       },
       {
         "title": "Data acquisition and sources",
-        "body": "<p>ARUP already acquires data from a number of sources. For data we don&rsquo;t hold already there are a number of acquisition techniques we use regularly and could be reused in your project.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;ARUP already acquires data from a number of sources. For data we don&rsquo;t hold already there are a number of acquisition techniques we use regularly and could be reused in your project.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -477,7 +382,7 @@
       },
       {
         "title": "Data storage and management",
-        "body": "<p>Once data is acquired, we need to store and manage it appropriately. At this point we must consider both our needs and responsibilities in order to make the best decision about how to store the data and what continual management processes are required to ensure we fulfil our obligations with that data.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;Once data is acquired, we need to store and manage it appropriately. At this point we must consider both our needs and responsibilities in order to make the best decision about how to store the data and what continual management processes are required to ensure we fulfil our obligations with that data.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -487,7 +392,7 @@
       },
       {
         "title": "Cleaning and transforming data",
-        "body": "<p>Unless data is collected specifically for the project it is unlikely the data will be a perfect fit. The process of cleaning and transforming data is used to ensure that the quality and usability of the data is maximised. This helps ensure that results are robust and reliable.</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;Unless data is collected specifically for the project it is unlikely the data will be a perfect fit. The process of cleaning and transforming data is used to ensure that the quality and usability of the data is maximised. This helps ensure that results are robust and reliable.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -497,6 +402,747 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Phase 3: Design and build solution",
+    "displayTitle": "Phase 3: Design and build solution",
+    "body": "<p dir=\"ltr\">Phase 3 is the second iteration of the double diamond method. We follow the same pattern of divergent and convergent thinking, this time focusing on solutions that address a fully understood problem.</p><p dir=\"ltr\">Many potential solutions might be investigated at this stage before the final one is proposed. Solutions might require a simple change in behaviour or the implementation of an existing system. Alternatively, a long complex project may require to install a whole new solution. Likewise, the output of this phase could be a simple solution brief or a large solution proposal.</p>",
+    "instruction": "",
+    "_id": "5d0916cc1e087d056956f901",
+    "_parentId": "5d0916cc1e087d056956f900",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which of the following must be done between each phase?",
+    "displayTitle": "Which of the following must be done between each phase?",
+    "body": "",
+    "instruction": "",
+    "_id": "5d0919091e087d056956f90e",
+    "_parentId": "5d0919081e087d056956f90c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Review against original problem statement, goals and objectives",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Check time and budget",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      },
+      {
+        "text": "Collect data ready for the next phase",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Can you put them in order?",
+    "displayTitle": "Can you put them in order?",
+    "body": "",
+    "instruction": "",
+    "_id": "5d066376a6999a055af122d9",
+    "_parentId": "5d0662efa6999a055af122d0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Phase 1",
+        "_options": [
+          {
+            "text": "Establish the Motivation",
+            "_isCorrect": true
+          },
+          {
+            "text": "Discover & Define the Requirements",
+            "_isCorrect": false
+          },
+          {
+            "text": "Design & Build the Solution",
+            "_isCorrect": false
+          },
+          {
+            "text": "Support & Maintenance ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Phase 2",
+        "_options": [
+          {
+            "text": "Establish the Motivation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Discover & Define the Requirements",
+            "_isCorrect": true
+          },
+          {
+            "text": "Design & Build the Solutions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Support & Maintenance ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Phase 3",
+        "_options": [
+          {
+            "text": "Establish the Motivation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Discover & Define the Requirements ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Design & Build the Solutions",
+            "_isCorrect": true
+          },
+          {
+            "text": "Support & Maintenance ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Phase 4",
+        "_options": [
+          {
+            "text": "Establish the Motivation",
+            "_isCorrect": false
+          },
+          {
+            "text": "Discover & Define the Requirements ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Design & Build the Solutions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Support & Maintenance ",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Each stage is equally important to inform the next. Often the first stage &quot;Establishing the Motivation&quot; is missed in order to get right into discovery. Typically this happens when it is presumed the goals and objectives are clear. However not every point of view might have been considered.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Each stage is equally important to inform the next. Often the first stage &quot;Establishing the Motivation&quot; is missed in order to get right into discovery. Typically this happens when it is presumed the goals and objectives are clear however not every point of view might have been considered.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Our approach: The double-diamond methodology",
+    "displayTitle": "Our approach: The double-diamond methodology",
+    "body": "",
+    "instruction": "",
+    "_id": "5d0668cea6999a055af122e5",
+    "_parentId": "5d0668cea6999a055af122e4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fce21e5f6d5ebce939c793219cb17f56141b527e.png",
+      "small": "course/en/assets/fce21e5f6d5ebce939c793219cb17f56141b527e.png",
+      "attribution": "ARUP <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Phase 1: Establishing Motivation",
+    "displayTitle": "Phase 1: Establishing Motivation",
+    "body": "<p>The initial stage in every project begins with the definition and scope of the project. In our methodology we define this stage as: &lsquo;Establish Motivation&rsquo; where we establish our client&rsquo;s motivation as well as our own to determine the right goals and objectives. At the end of this stage the project brief is created.</p><p>&nbsp;</p><p><strong>Which of the following should be contained in a design brief?</strong></p>",
+    "instruction": "",
+    "_id": "5d09151b1e087d056956f8fe",
+    "_parentId": "5d0914b51e087d056956f8f4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Problem Statement ",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Goals and objectives",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Map of stakeholders",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Budget and schedule ",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Detailed design brief",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What would you do after collecting data?",
+    "displayTitle": "What would you do after collecting data?",
+    "body": "",
+    "instruction": "",
+    "_id": "5d0a0e42f284ec05609f22c5",
+    "_parentId": "5d0a0e42f284ec05609f22c4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Move to the next phase and start to design solutions",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Are you sure about that?</p>"
+      },
+      {
+        "text": "Investigate the reliability of third party data (i.e. that from the existing system)",
+        "_shouldBeSelected": true,
+        "feedback": "<p>That&#39;s right!</p><p>&nbsp;</p><p dir=\"ltr\">Before moving forwards or backwards in stages it may be necessary to check the reliability of collected data, especially that coming from third parties and existing systems.</p><p dir=\"ltr\">In the case of the gallery, additional sensors were installed to verify the reading coming from the existing humidity control system. By comparing data from a new set of calibrated sensors to those already installed it was discovered that the sensors were faulty and not triggering the humidity control system at the right times.</p>"
+      },
+      {
+        "text": "Go back and redefine the problem",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Are you sure about that?</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">In 2018, ARUP was contracted by a large art gallery to help them investigate and overcome an apparent humidity problem that had the potential to damage the valuable art collection that was stored in the basement.</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\"><strong>If you were the decision maker leading this project, what would you do first?</strong></p>",
+    "instruction": "",
+    "_id": "5d0a06a7f284ec05609f22b1",
+    "_parentId": "5cef8e4c0c284c0541495ff6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Engineer a new humidity control systmem",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Although the client has approached us with a problem, we still need to establish the extent of the problem and scope the objectives and measures of success. This allows our experts to check the problem the client has identified is actually the problem. In the example of a gallery, maybe another source of humidity has been introduced that can simply be removed.</p>"
+      },
+      {
+        "text": "Work with the client to scope the problem and set objectives",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Gather data to analyse the cause of the problem",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Although the client has approached us with a problem, we still need to establish the extent of the problem and scope the objectives and measures of success. This allows our experts to check the problem the client has identified is actually the problem. In the example of a gallery, maybe another source of humidity has been introduced that can simply be removed.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Repeating stages",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">The jump from one phase to another is another is not linear; we might need to iterate our solutions by jumping back to a previous stage. For example, the first discovery phase may result in an inconclusive design brief. In this case either more discovery may be required, or it might be necessary to go back a stage an re-evaluate the problem statement.</p><p>&nbsp;</p><p dir=\"ltr\">In all cases, it is better to go back rather than designing, building and delivering the wrong solution, which has the danger to cause us and our client high costs and damage.</p>",
+    "instruction": "",
+    "_id": "5d0a01daf284ec05609f22b0",
+    "_parentId": "5d0a0177f284ec05609f22a8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Stakeholder engagement",
+    "displayTitle": "Stakeholder engagement",
+    "body": "<p>The divergent-convergent thinking process is a learning journey. For a project to be a success, all stakeholders will likely need to be involved in this journey. Think of the width of the diamonds representing the number of stakeholders involved, both internally and externally at those two crucial phases.</p><p>&nbsp;</p><p><strong>At what point should stakeholders be able to engage with us?</strong></p>",
+    "instruction": "",
+    "_id": "5d066a08a6999a055af122ef",
+    "_parentId": "5d0669ffa6999a055af122ee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "At the beginning to set goals and objectives",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "During the reviews",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "During the double diamond approach",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "During the production reports and briefs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d0a0f44f284ec05609f22cf",
+    "_parentId": "5d0a0f11f284ec05609f22ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Data collection points",
+        "body": "<p dir=\"ltr\">Data can play a key role in all phases of our methodology. Does that mean that we only need one dataset to solve the problem? Probably not. Relying on one dataset can lead to the wrong conclusions; using data from a variety of sources will improve the quality and robustness of our solution.</p><p>Data can come from a number of sources. Some we may already have, some might come from the client or third parties and sometimes we might need to collect new data.</p><p dir=\"ltr\">In our Gallery case study, the client &nbsp;gave us access to data from the current humidity control system to analyse as part of the discovery phase. We also worked with the client to collect additional data about the usage of the gallery to help us identify any correlations between the high levels of humidity and aspects such as number of current visitors.</p><p dir=\"ltr\">At the end of the Discovery phase, analysis of the data led to no conclusive design brief. The problem still wasn&rsquo;t clear. No correlation was found between the humidity and any given condition.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Finding the right solution",
+        "body": "<p dir=\"ltr\">A set of faulty sensors was the entire cause of the humidity problem in the gallery.</p><p>A detailed discovery phase led to a quick and efficient design &amp; build phase. The best solution also turned out to be the cheapest and least impact on the usage of the gallery.</p><p dir=\"ltr\">Following the four phase methodology incentives the revision of insights and proposed solutions, avoiding jumping directly to an initial instinct which might have been the design of an entire new humidity control system.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Obtaining data",
+        "body": "<p dir=\"ltr\">As we have seen, the insight data provides help us deliver the right solution to our customers.</p><p dir=\"ltr\">Let&rsquo;s bust one myth straight away - we don&rsquo;t all need to become expert programmers to make better use of data.</p><p dir=\"ltr\">This remainder of this programme focuses on the common stages related to using data at ARUP and how these will enhance and complement your expertise.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
   },
   {
     "_component": "graphic",
@@ -509,10 +1155,10 @@
     "displayTitle": "",
     "body": "",
     "instruction": "",
-    "_id": "5cef8e5e0c284c0541495ff8",
+    "_id": "5d0a08daf284ec05609f22b8",
     "_parentId": "5cef8e4c0c284c0541495ff6",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -529,6 +1175,36 @@
     }
   },
   {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d0662efa6999a055af122d1",
+    "_parentId": "5d0662efa6999a055af122d0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -537,7 +1213,7 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>When used well, there is a huge opportunity for data to be used in projects at ARUP. Data can help us in many ways. Data can be used to test hypothesis that help save lives. Data can be used to investigate potential solutions to humidity damaging artwork. Data can even be used to predict the impact of earthquakes on business assets.&nbsp;</p><p>The first stage in any project that considers using data is to establish if it is appropriate and lawful to do so. Involving domain experts and users at this stage is critical to establish this as well as expectations that each group has.&nbsp;</p><p>Having established that it is appropriate and lawful to use data as part of a project, there are a number of stages common to all projects that use data. You can find out more about each in more detail within the ARUP university platform.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">ARUP is an engineering firm, and we are driven by helping our clients to come up with the most effective solution. The four phase methodology, facilitated by data, can help us deliver the right solutions to our clients.</p><p dir=\"ltr\">ARUP is already data rich and we do lots with data. There is a huge opportunity to do more with data. We must also be able to recognise when data won&#39;t help, or worse, lead to the wrong solution.</p><p>The rest of this course focuses on how we work with data and will help you get the most from data in your projects.</p>",
     "instruction": "",
     "_id": "5cef95b70c284c0541496009",
     "_parentId": "5cef95b30c284c0541496008",
@@ -550,6 +1226,92 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Phase 2: Discover and define requirements",
+    "displayTitle": "Phase 2: Discover and define requirements",
+    "body": "<p dir=\"ltr\">Once the motivation has been established and the project brief created, you enter the Discover and Define Requirements phase. This phase is the first iteration in the double diamond method. Each diamond in this method represents a process of divergent and convergent thinking; in the first instance this is used to Discover insight into the problem (divergent) and Define the area of focus (convergent). This phase is critically important to ensure that the actual problem has been identified. At the end of this phase we create the design brief that displays what we have analysed so far.</p><p dir=\"ltr\">This phase is similar to the diagnosis phase in the medical profession. The patient may have come in with chest pain, but the cause could have been caused by a trapped nerve in the back.</p><p dir=\"ltr\">Our expertise at ARUP is critical in this phase to ensure that we diagnose the real cause of the problem and can focus on the right set of solutions.</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\"><strong>What role can data play in the discover and define requirements phase?</strong></p>",
+    "instruction": "",
+    "_id": "5d0917321e087d056956f90a",
+    "_parentId": "5d0917321e087d056956f908",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Provide insight into the problem",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Keep the project on time and on budget",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      },
+      {
+        "text": "Monitor the success of the project",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Try again!</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -578,7 +1340,7 @@
     "_items": [
       {
         "title": "Exploratory data analysis",
-        "body": "<p>Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. Primarily EDA has two purposes (1) to check&nbsp;assumptions, completeness,&nbsp; model fitting and hypothesis testing (2) to formulate hypotheses that could lead to new data collection and experiments.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. Primarily EDA has two purposes (1) to check&nbsp;assumptions, completeness,&nbsp; model fitting and hypothesis testing (2) to formulate hypotheses that could lead to new data collection and experiments.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -588,7 +1350,7 @@
       },
       {
         "title": "Deeper analysis, prediction and machine learning",
-        "body": "<p>Exploratory data analysis will reveal the opportunity to perform deeper analysis using the data and even build models that predict potential outcomes. More complex techniques including machine learning can also help us process and build models based upon vast amounts of data.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;Exploratory data analysis will reveal the opportunity to perform deeper analysis using the data and even build models that predict potential outcomes. More complex techniques including machine learning can also help us process and build models based upon vast amounts of data.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -598,7 +1360,7 @@
       },
       {
         "title": "Validating results",
-        "body": "<p>Regardless of how we analyse data or the model we build it is necessary to validate the results and clearly outline any limitations in the analysis.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;Regardless of how we analyse data or the model we build it is necessary to validate the results and clearly outline any limitations in the analysis.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -608,7 +1370,7 @@
       },
       {
         "title": "Communicating outputs",
-        "body": "<p>All of this analysis amounts to nothing if it isn&rsquo;t effectively used in the decision making process. Using a compelling way to communicate the results, such as a carefully crafted visualisation or immersive experience can reassure our clients about the expertise that ARUP is able to bring to solutions designed using data.&nbsp;</p>",
+        "body": "<p>[TO BE FINALISED ONCE THE RELATED MODULE IS COMPLETE]&nbsp;All of this analysis amounts to nothing if it isn&rsquo;t effectively used in the decision making process. Using a compelling way to communicate the results, such as a carefully crafted visualisation or immersive experience can reassure our clients about the expertise that ARUP is able to bring to solutions facilities by data.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
