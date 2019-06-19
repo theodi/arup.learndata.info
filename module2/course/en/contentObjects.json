@@ -55,5 +55,62 @@
       "_isEnabled": true,
       "_showPageCompletion": true
     }
+  },
+  {
+    "title": "[BACKUP] Data requirements",
+    "displayTitle": "[BACKUP] Data requirements",
+    "body": "<p>This module will re-introduce people to the characteristics of data and focus on the data lifecycle in order to raise awareness of what data is, where it comes from and how it is managed throughout the entire data lifecycle. By the end of the module participants should be able to:</p><ul dir=\"ltr\"><li>Describe a dataset (i.e. types, attributes, volume, sources)</li><li>Identify constraints with the dataset (what can/can&rsquo;t be done with it)</li><li>Describe the complete data lifecycle</li></ul>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d060e21a6999a055af12200",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe a dataset (i.e. types, attributes, volume, sources)",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify constraints with the dataset",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Describe the complete data lifecycle",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
   }
 ]

@@ -46,7 +46,7 @@
     }
   },
   {
-    "title": "Dataset type",
+    "title": "Data type",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -115,7 +115,7 @@
     }
   },
   {
-    "title": "Sample size",
+    "title": "Sampling",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -184,7 +184,7 @@
     }
   },
   {
-    "title": "Outliers & robustness",
+    "title": "Outliers and robustness",
     "displayTitle": "",
     "body": "",
     "_classes": "",

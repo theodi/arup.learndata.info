@@ -3,7 +3,7 @@
   "displayTitle": "ARUP Module 2 - Data requirements",
   "body": "<p>This module will re-introduce people to the characteristics of data and focus on the data lifecycle in order to raise awareness of what data is, where it comes from and how it is managed throughout the entire data lifecycle. By the end of the module participants should be able to:</p><ul dir=\"ltr\"><li>Describe a dataset (i.e. types, attributes, volume, sources)</li><li>Identify constraints with the dataset (what can/can&rsquo;t be done with it)</li><li>Describe the complete data lifecycle</li></ul>",
   "description": "",
-  "_latestTrackingId": 10,
+  "_latestTrackingId": 33,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -75,8 +75,14 @@
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
       }
     },
     "_extensions": {
@@ -106,6 +112,9 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_resources": {
+        "resourcesEnd": "You have reached the end of the list of resources."
       }
     }
   },
@@ -153,5 +162,41 @@
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "ARUP-company-data",
+        "filename": "ARUP-company-data",
+        "description": "ARUP-company-data",
+        "_link": "course/en/assets/3b3f1b5e9991aa061eacfaf808dab1fccf7b3199.csv"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "ARUP-JSON-Schema",
+        "filename": "ARUP-JSON-Schema",
+        "description": "ARUP-JSON-Schema",
+        "_link": "course/en/assets/009bc92a4d6d6ccc22b1912fd31febfe9a3bc4d8.json"
+      }
+    ]
   }
 }

@@ -24,7 +24,7 @@
     "_isVisible": true,
     "title": "Some graphs are less clear than others...",
     "displayTitle": "Some graphs are less clear than others...",
-    "body": "<p dir=\"ltr\">Not all graphs and charts are clear to interpret and should be used with care. We have highlighted a number of these in the following section.</p>",
+    "body": "<p dir=\"ltr\">Not all graphs and charts are easy&nbsp;to interpret and should be used with care. We have highlighted a number of these in the following section.</p>",
     "instruction": "",
     "_id": "5cefc3d60c284c0541496049",
     "_parentId": "5cefc3d60c284c0541496048",
@@ -76,9 +76,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Outliers & robustness",
-    "displayTitle": "Outliers & robustness",
-    "body": "<p><strong>The mean is not a robust measure of average. Consider using the median instead.&nbsp;</strong></p><p>Take the following list of numbers, where two numbers have been added to the list from previously.</p><p>3, 5, 8, 10, 13, 13, 18,&nbsp;<strong>21, 104</strong></p><p><strong>104</strong> is an extreme value, often called an outlier, as it doesn&#39;t fit the &#39;pattern&#39; of the rest of the numbers.</p>",
+    "title": "Outliers and robustness",
+    "displayTitle": "Outliers and robustness",
+    "body": "<p><strong>The mean is not a robust measure of central tendency and is affected by outliers. Consider using the median instead.&nbsp;</strong></p><p>Take the following list of numbers, where two numbers have been added to the list from previously.</p><p>3, 5, 8, 10, 13, 13, 18,&nbsp;<strong>21, 104</strong></p><p><strong>104</strong> is an extreme value, often called an outlier, as it doesn&#39;t fit the &#39;pattern&#39; of the rest of the numbers.</p>",
     "instruction": "",
     "_id": "5ce7c61d0c9aa6055a8d2182",
     "_parentId": "5ce7c5b80c9aa6055a8d217d",
@@ -102,7 +102,7 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p dir=\"ltr\">Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA will often use a combination of descriptive and graphical methods in order to:</p><ul><li>Identify issues in the data</li><li>Test assumptions and suggest hypothesis for evaluation</li><li>Support the selection of appropriate analytical tools and techniques</li><li>Provide a basis for the further collection or pre-processing of data prior to evaluation.</li></ul><p>There are a wide variety of techniques that can be used to perform EDA, each suited for different types of data and objectives. Pick carefully when doing your own exploratory data analysis;&nbsp;even picking the wrong average can lead to problems!</p>",
+    "body": "<p dir=\"ltr\">Exploratory data analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA will often use a combination of descriptive and graphical methods in order to:</p><ul><li>identify issues in the data</li><li>test assumptions and suggest hypothesis for evaluation</li><li>support the selection of appropriate analytical tools and techniques</li><li>provide a basis for the further collection or pre-processing of data prior to evaluation.</li></ul><p>There are a wide variety of techniques that can be used to perform EDA, each suited for different types of data and objectives. Pick carefully when doing your own EDA;&nbsp;even picking the wrong measure of average&nbsp;can lead to problems!</p>",
     "instruction": "",
     "_id": "5ce66cbc1e8911053ed450e8",
     "_parentId": "5ce66cbc1e8911053ed450d7",
@@ -154,9 +154,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "The box-and-whisker plot",
-    "displayTitle": "The box-and-whisker plot",
-    "body": "<p>The box-and-whisker plot is a way to visually show the&nbsp;<strong>location</strong>,&nbsp;<strong>spread</strong>&nbsp;and&nbsp;<strong>range</strong>&nbsp;of the data using the five-number summary, as shown.</p><p>The&nbsp;<strong>whiskers</strong>&nbsp;show the minimum and maximum values and thus show the&nbsp;<strong>range</strong>&nbsp;of the data.</p><p>The&nbsp;<strong>box</strong>&nbsp;is plotted between the lower and upper quartiles. The box shows the&nbsp;<strong>interquartile range</strong>&nbsp;(<strong>IQR</strong>) or&nbsp;<strong>middle 50%</strong>&nbsp;and is the most significant basic robust measure of scale.</p><p>The size of the IQR boxes also show the&nbsp;<strong>spread&nbsp;</strong>of the data, with a smaller box representing a smaller spread and vice-versa.</p>",
+    "title": "Box-and-whisker plot",
+    "displayTitle": "Box-and-whisker plot",
+    "body": "<p>A box-and-whisker plot (or box-plot) is a way to visually show the&nbsp;<strong>location</strong>,&nbsp;<strong>spread</strong>&nbsp;and&nbsp;<strong>range</strong>&nbsp;of the data using the five-number summary, as shown.</p><p>The&nbsp;<strong>whiskers</strong>&nbsp;show the minimum and maximum values and therefore illustrate&nbsp;the&nbsp;<strong>range</strong>&nbsp;of the data.</p><p>The&nbsp;<strong>box</strong>&nbsp;is plotted between the lower and upper quartiles. The box shows the&nbsp;<strong>interquartile range</strong>&nbsp;(<strong>IQR</strong>) or&nbsp;<strong>middle 50%</strong>&nbsp;and is the most significant basic robust measure of scale.</p><p>The size of the IQR boxes also show the&nbsp;<strong>spread&nbsp;</strong>of the data, with a smaller box representing a smaller spread and vice-versa.</p>",
     "instruction": "",
     "_id": "5ce7c7480c9aa6055a8d2187",
     "_parentId": "5ce7c7480c9aa6055a8d2185",
@@ -180,7 +180,7 @@
     "_isVisible": true,
     "title": "Area and stacked area charts",
     "displayTitle": "Area and stacked area charts",
-    "body": "<p>Area charts&nbsp;are line charts&nbsp;but with the area below the line filled in with a certain colour or texture. This colour or texture adds an indication of something with volume (we might see it might a mountain range). A stacked area chart is thus confusing on the eye as does the shading suggest that all series will descend to zero (mountain ranges behind each other) or are stacked on top of each other?</p>",
+    "body": "<p>Area charts&nbsp;are line charts&nbsp;but with the area below the line filled in with a certain colour or texture. This colour or texture adds an indication of something with volume (we might imagine&nbsp;it as a mountain range). A stacked area chart can be difficult to read:&nbsp;Does the shading suggest that all series will descend to zero (mountain ranges behind each other) or are stacked on top of each other?</p>",
     "instruction": "",
     "_id": "5cefc4700c284c054149604f",
     "_parentId": "5cefc46f0c284c054149604b",
@@ -240,7 +240,7 @@
     "_isVisible": true,
     "title": "Line chart",
     "displayTitle": "Line chart",
-    "body": "<p>Line Graphs are used to display quantitative values over a continuous interval or time period. A Line Graph is most frequently used to show trends and analyse how the data has changed over time.</p><p>The direction of the lines on the graph works as a nice metaphor for the data: an upward slope indicates where values have increased and a downward slope indicates where values have decreased. The line&#39;s journey across the graph can create patterns that reveal trends in a dataset.</p>",
+    "body": "<p>Line charts are used to display quantitative values over a continuous interval or time period. A line chart&nbsp;is most frequently used to show trends and analyse how the data has changed over time.</p><p>The direction of the lines on the graph works as a nice metaphor for the data: an upward slope indicates where values have increased and a downward slope indicates where values have decreased. The line&#39;s journey across the graph can create patterns that reveal trends in a dataset.</p>",
     "instruction": "",
     "_id": "5cefbf170c284c0541496039",
     "_parentId": "5cefbf160c284c0541496038",
@@ -270,7 +270,7 @@
     "_isVisible": true,
     "title": "Bar chart",
     "displayTitle": "Bar chart",
-    "body": "<p>The classic Bar Chart uses either horizontal or vertical bars (column chart) to show discrete, numerical comparisons across categories. One axis of the chart shows the specific categories being compared and the other axis represents a discrete value scale.</p><p>A bar chart is the clearest visualisation to show differences between categories.&nbsp;</p>",
+    "body": "<p>The classic bar chart uses either horizontal or vertical bars (column chart) to show discrete, numerical comparisons across categories. One axis of the chart shows the specific categories being compared and the other axis represents a discrete value scale.</p><p>A bar chart is the clearest visualisation to show differences between categories.&nbsp;</p>",
     "instruction": "",
     "_id": "5cefbadd0c284c0541496031",
     "_parentId": "5cefbaca0c284c0541496030",
@@ -300,7 +300,7 @@
     "_isVisible": true,
     "title": "Dimensionality",
     "displayTitle": "Dimensionality",
-    "body": "<p>The majority of data we deal with today contains a high number of dimensions,&nbsp;also known as <strong>multivariate</strong>. This is simply a way of saying that each record in a dataset has a high number of variables (&gt;3 variables = multivariate, 2 = bivariate, 1 = univariate).</p><p>When a high number of variables are collected we must be aware of&nbsp;<strong>variable dependance,&nbsp;</strong>will a change of value for one variable affect the value of another, thus are the variables intrinsically connected.&nbsp;</p><p>Highly dimensional datasets could also be semi-structured or contain nested data, thus increasing the complexity.</p><p><em>Picture: Something like the cover of the book &quot;Multivariate data analysis&quot;</em></p>",
+    "body": "<p>The majority of data we deal with today contains a high number of dimensions,&nbsp;also known as <strong>multivariate</strong>. This is simply a way of saying that each record in a dataset has a high number of variables</p><ul><li>More than three&nbsp;variables = multivariate</li><li>Two variables = bivariate</li><li>One variable&nbsp;= univariate</li></ul><p>When a high number of variables are collected we must be aware of&nbsp;<strong>variable dependence:&nbsp;</strong>when&nbsp;a change of value for one variable affects the value of another,&nbsp;thus the&nbsp;variables are intrinsically connected.&nbsp;</p><p>Highly dimensional datasets could also be semi-structured or contain nested data, thus&nbsp;increasing the complexity.</p><p><em>Picture: Something like the cover of the book &quot;Multivariate data analysis&quot;</em></p>",
     "instruction": "",
     "_id": "5cefa3b90c284c0541496022",
     "_parentId": "5cefa3250c284c054149601d",
@@ -324,7 +324,7 @@
     "_isVisible": true,
     "title": "Component title",
     "displayTitle": "",
-    "body": "<p>The following table compares the averages from the previous list to this new list:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>&nbsp;</td><td>Previous list</td><td>New list</td><td>Change</td></tr><tr><td>Mean</td><td>10</td><td>21</td><td>+11</td></tr><tr><td>Median</td><td>10</td><td>13</td><td>+3</td></tr><tr><td>Mode</td><td>13</td><td>13</td><td>0</td></tr></tbody></table><p>We can see here that the mean is badly affected by outliers, thus the mean is the&nbsp;<strong>least robust</strong>&nbsp;average. The median has&nbsp;<strong>medium robustness</strong>&nbsp;and the mode is the&nbsp;<strong>most robust&nbsp;</strong>with no change.</p>",
+    "body": "<p>The following table compares the mean, median, and mode&nbsp;from the first&nbsp;list (3, 5, 8, 10, 13, 13, 18) to this mean, median and mode from the second&nbsp;list, which includes outliers (3, 5, 8, 10, 13, 13, 18, 21, 104):</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>&nbsp;</td><td>First list</td><td>Second list</td><td>Change</td></tr><tr><td>Mean</td><td>10</td><td>21</td><td>+11</td></tr><tr><td>Median</td><td>10</td><td>13</td><td>+3</td></tr><tr><td>Mode</td><td>13</td><td>13</td><td>0</td></tr></tbody></table><p>We can see here that the mean is badly affected by outliers, showing that the mean is the&nbsp;<strong>least robust</strong>. The median has&nbsp;<strong>medium robustness</strong>&nbsp;and the mode is the&nbsp;<strong>most robust&nbsp;</strong>with no change.</p>",
     "instruction": "",
     "_id": "5cf37cb8c192f50575596a59",
     "_parentId": "5ce7c5b80c9aa6055a8d217d",
@@ -346,9 +346,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "1. Establishing the type and features of data",
-    "displayTitle": "1. Establishing the type and features of data",
-    "body": "<p dir=\"ltr\">Not all data is the same, thus will need treating differently depending on the type and features of the data.</p><p dir=\"ltr\">We have selected a number of different types and features of data to explore in this section.</p>",
+    "title": "1. Establishing data types and features ",
+    "displayTitle": "1. Establishing data types and features ",
+    "body": "<p dir=\"ltr\">Not all data is the same and will need treating differently depending on its type and<br />features.&nbsp;</p><p dir=\"ltr\">In this section, we have selected&nbsp;different data types and features to explore.</p>",
     "instruction": "",
     "_id": "5cefa2c90c284c0541496018",
     "_parentId": "5cefa2390c284c0541496016",
@@ -370,7 +370,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Dataset types",
+    "title": "Data type",
     "displayTitle": "",
     "body": "",
     "instruction": "",
@@ -402,7 +402,7 @@
     "_isVisible": true,
     "title": "Histogram",
     "displayTitle": "Histogram",
-    "body": "<p>A Histogram visualises the distribution of data.&nbsp;Histograms help indicate the shape of the data and any skew. This helps establish the type of analysis that can and cannot be performed on the data. Histograms also give an estimate as to where values are concentrated, what the extremes are and whether there are any gaps or unusual values.</p>",
+    "body": "<p>A histogram visualises the distribution of data.&nbsp;Histograms help indicate the shape of the data and any skew. This helps establish the type of analysis that can and cannot be performed on the data. Histograms also give an estimate of where values are concentrated, what the extremes are and whether there are any gaps or unusual values.</p>",
     "instruction": "",
     "_id": "5cefc3300c284c0541496041",
     "_parentId": "5cefc3300c284c0541496040",
@@ -432,7 +432,7 @@
     "_isVisible": true,
     "title": "Stream graph",
     "displayTitle": "Stream graph",
-    "body": "<p>A stream graph is a stacked area graph but with a central axis. Stream graphs&nbsp;are ideal for displaying high-volume datasets, in order to discover trends and patterns over time across a wide range of categories.&nbsp;</p><p>The downside to Stream Graphs is that they suffer from legibility issues, as they are often very cluttered with large datasets. The categories with smaller values are often drowned out to make way for categories with much larger values, making it impossible to see all the data. Also, it&#39;s impossible to read the exact values visualised in a Stream Graph, as there is no axis to use as a reference.</p>",
+    "body": "<p>A stream graph is a stacked area graph but with a central axis. Stream graphs&nbsp;are ideal for displaying high-volume datasets, to identify&nbsp;trends and patterns over time across a wide range of categories.&nbsp;</p><p>The downside to stream graphs is that they suffer from legibility issues, as they are often very cluttered with large datasets. The categories with smaller values are often drowned out to make way for categories with much larger values, making it impossible to see all the data. Also, it&#39;s impossible to read the exact values visualised in a stream graph, as there is no axis to use as a reference.</p>",
     "instruction": "",
     "_id": "5cefc5680c284c0541496054",
     "_parentId": "5cefc5680c284c0541496053",
@@ -462,7 +462,7 @@
     "_isVisible": true,
     "title": "2. Descriptive methods to analyse data",
     "displayTitle": "2. Descriptive methods to analyse data",
-    "body": "<p dir=\"ltr\">Descriptive statistics&nbsp;summarize a given data set, which can be either a representation of the entire or a sample of a population. Descriptive statistics are broken down into measures of central tendency and measures of dispersion (spread).</p>",
+    "body": "<p dir=\"ltr\">Descriptive statistics&nbsp;summarise a given data set, which can be either a representation of the entire population or a sample of a population. Descriptive statistics are broken down into measures of central tendency and measures of dispersion (spread).</p>",
     "instruction": "",
     "_id": "5cefa4850c284c0541496026",
     "_parentId": "5cefa4850c284c0541496025",
@@ -505,8 +505,8 @@
     "_setCompletionOn": "inview",
     "_items": [
       {
-        "title": "Whole population",
-        "body": "<p>A population is a whole, it&#39;s every member of a group. Completely the opposite of a sample.&nbsp;</p><p>It is very rare that the complete population will be available (or collectable). Even if you have every data point collected, this&nbsp;is also unlikely to cover the whole population.&nbsp;</p><p>Careful consideration of sampling method is important to eliminate&nbsp;sample bias.&nbsp;</p><p>&nbsp;</p>",
+        "title": "Whole population sampling",
+        "body": "<p>A population is a whole, it&#39;s every member of a group. A population is the opposite of a sample.&nbsp;</p><p>It is very rare that the complete population will be available (or collectable). Even if you have every data point collected, this&nbsp;is also unlikely to cover the whole population.&nbsp;</p><p>It is important to carefully consider&nbsp;sampling methods&nbsp;to eliminate sample bias.&nbsp;Sampling bias occurs when the method used to create the sample results in samples that are systematically different from the population the samples are taken from.</p>",
         "_graphic": {
           "src": "course/en/assets/241b8f5efe4a9ae035aaf75fa48d92a76449452a.png",
           "alt": "",
@@ -515,8 +515,8 @@
         "strapline": "Whole population"
       },
       {
-        "title": "Random",
-        "body": "<p>Each individual is chosen entirely by chance and each member of the population has an equal chance of being selected.&nbsp;</p><p>Random samples require a way of naming or numbering the target population and then using some type of raffle method to choose those to make up the sample.</p><p>Random sampling is the&nbsp;best method of selecting your sample from the population of interest as it is&nbsp;not subject to sampling bias.</p>",
+        "title": "Random sampling",
+        "body": "<p>In a random sample, each individual is chosen entirely by chance and each member of the population has an equal chance of being selected.&nbsp;</p><p>Random samples require a way of naming or numbering the target population and then using some type of raffle method to choose those to make up the sample.</p><p>Random sampling is the&nbsp;best method of selecting your sample from the population of interest as there is less chance of&nbsp;sampling bias.</p>",
         "_graphic": {
           "src": "course/en/assets/e25b99988906329601bc9927610ff8b2aa3ea7e7.png",
           "alt": "",
@@ -525,7 +525,7 @@
         "strapline": "Random"
       },
       {
-        "title": "Convenience",
+        "title": "Convenience sampling",
         "body": "<p>Convenience sampling is perhaps the easiest&nbsp;method of sampling.</p><p>Convenience sampling is a non-probabilistic method of sampling where the sample is essentially the most willing subset of the population.&nbsp;</p><p>In an ordered list, this might simply be the first X items. Or if collecting data from people it will be those&nbsp;available&nbsp;and willing&nbsp;to take part.</p><p>Useful results can be obtained, but the results are prone to significant volunteer bias.</p>",
         "_graphic": {
           "src": "course/en/assets/85aab02dfdcfda134ccdcdf573fadcb19ee160ff.png",
@@ -535,7 +535,7 @@
         "strapline": "Convenience"
       },
       {
-        "title": "Clustered",
+        "title": "Clustered sampling",
         "body": "<p>In a clustered sample, the population is divided into subgroups, known as clusters, which are randomly selected to be included in the study.&nbsp;</p><p>Clusters are usually already defined, for example individual GP practices or towns could be identified as clusters.</p><p>In single-stage cluster sampling, all members of the chosen clusters are then included in the study. In two-stage cluster sampling, a selection of individuals from each cluster is then randomly selected for inclusion.</p>",
         "_graphic": {
           "src": "course/en/assets/a2f951fd24a03a95832d1f8df1919b486320859a.png",
@@ -545,8 +545,8 @@
         "strapline": "Clustered"
       },
       {
-        "title": "Systematic",
-        "body": "<p>In Systematic sampling, individuals are selected at regular intervals from the population.&nbsp;</p><p>Systematic sampling is often more convenient than random sampling, and it is easy to administer. However,&nbsp;it may also lead to bias, for example if there are underlying patterns in the order of the individuals in the population.</p>",
+        "title": "Systematic clustering",
+        "body": "<p>In systematic sampling, individuals are selected at regular intervals from the population.&nbsp;</p><p>Systematic sampling is often more convenient than random sampling, and it is easy to administer. However,&nbsp;it may also lead to bias, for example if there are underlying patterns in the order of the individuals in the population.</p>",
         "_graphic": {
           "src": "course/en/assets/ddc5c74dc1520e97e611ce44a7b81764f75008e1.png",
           "alt": "",
@@ -555,8 +555,8 @@
         "strapline": "Systematic"
       },
       {
-        "title": "Stratified",
-        "body": "<p>In stratified&nbsp;sampling, the population is first divided into subgroups (or strata) who all share a similar characteristic.&nbsp;</p><p>The sample is then obtained by either (A) taking equal sample sizes&nbsp;from each subgroup or (B) taking a&nbsp;proportional sample (as shown).</p><p>Stratified sampling improves the accuracy and representativeness of the results by reducing sampling bias. However, it requires knowledge of the appropriate characteristics of the population (the details of which are not always available), and it can be difficult to decide which characteristic(s) to stratify by.</p>",
+        "title": "Stratified sampling",
+        "body": "<p>In stratified&nbsp;sampling, the population is first divided into subgroups (or strata) who all share a similar characteristic.&nbsp;</p><p>The sample is then obtained by either taking equal sample sizes&nbsp;from each subgroup or&nbsp;taking a&nbsp;proportional sample (as shown).</p><p>Stratified sampling improves the accuracy and representativeness of the results by reducing sampling bias. However, it requires knowledge of the appropriate characteristics of the population (the details of which are not always available), and it can be difficult to decide which characteristic(s) to stratify by.</p>",
         "_graphic": {
           "src": "course/en/assets/793d0f17fe71aea8bb775386cc36c9b7e37b60b9.png",
           "alt": "",
@@ -575,7 +575,7 @@
     "_isVisible": true,
     "title": "3. Graphical methods to analyse data",
     "displayTitle": "3. Graphical methods to analyse data",
-    "body": "<p dir=\"ltr\">A picture can say a thousand words. Graphical analysis can help patterns pop and quickly help analyse data. There are many different types of graphs and charts suited for different types of graphical analysis. We have summarised the key points about each in the section below.</p>",
+    "body": "<p dir=\"ltr\">Graphical analysis can identify patterns and trends.&nbsp;There are many different types of graphs and charts suited for different types of graphical analysis. We have summarised the key points about each in the section below.</p>",
     "instruction": "",
     "_id": "5cefb97c0c284c054149602f",
     "_parentId": "5cefb97c0c284c054149602e",
@@ -654,7 +654,7 @@
     "_isVisible": true,
     "title": "Standard deviations",
     "displayTitle": "Standard deviations",
-    "body": "<p>The Standard Deviation (SD) is a measure of how spread out numbers are.</p><p>When we calculate the standard deviation we find that generally:</p><ul><li>68% of values are within 1 standard deviation of the mean</li><li>95% of values are within&nbsp;2 standard deviations of the mean</li><li>99.7% of values are within 3&nbsp;standard deviations of the mean</li></ul><p>Standard Deviation&nbsp;can only really be used on data that is normally distributed. Or to think of it another way, if the mean is a good measure of the average, then Standard Deviation is a good measure of variance.&nbsp;&nbsp;</p><p>Standard Deviation can be used to also be used to identify outliers (points outside of 2 SDs), test statistical significance or even with&nbsp;machine learning and data models to sanity check predictions.&nbsp;</p>",
+    "body": "<p>The standard deviation (SD) is a measure of how spread out numbers are.</p><p>When we calculate the standard deviation we find that generally:</p><ul><li>68% of values are within 1 standard deviation of the mean</li><li>95% of values are within&nbsp;2 standard deviations of the mean</li><li>99.7% of values are within 3&nbsp;standard deviations of the mean</li></ul><p>The standard deviation can be used in data that has a normal distribution &ndash; to determine the proportion of values that lie within particular ranges of the mean. Or to think of it another way, if the mean is a good measure of the average, then standard deviation is a good measure of variance.&nbsp;&nbsp;</p><p>Standard deviation can be used to also be used to identify outliers (points outside of 2 standard deviations), test statistical significance or even with&nbsp;machine learning and data models to sanity check predictions.&nbsp;</p>",
     "instruction": "",
     "_id": "5cefa7060c284c0541496028",
     "_parentId": "5cefa63d0c284c0541496027",
@@ -676,9 +676,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Dataset type",
-    "displayTitle": "Dataset type",
-    "body": "<p>Having a good understanding of the different data types, also called measurement scales, is a crucial prerequisite for doing Exploratory Data Analysis (EDA), since you can use certain statistical measurements only for specific data types.</p><p>Broadly speaking there are two many types of data that can be used in EDA.&nbsp;</p>",
+    "title": "Data type",
+    "displayTitle": "Data type",
+    "body": "<p>A good understanding of the different data types - also called measurement scales - is important for EDA as particular statistical measurements can only be applied to specific data types.&nbsp;</p><p>Broadly speaking there are two main&nbsp;types of data that can be used in EDA.&nbsp;</p>",
     "instruction": "",
     "_id": "5cefa3450c284c0541496020",
     "_parentId": "5cefa3080c284c0541496019",
@@ -695,7 +695,7 @@
     "_items": [
       {
         "title": "Categorical Data",
-        "body": "<p>Categorical data is that where values are constrains into a certain range. It is an example of&nbsp;<strong>discrete&nbsp;</strong>data.&nbsp;</p><p>There are two many types of categorical data:</p><p><strong>Nominal data</strong>: Such as gender or language, these labels (or values) are limited in range but have no order.&nbsp;</p><p><strong>Ordinal data</strong>: Very similar to nominal data, but where order matters, e.g. customer satisfaction, education level.&nbsp;</p>",
+        "body": "<p>In categorical, values are constrained within a certain range. An example, is&nbsp;<strong>discrete&nbsp;</strong>data.&nbsp;</p><p>There are two main&nbsp;types of categorical data:</p><p><strong>Nominal data</strong>: Such as gender or language. These labels (or values) are limited in range but there is no intrinsic order to the values.&nbsp;</p><p><strong>Ordinal data</strong>: Very similar to nominal data, but where order matters, e.g. customer satisfaction, education level.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -705,7 +705,7 @@
       },
       {
         "title": "Numerical data",
-        "body": "<p>Numerical data can be <strong>discrete</strong> (e.g. number of heads in 100 coin flips), or <strong>continuous</strong> (e.g. height of a person).</p><p>There are two main types of numerical data:</p><p><strong>Interval&nbsp;data</strong>&nbsp;refers not only to classification and ordering the measurements, but it also specifies that the distances between each value on the scale are equal.&nbsp;</p><p><strong>Ratio&nbsp;data</strong> is interval data with a natural zero point. For example, time is ratio since 0 time is meaningful. Degrees Kelvin has a 0 point (absolute 0) and the steps in both these scales have the same degree of magnitude.</p><p>&nbsp;</p>",
+        "body": "<p>Numerical data can be <strong>discrete</strong> (e.g. number of heads in 100 coin flips), or <strong>continuous</strong> (e.g. height of a person).</p><p>There are two main types of numerical data:</p><p><strong>Interval&nbsp;data</strong>&nbsp;refers not only to classification and ordering the measurements, but it also specifies that the distances between each value on the scale are equal.&nbsp;</p><p><strong>Ratio&nbsp;data</strong> is the same as&nbsp;interval data&nbsp; but has a natural zero point. For example, time is ratio since 0 time is meaningful. Degrees Kelvin has a 0 point (absolute 0) and the steps in both these scales are ordered units with the same difference between values.</p><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -725,7 +725,7 @@
     "_isVisible": true,
     "title": "Pie Chart",
     "displayTitle": "Pie Chart",
-    "body": "<p>A pie chart shows things as a proportion&nbsp;of the whole. They are best used with percentage scales.&nbsp;Pie Charts are ideal for giving the reader a quick idea of the proportional distribution of the data. They are not great when there are a large number of categories or the differences between segments are not significant. They can also be&nbsp;misleading if proportional representation is not necessary.</p>",
+    "body": "<p>A pie chart shows things as a proportion&nbsp;of the whole. They are best used with percentage scales.&nbsp;Pie charts are ideal for giving the reader a quick idea of the proportional distribution of the data. They are not great when there are a large number of categories or the differences between segments are not significant. They can also be&nbsp;misleading if proportional representation is not necessary for a particular analysis.</p>",
     "instruction": "",
     "_id": "5cefbe670c284c0541496034",
     "_parentId": "5cefbaca0c284c0541496030",
@@ -815,7 +815,7 @@
     "_isVisible": true,
     "title": "Exploratory Data Analysis",
     "displayTitle": "Exploratory Data Analysis",
-    "body": "<p dir=\"ltr\">Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA will often use a combination of descriptive and graphical methods in order to:</p><ul><li>Identify issues in the data</li><li>Test assumptions and suggest hypothesis for evaluation</li><li>Support the selection of appropriate analytical tools and techniques</li><li>Provide a basis for the further collection or pre-processing of data prior to evaluation.</li></ul><p>This module is split into three sections covering the main aspects of EDA including:</p><ol><li>Establishing the type and features of data</li><li>Descriptive methods to analyse data</li><li>Graphical methods to analyse data</li></ol>",
+    "body": "<p dir=\"ltr\">Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA uses a combination of descriptive and graphical methods to:</p><ul><li>Identify issues in the data</li><li>Test assumptions and suggest hypotheses for evaluation</li><li>Support the selection of appropriate analytical tools and techniques</li><li>Provide a basis for the further collection or data pre-processing&nbsp;prior to evaluation.</li></ul><p>This module is split into three sections covering the main aspects of EDA:</p><ol><li>Establishing the type and features of data</li><li>Descriptive methods to analyse data</li><li>Graphical methods to analyse data</li></ol>",
     "instruction": "",
     "_id": "5ce66cbc1e8911053ed450db",
     "_layout": "left",
@@ -897,9 +897,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Scatter plot",
-    "displayTitle": "Scatter plot",
-    "body": "<p>Scatterplots are used&nbsp;to establish the relationship (or lack of) between two variables.&nbsp;Various types of correlation can be interpreted through the patterns displayed on Scatterplots. They are often used in linear regression where a&nbsp;positive (or negative) strait line of best fit is identified.&nbsp; They can also be used to identify non-linear correlations or&nbsp;clusters (no correlation) in the data. Scatterplots can also be plotted in more than 2 dimensions but these get confusing on the eye.&nbsp;&nbsp;&nbsp;</p>",
+    "title": "Scatter-plot",
+    "displayTitle": "Scatter-plot",
+    "body": "<p>Scatterplots are used&nbsp;to establish the relationship (or lack of) between two variables.&nbsp;Various types of correlation can be interpreted through the patterns displayed on scatterplots. They are often used in linear regression where a&nbsp;positive (or negative) straight line of best fit is identified.&nbsp; They can also be used to identify non-linear correlations or&nbsp;clusters (no correlation) in the data. Scatterplots can also be plotted in more than two&nbsp;dimensions but these can be difficult to read.&nbsp;</p>",
     "instruction": "",
     "_id": "5cefbf170c284c054149603c",
     "_parentId": "5cefbf160c284c0541496038",
@@ -946,7 +946,7 @@
     "_items": [
       {
         "title": "Normal distribution",
-        "body": "<p>A normal distribution (or bell curve) is a symmetrical distribution where the mean, median and mode are all the same.</p><p>Many things closely follow a Normal Distribution:</p><ul><li>heights of people</li><li>errors in measurements</li><li>blood pressure</li><li>marks on a test</li></ul>",
+        "body": "<p>A normal distribution (or bell curve) is a symmetrical distribution where the mean, median and mode are all the same.</p><p>Many things closely follow a normal distribution:</p><ul><li>heights of people</li><li>errors in measurements</li><li>blood pressure</li><li>marks on a test</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -956,7 +956,7 @@
       },
       {
         "title": "Negatively (left) skewed",
-        "body": "<p>A negatively skewed distribution is influenced by outliers at the lower end of the data&#39;s range.&nbsp;This means that the mean would be less than the median and mode. It seems counterintuitive that the majority of the data is on the higher side, but it is called negative skew.&nbsp;</p><p>Examples of negatively skewed data include:</p><ul><li>Retirement age</li><li>Book prices</li><li>Age of death (in developed countries)</li></ul>",
+        "body": "<p>A negatively skewed distribution is influenced by outliers at the lower end of the data&#39;s range.&nbsp;This means that the mean would be a lower value than the median and mode. It seems counterintuitive that although the majority of the data is on the higher side, its statistical term is&nbsp;&#39;negatively-skewed&#39;.&nbsp;</p><p>Examples of negatively skewed data include:</p><ul><li>retirement age</li><li>book prices</li><li>age of death (in developed countries)</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -966,7 +966,7 @@
       },
       {
         "title": "Positively (right) skewed",
-        "body": "<p>A positively&nbsp;skewed distribution is influenced by outliers at the higher end of the data&#39;s range.&nbsp;In this case, the mean is greater than the mode or median.</p><p>Examples of positively&nbsp;skewed data include:</p><ul><li>Capital project costs</li><li>Household income</li><li>Property prices</li></ul>",
+        "body": "<p>A positively&nbsp;skewed distribution is influenced by outliers at the higher end of the data&#39;s range.&nbsp;In this case, the mean is greater than the mode or median.</p><p>Examples of positively&nbsp;skewed data include:</p><ul><li>capital project costs</li><li>household income</li><li>property prices</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1016,7 +1016,7 @@
     "_items": [
       {
         "title": "Structured data",
-        "body": "<p>Structured data refers to any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p>Think of data in relational databases or high quality&nbsp;spreadsheets.</p><p>Well structured data is often referred to as machine readable; in a form that a computer can process without human assistance.&nbsp;</p><p>Providing the data is of high quality and of adequate sample size (see next section) then structured data is ideally suited for EDA.</p>",
+        "body": "<p>Structured data refers to any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p>Think of data in relational databases or high quality&nbsp;spreadsheets.</p><p>Well structured data is often referred to as machine readable&nbsp;in a form that a computer can process without human assistance.&nbsp;</p><p>Structured data that is high quality and has an adequate sample size (see next section) is ideally suited for EDA.</p>",
         "_graphic": {
           "src": "course/en/assets/12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg",
           "alt": "",
@@ -1036,7 +1036,7 @@
       },
       {
         "title": "Unstructured data",
-        "body": "<p>Unstructured data is not organised in any pre-defined manner. The majority of text based, such as free text responses to surveys, is unstructured.</p><p>Typically unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or coding.</p>",
+        "body": "<p>Unstructured data is not organised in any pre-defined manner. For example,&nbsp;free-text response&nbsp;to a survey, is unstructured data.</p><p>Typically, unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or coding.</p>",
         "_graphic": {
           "src": "course/en/assets/dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg",
           "alt": "",
@@ -1055,7 +1055,7 @@
     "_isVisible": true,
     "title": "Averages",
     "displayTitle": "Averages",
-    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &#39;average&#39;&nbsp;refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers in that set. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p><p><strong>Expand the sections below to discover more:</strong></p>",
+    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &#39;average&#39;&nbsp;refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers there are in that set. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p><p><strong>Expand the sections below to discover more:</strong></p>",
     "instruction": "",
     "_id": "5ce689071e8911053ed45149",
     "_parentId": "5ce688ab1e8911053ed45148",
@@ -1082,7 +1082,7 @@
       },
       {
         "title": "median",
-        "body": "<p>The median is middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are seven&nbsp;numbers, the middle number will be the fourth&nbsp;one in the list. Therefore the median of this list of numbers is&nbsp;<strong>10</strong>.&nbsp;</p>",
+        "body": "<p>The median is the middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are seven&nbsp;numbers, the middle number will be the fourth&nbsp;one in the list. Therefore the median of this list of numbers is&nbsp;<strong>10</strong>.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",

@@ -1,0 +1,29 @@
+{
+   "fields": [
+     { 
+       "name": "Name", 
+       "type": "string" 
+     },
+     { 
+       "name": "Description", 
+       "type": "string" 
+     },
+     { 
+       "name": "Headquarters", 
+       "type": "string" },
+     { 
+       "name": "Status", 
+       "type": "string", 
+       "enum": ["Active","Inactive"] },
+     { 
+       "name": "Years active", 
+       "type": "integer", 
+       "minimum": 0 
+     },
+     { 
+       "name": "Financial health", 
+       "type": "string", 
+       "enum": ["Very poor","Poor","OK","Good","Excellent"] 
+     }
+   ]
+}
