@@ -55,5 +55,62 @@
       "_isEnabled": true,
       "_showPageCompletion": true
     }
+  },
+  {
+    "title": "Working with data at ARUP",
+    "displayTitle": "Working with data at ARUP",
+    "body": "<p>When used well, there is a huge opportunity for data to be used in projects at ARUP. Data can help us in many ways. Data can be used to test hypothesis. Data can be used to investigate potential solutions. Data can even be used to predict the impact of future changes and events.&nbsp;</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19bba74a7d8105427e59e2",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the key questions that can be answered with data",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify opportunities for data to be integrated into existing or create new projects within ARUP",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify a number of tools and methods to integrate data into projects",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
   }
 ]

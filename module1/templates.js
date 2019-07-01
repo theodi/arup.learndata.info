@@ -754,6 +754,50 @@ this["Handlebars"]["templates"]["text"] = Handlebars.template({"compiler":[7,">=
     + "</div>";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["dragndrop"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return " disabled "
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isComplete : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " ";
+},"2":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return " complete submitted user "
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isCorrect : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " ";
+},"3":function(container,depth0,helpers,partials,data) {
+    return "correct";
+},"5":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "                    <div class=\"dragndrop-question\">\n                        <div class=\"dragndrop-question-text\">"
+    + container.escapeExpression(container.lambda((depth0 != null ? depth0.text : depth0), depth0))
+    + "</div>\n"
+    + ((stack1 = helpers.each.call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.accepted : depth0),{"name":"each","hash":{},"fn":container.program(6, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "                        <div class=\"dragndrop-question-state\">\n                            <div class=\"dragndrop-correct-icon icon icon-tick\"></div>\n                            <div class=\"dragndrop-incorrect-icon icon icon-cross\"></div>\n                        </div>\n                    </div>\n";
+},"6":function(container,depth0,helpers,partials,data) {
+    return "                            <div class=\"dragndrop-item dragndrop-droppable ui-state-enabled\"></div>\n";
+},"8":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "                    <div class=\"dragndrop-item dragndrop-answer\">"
+    + ((stack1 = container.lambda(depth0, depth0)) != null ? stack1 : "")
+    + "</div>\n";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
+
+  return "<div class=\"dragndrop-inner component-inner\">\n"
+    + ((stack1 = container.invokePartial(partials.component,depth0,{"name":"component","data":data,"indent":"    ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "    <div class=\"dragndrop-widget component-widget "
+    + ((stack1 = helpers.unless.call(alias1,(depth0 != null ? depth0._isEnabled : depth0),{"name":"unless","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n\n        <div class=\"dragndrop-container\">\n\n            <div class=\"dragndrop-overlay\"></div>\n\n            <div class=\"dragndrop-questions\">\n"
+    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0._items : depth0),{"name":"each","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "            </div>\n\n            <div class=\"dragndrop-answers clearfix\">\n"
+    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0._possibleAnswers : depth0),{"name":"each","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "            </div>\n\n        </div>\n\n        <div class=\"buttons\">\n        </div>\n    </div>\n</div>\n";
+},"usePartial":true,"useData":true});
+
 this["Handlebars"]["templates"]["pageLevelProgress"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return "tabindex=\"0\"";
 },"3":function(container,depth0,helpers,partials,data) {

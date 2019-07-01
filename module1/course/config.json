@@ -71,8 +71,9 @@
       "adapt-contrib-text",
       "adapt-contrib-graphic",
       "adapt-contrib-accordion",
+      "adapt-contrib-mcq",
       "adapt-contrib-matching",
-      "adapt-contrib-mcq"
+      "adapt-dragndrop"
     ]
   }
 }

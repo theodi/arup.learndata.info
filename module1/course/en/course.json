@@ -3,7 +3,7 @@
   "displayTitle": "ARUP Module 1 - Define the Question & Scoping the Project",
   "body": "",
   "description": "",
-  "_latestTrackingId": 19,
+  "_latestTrackingId": 50,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -80,6 +80,9 @@
       },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       }
     },
     "_extensions": {
