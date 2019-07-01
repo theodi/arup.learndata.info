@@ -24,7 +24,7 @@
   },
   {
     "title": "Working with data at ARUP",
-    "displayTitle": "",
+    "displayTitle": "Working with data at ARUP",
     "body": "",
     "_classes": "",
     "_trackingId": 2,
@@ -46,18 +46,87 @@
     }
   },
   {
-    "title": "There are four phases to our methodology",
-    "displayTitle": "There are four phases to our methodology",
-    "body": "",
-    "_classes": "inverted color-eight",
+    "title": "Case study, a data approach",
+    "displayTitle": "Case study, a data approach",
+    "body": "<p>In 2018, ARUP was contracted by a large art gallery to help them investigate and overcome an apparent humidity problem that had the potential to damage the valuable art collection that was stored in the basement.&nbsp;</p>",
+    "_classes": "inverted color-one",
     "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba94a7d8105427e59ec",
-    "_parentId": "5d19bba74a7d8105427e59e3",
+    "_id": "5d19e1264a7d8105427e5ab1",
+    "_parentId": "5d19e11b4a7d8105427e5aae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "The common stages surrounding data use in projects",
+    "displayTitle": "The common stages surrounding data use in projects",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e1be4a7d8105427e5af2",
+    "_parentId": "5d19e1634a7d8105427e5acb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e1334a7d8105427e5ab9",
+    "_parentId": "5d19e12c4a7d8105427e5ab6",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Stage 1: Defining the question & scope",
+    "displayTitle": "Stage 1: Defining the question & scope",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e1af4a7d8105427e5ae6",
+    "_parentId": "5d19e1634a7d8105427e5acb",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -73,7 +142,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 4,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -92,11 +161,80 @@
     }
   },
   {
+    "title": "There are four phases to our methodology",
+    "displayTitle": "There are four phases to our methodology",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19bba94a7d8105427e59ec",
+    "_parentId": "5d19bba74a7d8105427e59e3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Data collection points",
+    "displayTitle": "Data collection points",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e25f4a7d8105427e5af4",
+    "_parentId": "5d19e11b4a7d8105427e5aae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Checking data integrity and quality",
+    "displayTitle": "Checking data integrity and quality",
+    "body": "<p>In our Gallery case study, the client gave us access to data from the current humidity control system which we analysed during the discovery stage. We also worked with the client to collect additional data about the usage of the gallery to help us identify any correlations between the high levels of humidity and aspects such as number of current visitors.&nbsp;</p><p>At the end of the Discovery stage, analysis of the data led to no conclusive design brief. The problem still wasn&rsquo;t clear. No correlation was found between the humidity and any given condition.&nbsp;</p>",
+    "_classes": "inverted color-one",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e1524a7d8105427e5ac8",
+    "_parentId": "5d19e11b4a7d8105427e5aae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "Course overview",
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-eight",
-    "_trackingId": 5,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -119,7 +257,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-eight",
-    "_trackingId": 6,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -138,11 +276,57 @@
     }
   },
   {
+    "title": "Stage 2 & 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e8704a7d8105427e5b09",
+    "_parentId": "5d19e1634a7d8105427e5acb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Finding the right solution",
+    "displayTitle": "Finding the right solution",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e38d4a7d8105427e5afb",
+    "_parentId": "5d19e11b4a7d8105427e5aae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "phase one",
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 7,
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -161,11 +345,34 @@
     }
   },
   {
-    "title": "How we work",
+    "title": "Planning your time",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
-    "_trackingId": 8,
+    "_classes": "inverted color-two",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19ea8d4a7d8105427e5b0b",
+    "_parentId": "5d19e1634a7d8105427e5acb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How we work",
+    "displayTitle": "How we work",
+    "body": "",
+    "_classes": "color-three",
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -184,11 +391,34 @@
     }
   },
   {
-    "title": "Our methodology",
-    "displayTitle": "",
+    "title": "Proactive protection",
+    "displayTitle": "Proactive protection",
     "body": "",
-    "_classes": "inverted color-eight",
-    "_trackingId": 9,
+    "_classes": "inverted color-one",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e3f54a7d8105427e5b01",
+    "_parentId": "5d19e11b4a7d8105427e5aae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Our methodology",
+    "displayTitle": "Our methodology",
+    "body": "",
+    "_classes": "inverted color-three",
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -211,7 +441,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-one",
-    "_trackingId": 10,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -230,34 +460,11 @@
     }
   },
   {
-    "title": "phase four",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-one",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d19bba74a7d8105427e59e4",
-    "_parentId": "5d19bba74a7d8105427e59e3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
     "title": "Completing the project brief",
     "displayTitle": "Completing the project brief",
     "body": "<p>The project brief is an important document and should be referred to at all stages during a project to ensure focus is retained. It may also be necessary to revise the project brief as more insight is discovered.&nbsp;</p>",
-    "_classes": "",
-    "_trackingId": 12,
+    "_classes": "color-three",
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -276,17 +483,17 @@
     }
   },
   {
-    "title": "phase three",
+    "title": "phase four",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
-    "_trackingId": 13,
+    "_classes": "inverted color-one",
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bbaa4a7d8105427e59f1",
+    "_id": "5d19bba74a7d8105427e59e4",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -302,8 +509,8 @@
     "title": "Stage 2: Discover and define requirements",
     "displayTitle": "Stage 2: Discover and define requirements",
     "body": "",
-    "_classes": "",
-    "_trackingId": 14,
+    "_classes": "inverted color-three",
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -322,17 +529,17 @@
     }
   },
   {
-    "title": "between phases",
+    "title": "phase three",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-eight",
-    "_trackingId": 15,
+    "_classes": "color-one",
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bbaa4a7d8105427e59f3",
+    "_id": "5d19bbaa4a7d8105427e59f1",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -348,8 +555,8 @@
     "title": "The role of data in stage 2",
     "displayTitle": "The role of data in stage 2",
     "body": "<p>Our expertise at Arup is crucial in this stage since our value lies in our ability to discover the actual cause of a problem,defining the requirements that the project needs to address and delivering an appropriate set of solutions as a result.</p>",
-    "_classes": "",
-    "_trackingId": 16,
+    "_classes": "color-three",
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -368,17 +575,17 @@
     }
   },
   {
-    "title": "Stage 1: Defining the question & scope",
+    "title": "between phases",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-three",
-    "_trackingId": 17,
+    "_classes": "inverted color-eight",
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba74a7d8105427e59e6",
+    "_id": "5d19bbaa4a7d8105427e59f3",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -392,10 +599,10 @@
   },
   {
     "title": "Reacting to change",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 18,
+    "displayTitle": "Reacting to change",
+    "body": "<p>Once you start investigating, you may find the problem statement alters as more insight is gleaned.&nbsp;This means the project brief will need to be rewritten.</p>",
+    "_classes": "inverted color-three",
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -414,17 +621,17 @@
     }
   },
   {
-    "title": "Repeating stages",
+    "title": "Stage 1: Defining the question & scope",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
-    "_trackingId": 19,
+    "_classes": "inverted color-three",
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bbaa4a7d8105427e59f4",
+    "_id": "5d19bba74a7d8105427e59e6",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -438,10 +645,10 @@
   },
   {
     "title": "Stage 3: Design and build solution",
-    "displayTitle": "",
+    "displayTitle": "Stage 3: Design and build solution",
     "body": "",
-    "_classes": "",
-    "_trackingId": 20,
+    "_classes": "color-three",
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -460,17 +667,17 @@
     }
   },
   {
-    "title": "Case study, a data approach",
-    "displayTitle": "Case study, a data approach",
+    "title": "Repeating stages",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba84a7d8105427e59e7",
+    "_id": "5d19bbaa4a7d8105427e59f4",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -484,10 +691,10 @@
   },
   {
     "title": "Stage 4: Support and maintain",
-    "displayTitle": "",
+    "displayTitle": "Stage 4: Support and maintain",
     "body": "",
-    "_classes": "",
-    "_trackingId": 22,
+    "_classes": "inverted color-three",
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -506,17 +713,17 @@
     }
   },
   {
-    "title": "Integrating data into the project",
-    "displayTitle": "Integrating data into the project",
+    "title": "Case study, a data approach",
+    "displayTitle": "Case study, a data approach",
     "body": "",
-    "_classes": "inverted color-two",
-    "_trackingId": 23,
+    "_classes": "",
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bbab4a7d8105427e59f6",
+    "_id": "5d19bba84a7d8105427e59e7",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -530,10 +737,10 @@
   },
   {
     "title": "The role of data in stage 4",
-    "displayTitle": "",
+    "displayTitle": "The role of data in stage 4",
     "body": "",
-    "_classes": "",
-    "_trackingId": 24,
+    "_classes": "color-three",
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -552,17 +759,17 @@
     }
   },
   {
-    "title": "The common stages surrounding data use in projects",
-    "displayTitle": "",
+    "title": "Integrating data into the project",
+    "displayTitle": "Integrating data into the project",
     "body": "",
-    "_classes": "inverted footer",
-    "_trackingId": 25,
+    "_classes": "inverted color-two",
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba84a7d8105427e59e8",
+    "_id": "5d19bbab4a7d8105427e59f6",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -575,11 +782,11 @@
     }
   },
   {
-    "title": "The role of data in stage 4",
-    "displayTitle": "",
+    "title": "Transitioning between stages",
+    "displayTitle": "Transitioning between stages",
     "body": "",
-    "_classes": "",
-    "_trackingId": 26,
+    "_classes": "inverted color-three",
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -598,17 +805,17 @@
     }
   },
   {
-    "title": "Stage 2: Data acquisition and management",
+    "title": "The common stages surrounding data use in projects",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-three",
-    "_trackingId": 27,
+    "_classes": "inverted footer",
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba84a7d8105427e59e9",
+    "_id": "5d19bba84a7d8105427e59e8",
     "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
@@ -624,8 +831,8 @@
     "title": "Our digital approach",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-eight",
-    "_trackingId": 28,
+    "_classes": "color-three",
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -644,18 +851,18 @@
     }
   },
   {
-    "title": "phase one",
+    "title": "Stage 2: Data acquisition and management",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
-    "_trackingId": 29,
+    "_classes": "color-three",
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d0914b51e087d056956f8f4",
-    "_parentId": "5cd4188e5f53d705477b7035",
+    "_id": "5d19bba84a7d8105427e59e9",
+    "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -671,7 +878,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -690,17 +897,40 @@
     }
   },
   {
-    "title": "phase two",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-one",
-    "_trackingId": 31,
+    "title": "Being iterative",
+    "displayTitle": "Being iterative",
+    "body": "<p>The progression from one stage to another&nbsp;is not necessarily linear; we might need to iterate our solutions by repeating a stage or even moving back to a previous stage.</p>",
+    "_classes": "inverted color-three",
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d0917321e087d056956f908",
+    "_id": "5d19de064a7d8105427e5a9d",
+    "_parentId": "5cd4188e5f53d705477b7035",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Stakeholder engagement",
+    "displayTitle": "Stakeholder engagement",
+    "body": "",
+    "_classes": "color-three",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19dff44a7d8105427e5aa9",
     "_parentId": "5cd4188e5f53d705477b7035",
     "_type": "block",
     "_onScreen": {
@@ -717,7 +947,7 @@
     "displayTitle": "Our approach: The double-diamond methodology",
     "body": "",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -736,34 +966,11 @@
     }
   },
   {
-    "title": "phase three",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one",
-    "_trackingId": 33,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0916cc1e087d056956f900",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
     "title": "Stage 3: Data analysis and communication",
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-three",
-    "_trackingId": 34,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -782,34 +989,11 @@
     }
   },
   {
-    "title": "phase four",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-one",
-    "_trackingId": 35,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d09172c1e087d056956f904",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
     "title": "Stakeholder engagement",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -828,191 +1012,7 @@
     }
   },
   {
-    "title": "between phases",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-eight",
-    "_trackingId": 37,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0919081e087d056956f90c",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
     "title": "Summary",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted footer",
-    "_trackingId": 38,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d19bba84a7d8105427e59eb",
-    "_parentId": "5d19bba74a7d8105427e59e3",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Our approach: The double-diamond methodology",
-    "displayTitle": "Our approach: The double-diamond methodology",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 39,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0668cea6999a055af122e4",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Repeating stages",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 40,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0a0177f284ec05609f22a8",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Stakeholder engagement",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 41,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0669ffa6999a055af122ee",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Integrating data into the project",
-    "displayTitle": "Integrating data into the project",
-    "body": "",
-    "_classes": "inverted color-two",
-    "_trackingId": 42,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0a0f11f284ec05609f22ca",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Case study, a data approach",
-    "displayTitle": "Case study, a data approach",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 43,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5cef8e4c0c284c0541495ff6",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "What would you do after collecting data?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 44,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0a0e42f284ec05609f22c4",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "The common stages surrounding data use in projects",
     "displayTitle": "",
     "body": "",
     "_classes": "inverted footer",
@@ -1022,123 +1022,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5cef94260c284c0541495ffc",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Stage 1: Defining the question & scope",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-three",
-    "_trackingId": 46,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5cee789964b2fb0565510055",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Stage 2: Data acquisition and management",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-three",
-    "_trackingId": 47,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5cef95900c284c0541496000",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Stage 3: Data analysis and communication",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-three",
-    "_trackingId": 48,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5cef95ae0c284c0541496005",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Summary",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted footer",
-    "_trackingId": 49,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5cef95b30c284c0541496008",
-    "_parentId": "5cd4188e5f53d705477b7035",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 50,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d19bc0c4a7d8105427e5a44",
-    "_parentId": "5cd4188e5f53d705477b7035",
+    "_id": "5d19bba84a7d8105427e59eb",
+    "_parentId": "5d19bba74a7d8105427e59e3",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

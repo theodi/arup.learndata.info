@@ -61,7 +61,6 @@
       "adapt-theme-arup",
       "adapt-contrib-boxMenu",
       "adapt-odi-footerLink",
-      "adapt-contrib-tutor",
       "adapt-contrib-aboutPage",
       "adapt-contrib-assessment",
       "adapt-contrib-pageLevelProgress",
@@ -70,10 +69,11 @@
       "adapt-skillsFramework",
       "adapt-contrib-text",
       "adapt-contrib-graphic",
-      "adapt-contrib-accordion",
       "adapt-contrib-mcq",
+      "adapt-contrib-accordion",
       "adapt-contrib-matching",
-      "adapt-dragndrop"
+      "adapt-dragndrop",
+      "adapt-contrib-slider"
     ]
   }
 }

@@ -9,6 +9,52 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "_id": "5d19bba74a7d8105427e59e3",
+    "_parentId": "5d19bba74a7d8105427e59e2",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "ARUPs approach",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "_id": "5cd4188e5f53d705477b7035",
     "_parentId": "5cd4188e5f53d705477b7030",
     "_type": "article",
@@ -46,7 +92,7 @@
     }
   },
   {
-    "title": "Article title",
+    "title": "Case study",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -55,8 +101,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d19bba74a7d8105427e59e3",
-    "_parentId": "5d19bba74a7d8105427e59e2",
+    "_id": "5d19e11b4a7d8105427e5aae",
+    "_parentId": "5cd4188e5f53d705477b7030",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -76,7 +122,7 @@
       "_allowResetIfPassed": false,
       "_randomisation": {
         "_isEnabled": false,
-        "_blockCount": 1
+        "_blockCount": -1
       },
       "_banks": {
         "_isEnabled": false,
@@ -84,7 +130,99 @@
         "_randomisation": false
       },
       "_questions": {
-        "_resetType": "soft",
+        "_resetType": null,
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Getting hands on with data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e1634a7d8105427e5acb",
+    "_parentId": "5cd4188e5f53d705477b7030",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": null,
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d19e12c4a7d8105427e5ab6",
+    "_parentId": "5cd4188e5f53d705477b7030",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": null,
         "_canShowFeedback": false,
         "_canShowMarking": false,
         "_canShowModelAnswer": false
