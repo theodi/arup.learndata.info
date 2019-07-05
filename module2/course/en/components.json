@@ -236,7 +236,7 @@
     "_isVisible": true,
     "title": "Characteristics of datasets",
     "displayTitle": "Characteristics of datasets",
-    "body": "<p>Once you have established the data types required and potential schema there are a number of other dataset characteristics that will influence what you can do with data&nbsp;and how valuable it is for your project.</p><p>These include:</p><p>There are a number of key dataset characteristics to consider, e.g.&nbsp;</p><ul><li>structure&nbsp;</li><li>file formats used</li><li>size&nbsp;</li><li>terms of use (covered in &quot;Data usage rights&quot; earlier)</li><li>fitness for a particular purpose</li></ul><p dir=\"ltr\">These and other characteristics should be considered before using data in your projects as they may influence how the data may be used.</p><p>&nbsp;</p>",
+    "body": "<p>Once you have established the data types required and potential schema there are a number of other dataset characteristics that will influence what you can do with data&nbsp;and how valuable it is for your project.</p><p>These include:</p><ul><li>structure&nbsp;</li><li>file formats used</li><li>size&nbsp;</li><li>terms of use (covered in &quot;Data usage rights&quot; earlier)</li><li>fitness for a particular purpose</li></ul><p dir=\"ltr\">These and other characteristics should be considered before using data in your projects as they may influence how the data may be used.</p><p>&nbsp;</p>",
     "instruction": "",
     "_id": "5d065bbea6999a055af122be",
     "_parentId": "5d065b1aa6999a055af122b9",

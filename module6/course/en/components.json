@@ -1368,9 +1368,9 @@
     "_allowsAnyCase": false,
     "_allowsPunctuation": false,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenge to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenging to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p><p>&nbsp;</p><p>&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenge to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenging to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2453,7 +2453,7 @@
       },
       {
         "title": "Clustered sampling",
-        "body": "<p>In a clustered sample, the population is divided into subgroups, known as clusters, which are randomly selected to be included in the study.&nbsp;</p><p>Clusters are usually already defined, e.g. Arup offices.&nbsp;<br />,.<br />In single-stage cluster sampling, all members of the chosen clusters are then included in the study. In two-stage cluster sampling, a selection of individuals from each cluster is then randomly selected for inclusion.</p>",
+        "body": "<p>In a clustered sample, the population is divided into subgroups, known as clusters, which are randomly selected to be included in the study.&nbsp;</p><p>Clusters are usually already defined, e.g. Arup offices.&nbsp;<br /><br />In single-stage cluster sampling, all members of the chosen clusters are then included in the study. In two-stage cluster sampling, a selection of individuals from each cluster is then randomly selected for inclusion.</p>",
         "_graphic": {
           "src": "course/en/assets/a2f951fd24a03a95832d1f8df1919b486320859a.png",
           "alt": "",
