@@ -1,21 +1,5 @@
 [
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5cf01d7c0c284c05414960bb",
-    "_parentId": "5cefa3250c284c054149601d",
-    "_type": "component",
-    "_layout": "left"
-  },
-  {
     "_component": "text",
     "_classes": "inverted color-three",
     "_isOptional": false,
@@ -70,20 +54,106 @@
     }
   },
   {
-    "_component": "text",
+    "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Outliers and robustness",
-    "displayTitle": "Outliers and robustness",
-    "body": "<p><strong>The mean is not a robust measure of central tendency and is affected by outliers. Consider using the median instead.&nbsp;</strong></p><p>Take the following list of numbers, where two numbers have been added to the list from previously.</p><p>3, 5, 8, 10, 13, 13, 18,&nbsp;<strong>21, 104</strong></p><p><strong>104</strong> is an extreme value, often called an outlier, as it doesn&#39;t fit the &#39;pattern&#39; of the rest of the numbers.</p>",
-    "instruction": "",
-    "_id": "5ce7c61d0c9aa6055a8d2182",
-    "_parentId": "5ce7c5b80c9aa6055a8d217d",
+    "title": "In what way does the visualisation here mislead the viewer?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d17a0a6e41e4605696f3320",
+    "_parentId": "5d179e88e41e4605696f3304",
     "_type": "component",
     "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Doesn’t start from 0 on the scale (baseline failure)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The area of the triangles does not represent the values",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Both of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-two",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1. Establishing data types and features ",
+    "displayTitle": "1. Establishing data types and features ",
+    "body": "<p dir=\"ltr\">Not all data is the same and therefore needs to be treated differently depending on its type and features.&nbsp;</p><p dir=\"ltr\">In this section, we will describe what data types are, and how to work with dimensions in the data to best help us in our EDA analysis.</p>",
+    "instruction": "",
+    "_id": "5d1f274ef81bf4055b5d57a7",
+    "_parentId": "5d1f2747f81bf4055b5d576e",
+    "_type": "component",
+    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -94,18 +164,18 @@
     }
   },
   {
-    "_component": "text",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Summary",
-    "displayTitle": "Summary",
-    "body": "<p dir=\"ltr\">Exploratory data analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA will often use a combination of descriptive and graphical methods in order to:</p><ul><li>identify issues in the data</li><li>test assumptions and suggest hypothesis for evaluation</li><li>support the selection of appropriate analytical tools and techniques</li><li>provide a basis for the further collection or pre-processing of data prior to evaluation.</li></ul><p>There are a wide variety of techniques that can be used to perform EDA, each suited for different types of data and objectives. Pick carefully when doing your own EDA;&nbsp;even picking the wrong measure of average&nbsp;can lead to problems!</p>",
+    "title": "What data type?",
+    "displayTitle": "",
+    "body": "",
     "instruction": "",
-    "_id": "5ce66cbc1e8911053ed450e8",
-    "_parentId": "5ce66cbc1e8911053ed450d7",
+    "_id": "5d1f4625f81bf4055b5d598e",
+    "_parentId": "5d1f2749f81bf4055b5d577b",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -114,7 +184,73 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2a1ef81bf4055b5d589a",
+    "_parentId": "5d1f2a19f81bf4055b5d5868",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f56e1fcf0f495ad31bdd44d879dd7323140a52bf.png",
+      "small": "course/en/assets/f56e1fcf0f495ad31bdd44d879dd7323140a52bf.png",
+      "attribution": "<a href=\"https://www.mathsisfun.com/data/standard-normal-distribution.html\" target=\"_blank\">Maths is fun</a>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Importance of descriptive statistics",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f53b3f81bf4055b5d5a08",
+    "_parentId": "5d1f536bf81bf4055b5d5a06",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -126,7 +262,7 @@
     "_isVisible": true,
     "title": "Box and whisker plot",
     "displayTitle": "Box and whisker plot",
-    "body": "<p>A Box and Whisker Plot (or Box Plot) is a convenient way of visually displaying the distribution of&nbsp;data distribution through its&nbsp;quartiles.</p><p>The box and whisker plot&nbsp;may seem&nbsp;primitive in comparison to a histogram, but they essentially give the same information from a simply five number summary of the data.Multiple box plots can also be easily lined up to compare different characteristics&nbsp;or groupings of data.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">A Box and Whisker Plot (or Box Plot) is a convenient way of visually displaying the distribution of data distribution through its quartiles.</p><p dir=\"ltr\">The box and whisker plot may seem primitive in comparison to a histogram, but they essentially give the same information from a simply five number summary of the data.Multiple box plots can also be easily lined up to compare different characteristics or groupings of data.&nbsp;</p><p>&nbsp;</p>",
     "instruction": "",
     "_id": "5cefc3300c284c0541496044",
     "_parentId": "5cefc3300c284c0541496040",
@@ -148,18 +284,104 @@
     }
   },
   {
-    "_component": "text",
+    "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Box-and-whisker plot",
-    "displayTitle": "Box-and-whisker plot",
-    "body": "<p>A box-and-whisker plot (or box-plot) is a way to visually show the&nbsp;<strong>location</strong>,&nbsp;<strong>spread</strong>&nbsp;and&nbsp;<strong>range</strong>&nbsp;of the data using the five-number summary, as shown.</p><p>The&nbsp;<strong>whiskers</strong>&nbsp;show the minimum and maximum values and therefore illustrate&nbsp;the&nbsp;<strong>range</strong>&nbsp;of the data.</p><p>The&nbsp;<strong>box</strong>&nbsp;is plotted between the lower and upper quartiles. The box shows the&nbsp;<strong>interquartile range</strong>&nbsp;(<strong>IQR</strong>) or&nbsp;<strong>middle 50%</strong>&nbsp;and is the most significant basic robust measure of scale.</p><p>The size of the IQR boxes also show the&nbsp;<strong>spread&nbsp;</strong>of the data, with a smaller box representing a smaller spread and vice-versa.</p>",
+    "title": "Area or stacked area chart?",
+    "displayTitle": "",
+    "body": "<p>Is the chart shown here an area or stacked area chart?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d17a4bfe41e4605696f334a",
+    "_parentId": "5d179e81e41e4605696f3302",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "stacked area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "no way to tell",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
     "instruction": "",
-    "_id": "5ce7c7480c9aa6055a8d2187",
-    "_parentId": "5ce7c7480c9aa6055a8d2185",
+    "_id": "5d17a11ae41e4605696f3321",
+    "_parentId": "5d179e37e41e4605696f3300",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -169,6 +391,12 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "small": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "attribution": "<a href=\"http://viz.wtf/post/143590868627/unhealthy-data\" target=\"_blank\">WTF Visualizations</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
   },
   {
@@ -199,6 +427,60 @@
       "large": "course/en/assets/45166324b488a146712207780b5187e78b80d358.png",
       "small": "course/en/assets/45166324b488a146712207780b5187e78b80d358.png",
       "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Outliers and robustness",
+    "displayTitle": "Outliers and robustness",
+    "body": "<p>Take the following list of numbers, where two numbers have been added to the list from previously.</p><p>3, 5, 8, 10, 13, 13, 18, <strong>21, 104</strong></p><p>There is now one extreme value in the list (104). This value is commonly referred to as an outlier as it doesn&#39;t fit the &#39;pattern&#39; of the rest of the numbers.</p><p>The table below shows the new set of averages and the change against the previous list.</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>&nbsp;</td><td>First list</td><td>Second list</td><td>Change</td></tr><tr><td>Mean</td><td>10</td><td>21</td><td>+11</td></tr><tr><td>Median</td><td>10</td><td>13</td><td>+3</td></tr><tr><td>Mode</td><td>13</td><td>13</td><td>0</td></tr></tbody></table>",
+    "instruction": "",
+    "_id": "5d1f2d65f81bf4055b5d596c",
+    "_parentId": "5d1f2d65f81bf4055b5d596b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "box-and-whisker plot",
+    "displayTitle": "box-and-whisker plot",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2a1ef81bf4055b5d5896",
+    "_parentId": "5d1f2a18f81bf4055b5d5866",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
+      "small": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -240,7 +522,7 @@
     "_isVisible": true,
     "title": "Line chart",
     "displayTitle": "Line chart",
-    "body": "<p>Line charts are used to display quantitative values over a continuous interval or time period. A line chart&nbsp;is most frequently used to show trends and analyse how the data has changed over time.</p><p>The direction of the lines on the graph works as a nice metaphor for the data: an upward slope indicates where values have increased and a downward slope indicates where values have decreased. The line&#39;s journey across the graph can create patterns that reveal trends in a dataset.</p>",
+    "body": "<p dir=\"ltr\">Line charts are used to display quantitative values over a continuous interval or time period. A line chart is most frequently used to show trends and analyse how the data has changed over time.</p><p dir=\"ltr\">The direction of the lines on the graph works as a nice metaphor for the data: an upward slope indicates where values have increased and a downward slope indicates where values have decreased. The line&#39;s journey across the graph can create patterns that reveal trends in a dataset.</p>",
     "instruction": "",
     "_id": "5cefbf170c284c0541496039",
     "_parentId": "5cefbf160c284c0541496038",
@@ -270,7 +552,7 @@
     "_isVisible": true,
     "title": "Bar chart",
     "displayTitle": "Bar chart",
-    "body": "<p>The classic bar chart uses either horizontal or vertical bars (column chart) to show discrete, numerical comparisons across categories. One axis of the chart shows the specific categories being compared and the other axis represents a discrete value scale.</p><p>A bar chart is the clearest visualisation to show differences between categories.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">The classic bar chart uses either horizontal or vertical bars (column chart) to show discrete, numerical comparisons across categories. One axis of the chart shows the specific categories being compared and the other axis represents a discrete value scale.</p><p dir=\"ltr\">A bar chart is the clearest visualisation to show differences between categories.&nbsp;</p>",
     "instruction": "",
     "_id": "5cefbadd0c284c0541496031",
     "_parentId": "5cefbaca0c284c0541496030",
@@ -298,62 +580,14 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Dimensionality",
-    "displayTitle": "Dimensionality",
-    "body": "<p>The majority of data we deal with today contains a high number of dimensions,&nbsp;also known as <strong>multivariate</strong>. This is simply a way of saying that each record in a dataset has a high number of variables</p><ul><li>More than three&nbsp;variables = multivariate</li><li>Two variables = bivariate</li><li>One variable&nbsp;= univariate</li></ul><p>When a high number of variables are collected we must be aware of&nbsp;<strong>variable dependence:&nbsp;</strong>when&nbsp;a change of value for one variable affects the value of another,&nbsp;thus the&nbsp;variables are intrinsically connected.&nbsp;</p><p>Highly dimensional datasets could also be semi-structured or contain nested data, thus&nbsp;increasing the complexity.</p><p><em>Picture: Something like the cover of the book &quot;Multivariate data analysis&quot;</em></p>",
+    "title": "Box-and-whisker plot",
+    "displayTitle": "Box-and-whisker plot",
+    "body": "<p>A box-and-whisker plot (or box-plot) is a way to visually show the&nbsp;<strong>location</strong>,&nbsp;<strong>spread</strong>&nbsp;and&nbsp;<strong>range</strong>&nbsp;of the data using the five-number summary, as shown.</p><p>The&nbsp;<strong>whiskers</strong>&nbsp;show the minimum and maximum values and therefore illustrate&nbsp;the&nbsp;<strong>range</strong>&nbsp;of the data.</p><p>The&nbsp;<strong>box</strong>&nbsp;is plotted between the lower and upper quartiles. The box shows the&nbsp;<strong>interquartile range</strong>&nbsp;(<strong>IQR</strong>) or&nbsp;<strong>middle 50%</strong>&nbsp;and is the most significant basic robust measure of scale.</p><p>The size of the IQR boxes also show the&nbsp;<strong>spread&nbsp;</strong>of the data, with a smaller box representing a smaller spread and vice-versa.</p>",
     "instruction": "",
-    "_id": "5cefa3b90c284c0541496022",
-    "_parentId": "5cefa3250c284c054149601d",
+    "_id": "5d1f2a1df81bf4055b5d5895",
+    "_parentId": "5d1f2a18f81bf4055b5d5866",
     "_type": "component",
     "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "<p>The following table compares the mean, median, and mode&nbsp;from the first&nbsp;list (3, 5, 8, 10, 13, 13, 18) to this mean, median and mode from the second&nbsp;list, which includes outliers (3, 5, 8, 10, 13, 13, 18, 21, 104):</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>&nbsp;</td><td>First list</td><td>Second list</td><td>Change</td></tr><tr><td>Mean</td><td>10</td><td>21</td><td>+11</td></tr><tr><td>Median</td><td>10</td><td>13</td><td>+3</td></tr><tr><td>Mode</td><td>13</td><td>13</td><td>0</td></tr></tbody></table><p>We can see here that the mean is badly affected by outliers, showing that the mean is the&nbsp;<strong>least robust</strong>. The median has&nbsp;<strong>medium robustness</strong>&nbsp;and the mode is the&nbsp;<strong>most robust&nbsp;</strong>with no change.</p>",
-    "instruction": "",
-    "_id": "5cf37cb8c192f50575596a59",
-    "_parentId": "5ce7c5b80c9aa6055a8d217d",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "inverted color-two",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "1. Establishing data types and features ",
-    "displayTitle": "1. Establishing data types and features ",
-    "body": "<p dir=\"ltr\">Not all data is the same and will need treating differently depending on its type and<br />features.&nbsp;</p><p dir=\"ltr\">In this section, we have selected&nbsp;different data types and features to explore.</p>",
-    "instruction": "",
-    "_id": "5cefa2c90c284c0541496018",
-    "_parentId": "5cefa2390c284c0541496016",
-    "_type": "component",
-    "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -370,12 +604,12 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Data type",
-    "displayTitle": "",
+    "title": "distribution of the data",
+    "displayTitle": "distribution of the data",
     "body": "",
     "instruction": "",
-    "_id": "5cefdc6a0c284c054149605a",
-    "_parentId": "5cefa3080c284c0541496019",
+    "_id": "5d1f2a1df81bf4055b5d5890",
+    "_parentId": "5d1f2a18f81bf4055b5d5864",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -388,9 +622,39 @@
     },
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e022d2597136dfd4621fd74706406bc70efd8e4e.png",
-      "small": "course/en/assets/e022d2597136dfd4621fd74706406bc70efd8e4e.png",
-      "attribution": "<a href=\"https://towardsdatascience.com/data-types-in-statistics-347e152e8bee\" target=\"_blank\">Niklas Donges</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
+      "small": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "averages",
+    "displayTitle": "averages",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2a1df81bf4055b5d588c",
+    "_parentId": "5d1f2a18f81bf4055b5d5863",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
+      "small": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg\" target=\"_blank\">Cmglee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -402,7 +666,7 @@
     "_isVisible": true,
     "title": "Histogram",
     "displayTitle": "Histogram",
-    "body": "<p>A histogram visualises the distribution of data.&nbsp;Histograms help indicate the shape of the data and any skew. This helps establish the type of analysis that can and cannot be performed on the data. Histograms also give an estimate of where values are concentrated, what the extremes are and whether there are any gaps or unusual values.</p>",
+    "body": "<p dir=\"ltr\">Histograms provide a visual interpretation of numerical data by indicating the number of data points that lie within a range of values. These ranges are called classes or bins. The frequency of the data that falls in each class is depicted by the use of a bar. The higher that the bar is, the greater the frequency.&nbsp;</p><p dir=\"ltr\">The shape of the histogram indicates if the data is skewed, and how This helps establish the type of analysis that can and cannot be performed on the data. Histograms also give an estimate of where values are concentrated, what the extremes are and whether there are any gaps or unusual values.</p>",
     "instruction": "",
     "_id": "5cefc3300c284c0541496041",
     "_parentId": "5cefc3300c284c0541496040",
@@ -421,6 +685,31 @@
       "large": "course/en/assets/fce3ba845f0168ab9f2e535dea1930cd3b2efc75.png",
       "small": "course/en/assets/fce3ba845f0168ab9f2e535dea1930cd3b2efc75.png",
       "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2737f81bf4055b5d5763",
+    "_layout": "right",
+    "_parentId": "5d1f2736f81bf4055b5d5762",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "alt": ""
     }
   },
   {
@@ -454,182 +743,20 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "inverted color-three",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "2. Descriptive methods to analyse data",
-    "displayTitle": "2. Descriptive methods to analyse data",
-    "body": "<p dir=\"ltr\">Descriptive statistics&nbsp;summarise a given data set, which can be either a representation of the entire population or a sample of a population. Descriptive statistics are broken down into measures of central tendency and measures of dispersion (spread).</p>",
-    "instruction": "",
-    "_id": "5cefa4850c284c0541496026",
-    "_parentId": "5cefa4850c284c0541496025",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "narrative",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Sampling",
-    "displayTitle": "Sampling",
-    "body": "",
-    "instruction": "",
-    "_id": "5cf009070c284c0541496097",
-    "_parentId": "5cefa3210c284c054149601b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "Whole population sampling",
-        "body": "<p>A population is a whole, it&#39;s every member of a group. A population is the opposite of a sample.&nbsp;</p><p>It is very rare that the complete population will be available (or collectable). Even if you have every data point collected, this&nbsp;is also unlikely to cover the whole population.&nbsp;</p><p>It is important to carefully consider&nbsp;sampling methods&nbsp;to eliminate sample bias.&nbsp;Sampling bias occurs when the method used to create the sample results in samples that are systematically different from the population the samples are taken from.</p>",
-        "_graphic": {
-          "src": "course/en/assets/241b8f5efe4a9ae035aaf75fa48d92a76449452a.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Whole population"
-      },
-      {
-        "title": "Random sampling",
-        "body": "<p>In a random sample, each individual is chosen entirely by chance and each member of the population has an equal chance of being selected.&nbsp;</p><p>Random samples require a way of naming or numbering the target population and then using some type of raffle method to choose those to make up the sample.</p><p>Random sampling is the&nbsp;best method of selecting your sample from the population of interest as there is less chance of&nbsp;sampling bias.</p>",
-        "_graphic": {
-          "src": "course/en/assets/e25b99988906329601bc9927610ff8b2aa3ea7e7.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Random"
-      },
-      {
-        "title": "Convenience sampling",
-        "body": "<p>Convenience sampling is perhaps the easiest&nbsp;method of sampling.</p><p>Convenience sampling is a non-probabilistic method of sampling where the sample is essentially the most willing subset of the population.&nbsp;</p><p>In an ordered list, this might simply be the first X items. Or if collecting data from people it will be those&nbsp;available&nbsp;and willing&nbsp;to take part.</p><p>Useful results can be obtained, but the results are prone to significant volunteer bias.</p>",
-        "_graphic": {
-          "src": "course/en/assets/85aab02dfdcfda134ccdcdf573fadcb19ee160ff.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Convenience"
-      },
-      {
-        "title": "Clustered sampling",
-        "body": "<p>In a clustered sample, the population is divided into subgroups, known as clusters, which are randomly selected to be included in the study.&nbsp;</p><p>Clusters are usually already defined, for example individual GP practices or towns could be identified as clusters.</p><p>In single-stage cluster sampling, all members of the chosen clusters are then included in the study. In two-stage cluster sampling, a selection of individuals from each cluster is then randomly selected for inclusion.</p>",
-        "_graphic": {
-          "src": "course/en/assets/a2f951fd24a03a95832d1f8df1919b486320859a.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Clustered"
-      },
-      {
-        "title": "Systematic clustering",
-        "body": "<p>In systematic sampling, individuals are selected at regular intervals from the population.&nbsp;</p><p>Systematic sampling is often more convenient than random sampling, and it is easy to administer. However,&nbsp;it may also lead to bias, for example if there are underlying patterns in the order of the individuals in the population.</p>",
-        "_graphic": {
-          "src": "course/en/assets/ddc5c74dc1520e97e611ce44a7b81764f75008e1.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Systematic"
-      },
-      {
-        "title": "Stratified sampling",
-        "body": "<p>In stratified&nbsp;sampling, the population is first divided into subgroups (or strata) who all share a similar characteristic.&nbsp;</p><p>The sample is then obtained by either taking equal sample sizes&nbsp;from each subgroup or&nbsp;taking a&nbsp;proportional sample (as shown).</p><p>Stratified sampling improves the accuracy and representativeness of the results by reducing sampling bias. However, it requires knowledge of the appropriate characteristics of the population (the details of which are not always available), and it can be difficult to decide which characteristic(s) to stratify by.</p>",
-        "_graphic": {
-          "src": "course/en/assets/793d0f17fe71aea8bb775386cc36c9b7e37b60b9.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Stratified"
-      }
-    ]
-  },
-  {
-    "_component": "text",
-    "_classes": "inverted color-three",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "3. Graphical methods to analyse data",
-    "displayTitle": "3. Graphical methods to analyse data",
-    "body": "<p dir=\"ltr\">Graphical analysis can identify patterns and trends.&nbsp;There are many different types of graphs and charts suited for different types of graphical analysis. We have summarised the key points about each in the section below.</p>",
-    "instruction": "",
-    "_id": "5cefb97c0c284c054149602f",
-    "_parentId": "5cefb97c0c284c054149602e",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "title": "Component title",
-    "displayTitle": "",
+    "displayTitle": "Component title",
     "body": "",
     "instruction": "",
-    "_id": "5ce66cbc1e8911053ed450dc",
+    "_id": "5d17a002e41e4605696f330b",
+    "_parentId": "5d179e88e41e4605696f3304",
+    "_type": "component",
     "_layout": "right",
-    "_parentId": "5ce66cbc1e8911053ed450d5",
-    "_type": "component",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "alt": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "box-and-whisker plot",
-    "displayTitle": "box-and-whisker plot",
-    "body": "",
-    "instruction": "",
-    "_id": "5ce7c7480c9aa6055a8d2186",
-    "_parentId": "5ce7c7480c9aa6055a8d2185",
-    "_type": "component",
-    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -640,50 +767,26 @@
     },
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
-      "small": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+      "large": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "small": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
-    "_component": "text",
+    "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Standard deviations",
-    "displayTitle": "Standard deviations",
-    "body": "<p>The standard deviation (SD) is a measure of how spread out numbers are.</p><p>When we calculate the standard deviation we find that generally:</p><ul><li>68% of values are within 1 standard deviation of the mean</li><li>95% of values are within&nbsp;2 standard deviations of the mean</li><li>99.7% of values are within 3&nbsp;standard deviations of the mean</li></ul><p>The standard deviation can be used in data that has a normal distribution &ndash; to determine the proportion of values that lie within particular ranges of the mean. Or to think of it another way, if the mean is a good measure of the average, then standard deviation is a good measure of variance.&nbsp;&nbsp;</p><p>Standard deviation can be used to also be used to identify outliers (points outside of 2 standard deviations), test statistical significance or even with&nbsp;machine learning and data models to sanity check predictions.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5cefa7060c284c0541496028",
-    "_parentId": "5cefa63d0c284c0541496027",
+    "title": "In what way does the visualisation here mislead the viewer?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d17a142e41e4605696f3335",
+    "_parentId": "5d179e37e41e4605696f3300",
     "_type": "component",
     "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Data type",
-    "displayTitle": "Data type",
-    "body": "<p>A good understanding of the different data types - also called measurement scales - is important for EDA as particular statistical measurements can only be applied to specific data types.&nbsp;</p><p>Broadly speaking there are two main&nbsp;types of data that can be used in EDA.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5cefa3450c284c0541496020",
-    "_parentId": "5cefa3080c284c0541496019",
-    "_type": "component",
-    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -694,230 +797,65 @@
     },
     "_items": [
       {
-        "title": "Categorical Data",
-        "body": "<p>In categorical, values are constrained within a certain range. An example, is&nbsp;<strong>discrete&nbsp;</strong>data.&nbsp;</p><p>There are two main&nbsp;types of categorical data:</p><p><strong>Nominal data</strong>: Such as gender or language. These labels (or values) are limited in range but there is no intrinsic order to the values.&nbsp;</p><p><strong>Ordinal data</strong>: Very similar to nominal data, but where order matters, e.g. customer satisfaction, education level.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
+        "text": "Doesn’t add up to 100%",
+        "_shouldBeSelected": false,
+        "feedback": ""
       },
       {
-        "title": "Numerical data",
-        "body": "<p>Numerical data can be <strong>discrete</strong> (e.g. number of heads in 100 coin flips), or <strong>continuous</strong> (e.g. height of a person).</p><p>There are two main types of numerical data:</p><p><strong>Interval&nbsp;data</strong>&nbsp;refers not only to classification and ordering the measurements, but it also specifies that the distances between each value on the scale are equal.&nbsp;</p><p><strong>Ratio&nbsp;data</strong> is the same as&nbsp;interval data&nbsp; but has a natural zero point. For example, time is ratio since 0 time is meaningful. Degrees Kelvin has a 0 point (absolute 0) and the steps in both these scales are ordered units with the same difference between values.</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
+        "text": "Incorrectly labelled",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Areas of each slices do not represent the values",
+        "_shouldBeSelected": true,
+        "feedback": ""
       }
     ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_component": "graphic",
-    "_classes": "showtitle seventy",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Pie Chart",
-    "displayTitle": "Pie Chart",
-    "body": "<p>A pie chart shows things as a proportion&nbsp;of the whole. They are best used with percentage scales.&nbsp;Pie charts are ideal for giving the reader a quick idea of the proportional distribution of the data. They are not great when there are a large number of categories or the differences between segments are not significant. They can also be&nbsp;misleading if proportional representation is not necessary for a particular analysis.</p>",
-    "instruction": "",
-    "_id": "5cefbe670c284c0541496034",
-    "_parentId": "5cefbaca0c284c0541496030",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
-      "small": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
-      "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "distribution of the data",
-    "displayTitle": "distribution of the data",
-    "body": "",
-    "instruction": "",
-    "_id": "5ce7ca4a0c9aa6055a8d218c",
-    "_parentId": "5ce68a8b1e8911053ed45151",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
-      "small": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "averages",
-    "displayTitle": "averages",
-    "body": "",
-    "instruction": "",
-    "_id": "5ce7c4e40c9aa6055a8d2178",
-    "_parentId": "5ce688ab1e8911053ed45148",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "small": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg\" target=\"_blank\">Cmglee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "ticks",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Exploratory Data Analysis",
-    "displayTitle": "Exploratory Data Analysis",
-    "body": "<p dir=\"ltr\">Exploratory Data Analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA uses a combination of descriptive and graphical methods to:</p><ul><li>Identify issues in the data</li><li>Test assumptions and suggest hypotheses for evaluation</li><li>Support the selection of appropriate analytical tools and techniques</li><li>Provide a basis for the further collection or data pre-processing&nbsp;prior to evaluation.</li></ul><p>This module is split into three sections covering the main aspects of EDA:</p><ol><li>Establishing the type and features of data</li><li>Descriptive methods to analyse data</li><li>Graphical methods to analyse data</li></ol>",
-    "instruction": "",
-    "_id": "5ce66cbc1e8911053ed450db",
-    "_layout": "left",
-    "_parentId": "5ce66cbc1e8911053ed450d5",
-    "_type": "component",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "color-eight",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5ce66cbc1e8911053ed450e7",
-    "_parentId": "5ce66cbc1e8911053ed450d7",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5cefa70b0c284c0541496029",
-    "_parentId": "5cefa63d0c284c0541496027",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f56e1fcf0f495ad31bdd44d879dd7323140a52bf.png",
-      "small": "course/en/assets/f56e1fcf0f495ad31bdd44d879dd7323140a52bf.png",
-      "attribution": "<a href=\"https://www.mathsisfun.com/data/standard-normal-distribution.html\" target=\"_blank\">Maths is fun</a>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "showtitle seventy",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Scatter-plot",
-    "displayTitle": "Scatter-plot",
-    "body": "<p>Scatterplots are used&nbsp;to establish the relationship (or lack of) between two variables.&nbsp;Various types of correlation can be interpreted through the patterns displayed on scatterplots. They are often used in linear regression where a&nbsp;positive (or negative) straight line of best fit is identified.&nbsp; They can also be used to identify non-linear correlations or&nbsp;clusters (no correlation) in the data. Scatterplots can also be plotted in more than two&nbsp;dimensions but these can be difficult to read.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5cefbf170c284c054149603c",
-    "_parentId": "5cefbf160c284c0541496038",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/8e7d4a63ed000c40717eea153a891a41c6762601.png",
-      "small": "course/en/assets/8e7d4a63ed000c40717eea153a891a41c6762601.png",
-      "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -929,10 +867,10 @@
     "_isVisible": true,
     "title": "The distribution of data",
     "displayTitle": "The distribution of data",
-    "body": "<p>Another important aspect to consider is the distribution of data. It is always a good practice to know the distribution as certain analyses require certain distributions.</p><p>The examples here show different types of distributions of data.&nbsp;</p><p>Read more about each below:</p>",
+    "body": "<p dir=\"ltr\">Another important aspect to consider is the measures of dispersion, also known as distributions. As with averages, not all distributions are equivalent and analysis techniques can vary depending on the spread of the data.&nbsp;</p><p dir=\"ltr\">Read more about each below:</p>",
     "instruction": "",
-    "_id": "5ce68a8b1e8911053ed45152",
-    "_parentId": "5ce68a8b1e8911053ed45151",
+    "_id": "5d1f2a1df81bf4055b5d588f",
+    "_parentId": "5d1f2a18f81bf4055b5d5864",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -988,18 +926,1487 @@
     "_shouldCollapseItems": true
   },
   {
+    "_component": "text",
+    "_classes": "inverted color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2. Descriptive methods to analyse data",
+    "displayTitle": "2. Descriptive methods to analyse data",
+    "body": "<p dir=\"ltr\">Descriptive statistics uses measures of central tendency and dispersion (spread) to summarise the features of a collection of information in a given data set. These measures can be either a representation of the entire population or a sample of a population. And their aim is to provide a summary of the content, rather to infer something about the population at large, in which case one will rely on inferential statistics, and apply probability theory and nonparametric statistics.</p>",
+    "instruction": "",
+    "_id": "5d1f2a1ef81bf4055b5d5899",
+    "_parentId": "5d1f2a18f81bf4055b5d5867",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Standard deviations",
+    "displayTitle": "Standard deviations",
+    "body": "<p>The standard deviation (SD) is a measure of how spread out numbers are.</p><p>When we calculate the standard deviation we find that generally:</p><ul><li>68% of values are within 1 standard deviation of the mean</li><li>95% of values are within&nbsp;2 standard deviations of the mean</li><li>99.7% of values are within 3&nbsp;standard deviations of the mean</li></ul><p>The standard deviation can be used in data that has a normal distribution &ndash; to determine the proportion of values that lie within particular ranges of the mean. Or to think of it another way, if the mean is a good measure of the average, then standard deviation is a good measure of variance.&nbsp;&nbsp;</p><p>Standard deviation can be used to also be used to identify outliers (points outside of 2 standard deviations), test statistical significance or even with&nbsp;machine learning and data models to sanity check predictions.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d1f2a1ef81bf4055b5d589e",
+    "_parentId": "5d1f2a19f81bf4055b5d5868",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">Exploratory data analysis (EDA) is an approach used to understand and analyse the main characteristics of a dataset. EDA will often use a combination of descriptive and graphical methods in order to:</p><ul><li>identify issues in the data</li><li>test assumptions and suggest hypothesis for evaluation</li><li>support the selection of appropriate analytical tools and techniques</li><li>provide a basis for the further collection or pre-processing of data prior to evaluation.</li></ul><p>There are a wide variety of techniques that can be used to perform EDA, each suited for different types of data and objectives. Pick carefully when doing your own EDA;&nbsp;even picking the wrong measure of average&nbsp;can lead to problems!</p>",
+    "instruction": "",
+    "_id": "5d1f2abef81bf4055b5d5957",
+    "_parentId": "5d1f2abef81bf4055b5d5943",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which measure of central tendency is most robust?",
+    "displayTitle": "",
+    "body": "<p>Which measure of central tendency is most robust to outliers?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d1f4a2af81bf4055b5d59a6",
+    "_parentId": "5d1f2d65f81bf4055b5d596b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Mean",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Median",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Mode",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p dir=\"ltr\">The mean is badly affected by outliers, just one large number and the mean can be larger than the second highest number in the list. The mean is the&nbsp;least robust.</p><p dir=\"ltr\">In this example the mode is the most robust, however it is not the most robust measure of central tendency. Adding a number of the same values can have a profound affect on the mode.&nbsp;</p><p dir=\"ltr\">The median is the most robust measure of central tendency in the situations where&nbsp;outliers are included. In situations when we have to address the outliers, a trim can be performed. In this case removing the highest and lowest values would realign the mean and median.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The mean is badly affected by outliers, just one large number and the mean can be larger than the second highest number in the list. The mean is the&nbsp;least robust.</p><p dir=\"ltr\">In this example the mode is the most robust, however it is not the most robust measure of central tendency. Adding a number of the same values can have a profound affect on the mode.&nbsp;</p><p dir=\"ltr\">The median is the most robust measure of central tendency in the situations where&nbsp;outliers are included. In situations when we have to address the outliers, a trim can be performed. In this case removing the highest and lowest values would realign the mean and median.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "3. Graphical methods to analyse data",
+    "displayTitle": "3. Graphical methods to analyse data",
+    "body": "<p dir=\"ltr\">Graphical analysis can identify patterns and trends.&nbsp;There are many different types of graphs and charts suited for different types of graphical analysis. We have summarised the key points about each in the section below.</p>",
+    "instruction": "",
+    "_id": "5cefb97c0c284c054149602f",
+    "_parentId": "5cefb97c0c284c054149602e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-eight",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2abef81bf4055b5d5944",
+    "_parentId": "5d1f2abef81bf4055b5d5943",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d17a1e1e41e4605696f3336",
+    "_parentId": "5d179e81e41e4605696f3302",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "small": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "attribution": "<a href=\" https://www.cs.ox.ac.uk/people/max.vankleek/\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Measures of Central Tendency",
+    "displayTitle": "Measures of Central Tendency",
+    "body": "<p dir=\"ltr\">Measures of central tendency, also called averages, identify the central position within a set of data, which can be measured in three possible ways: mean, median, and mode.</p><p><strong>Expand the sections below to discover more:</strong></p>",
+    "instruction": "",
+    "_id": "5d1f2a1cf81bf4055b5d588b",
+    "_parentId": "5d1f2a18f81bf4055b5d5863",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "mean",
+        "body": "<p dir=\"ltr\">The most common type of average is the arithmetic mean also denoted as with the symbol &mu;. And it can be used for both, discrete and continuous data.</p><p dir=\"ltr\">It is calculated by adding up all the numbers in a list and dividing by the number of items in the list.</p><p dir=\"ltr\">For example take the following list of numbers:</p><p dir=\"ltr\">3, 5, 8, 10, 13, 13, 18</p><p dir=\"ltr\">The sum of the number is&nbsp;<strong>70</strong>, there are&nbsp;<strong>7</strong>&nbsp;items in the list. Therefore the mean is&nbsp;<strong>10</strong>&nbsp;(70 / 7).</p><p>&nbsp;</p><p>The mean is usually the best measurement for central tendency when the distribution of the data is continuous and symmetrical; also known as having a normal distribution.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "median",
+        "body": "<p dir=\"ltr\">The median is the middle number of the list where the numbers are ranked in order.&nbsp; And you can also think of the median as the mean of two data points spanning the middle for an even number of data points.&nbsp;</p><p dir=\"ltr\">For example take the following list of numbers that are already ranked in ascending order:</p><p dir=\"ltr\">3, 5, 8, 10, 13, 13, 18</p><p dir=\"ltr\">There are seven numbers, the middle number will be the fourth one in the list. Therefore the median of this list of numbers is&nbsp;<strong>10</strong>.&nbsp;</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\">The median is usually the best measurement for central tendency when the data is skewed or when dealing with ordinal data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "mode",
+        "body": "<p>The mode is the most frequently occurring number in the list.&nbsp;</p><p>Taking our list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The most frequently occurring number is&nbsp;<strong>13</strong>.</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\">The mode is usually the best measurement for central tendency when dealing with nominal data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "showtitle seventy",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Pie Chart",
+    "displayTitle": "Pie Chart",
+    "body": "<p dir=\"ltr\">A pie chart shows things as a proportion of the whole. They are best used with percentage scales. Pie charts are ideal for giving the reader a quick idea of the proportional distribution of the data. They are not great when there are a large number of categories or the differences between segments are not significant. They can also be misleading if proportional representation is not necessary for a particular analysis.</p>",
+    "instruction": "",
+    "_id": "5cefbe670c284c0541496034",
+    "_parentId": "5cefbaca0c284c0541496030",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
+      "small": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
+      "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which technique?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f47a7f81bf4055b5d59a4",
+    "_parentId": "5d1f274af81bf4055b5d577d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Exploratory Data Analysis",
+    "displayTitle": "Exploratory Data Analysis",
+    "body": "<p dir=\"ltr\">&nbsp;</p><p>The analysis that we conduct in the exploratory phase is defined by the scope of the project. But exploratory data analysis is part of every stage in the project lifecycle where data is involved as exploring the information it holds help us shape our decisions.</p><p>This module will give you the practical skills you need to understand how to best conduct an EDA by focussing on three main aspects:&nbsp;</p><ol dir=\"ltr\"><li>Establishing the type and features of data</li><li>Descriptive methods to analyse data</li><li>Graphical methods to analyse data</li></ol>",
+    "instruction": "",
+    "_id": "5d1f2737f81bf4055b5d5766",
+    "_layout": "left",
+    "_parentId": "5d1f2736f81bf4055b5d5762",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Measures of central tendency?",
+    "displayTitle": "",
+    "body": "<p>Can you work out the following from our dataset? Please note the answer must be given in exactly the format shown on the left (e.g. &quot;5m22s&quot;).</p>",
+    "instruction": "Enter your answers, then click 'submit'",
+    "_id": "5d1f4c69f81bf4055b5d59a8",
+    "_parentId": "5d1f2a1bf81bf4055b5d5871",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "_answers": [
+          "6m33s"
+        ],
+        "prefix": "Mean: ",
+        "suffix": "",
+        "placeholder": "XmZZs"
+      },
+      {
+        "_answers": [
+          "6m00s"
+        ],
+        "prefix": "Median: ",
+        "suffix": "",
+        "placeholder": "XmZZs"
+      },
+      {
+        "_answers": [
+          "6m00s"
+        ],
+        "prefix": "Mode: ",
+        "suffix": "",
+        "placeholder": "XmZZs"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenge to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The median and mode are both the same in this dataset at 6m00s. The mean is the most challenge to work out as you need to convert everything into seconds and visa-versa to work it out using a calculator. In this case the mean in 6m33s.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "showtitle seventy",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Scatter-plot",
+    "displayTitle": "Scatter-plot",
+    "body": "<p dir=\"ltr\">Scatterplots are used to establish the relationship (or lack of) between two variables. Various types of correlation can be interpreted through the patterns displayed on scatterplots. They are often used in linear regression where a positive (or negative) straight line of best fit is identified.&nbsp; They can also be used to identify non-linear correlations or clusters (no correlation) in the data. Scatterplots can also be plotted in more than two dimensions but these can be difficult to read.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5cefbf170c284c054149603c",
+    "_parentId": "5cefbf160c284c0541496038",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e7d4a63ed000c40717eea153a891a41c6762601.png",
+      "small": "course/en/assets/8e7d4a63ed000c40717eea153a891a41c6762601.png",
+      "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Flight delays",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d1f5131f81bf4055b5d59e1",
+    "_parentId": "5d1f2a1bf81bf4055b5d5872",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "text": "Negatively skewed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "text": "Positively skewed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "text": "Normally distributed",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "text": "Non-normally distributed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Even though it might look positively skewed, it is actually normally distributed by the data shown. Here the mean, median and mode are all in the same category (0-10 minutes late). Very few planes land late compared to the amount that fly!&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Even though it might look positively skewed, it is actually normally distributed by the data shown. Here the mean, median and mode are all in the same category (0-10 minutes late). Very few planes land late compared to the amount that fly!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Choosing the right graph",
+    "displayTitle": "Choosing the right graph",
+    "body": "<p>Match the following example to the most appropriate graphical method of exploration.</p>",
+    "instruction": "Select your answers, then click 'submit'",
+    "_id": "5d179e98e41e4605696f3305",
+    "_parentId": "5d179e1be41e4605696f32fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Number of busses on the road at different times of day",
+        "_options": [
+          {
+            "text": "pie chart",
+            "_isCorrect": false
+          },
+          {
+            "text": "box and whisker plot",
+            "_isCorrect": false
+          },
+          {
+            "text": "scatter-plot",
+            "_isCorrect": false
+          },
+          {
+            "text": "line chart",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Number of planes late arriving, grouped into 30 minute intervals",
+        "_options": [
+          {
+            "text": "scatter-plot",
+            "_isCorrect": false
+          },
+          {
+            "text": "historgam",
+            "_isCorrect": true
+          },
+          {
+            "text": "pie chart",
+            "_isCorrect": false
+          },
+          {
+            "text": "bar chart",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Correlating travel distance to delay",
+        "_options": [
+          {
+            "text": "box and whisker",
+            "_isCorrect": false
+          },
+          {
+            "text": "bar chart",
+            "_isCorrect": false
+          },
+          {
+            "text": "pie chart",
+            "_isCorrect": false
+          },
+          {
+            "text": "scatter-plot",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "An overall split on project spend in different categories",
+        "_options": [
+          {
+            "text": "pie chart",
+            "_isCorrect": true
+          },
+          {
+            "text": "histogram",
+            "_isCorrect": false
+          },
+          {
+            "text": "box and whisker plot",
+            "_isCorrect": false
+          },
+          {
+            "text": "scatter-plot",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>If you have data over time, then a line chart is best for the first question. Grouping this requires a histogram in the second question. Comparing two variables to find a correlation is best done with a scatter plot while a breakdown on project spending is nicely visualised in a pie chart.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>If you have data over time, then a line chart is best for the first question. Grouping this requires a histogram in the second question. Comparing two variables to find a correlation is best done with a scatter plot while a breakdown on project spending is nicely visualised in a pie chart.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data types",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Broadly speaking there are two main types of data that can be used in EDA:&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d1f274ef81bf4055b5d57af",
+    "_parentId": "5d1f2747f81bf4055b5d576f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Categorical Data",
+        "body": "<p dir=\"ltr\">In categorical, values are constrained within a certain range. An example, is&nbsp;<strong>discrete</strong>&nbsp;data.&nbsp;</p><p dir=\"ltr\">There are two main types of categorical data:</p><ul dir=\"ltr\"><li><strong>Nominal data</strong>: Such as gender or language. These labels (or values) are limited in range but there is no intrinsic order to the values.&nbsp;</li><li><strong>Ordinal data</strong>: Very similar to nominal data, but where order matters, e.g. customer satisfaction, education level.&nbsp;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/e022d2597136dfd4621fd74706406bc70efd8e4e.png",
+          "attribution": "<a href=\"https://towardsdatascience.com/data-types-in-statistics-347e152e8bee\" target=\"_blank\">Niklas Donges</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Numerical data",
+        "body": "<p dir=\"ltr\">Numerical data can be discrete continuous, or be a ratio.&nbsp;</p><ul dir=\"ltr\"><li><strong>Discrete data</strong> represent items that can be counted or listed. For example, the number of heads in 100 coin flips takes on values from 0 through 100.</li><li><strong>Continuous data</strong> represent measurements and can only be described using intervals. For example, the exact amount of gas purchased at the pump for cars with 20-gallon tanks would be continuous data from 0 gallons to 20 gallons, represented by the interval [0, 20], inclusive. You might pump 8.40 gallons, or 8.41, or 8.414863 gallons, or any possible number from 0 to 20. In this way, continuous data can be thought of as being uncountably infinite.</li><li><strong>Ratio</strong> <strong>data</strong> are numbers that can be compared as multiples of one another, and can be multiplied and divided. For example, not only is the difference between 1 and 2 the same as between 3 and 4, but also that 4 is twice as much as 2.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/e022d2597136dfd4621fd74706406bc70efd8e4e.png",
+          "attribution": "<a href=\"https://towardsdatascience.com/data-types-in-statistics-347e152e8bee\" target=\"_blank\">Niklas Donges</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Dimensionality",
+    "displayTitle": "Dimensionality",
+    "body": "<p dir=\"ltr\">The majority of data we deal with today contains a high number of dimensions, also known as multivariate. This is simply a way of saying that each record in a dataset has a high number of variables</p><ul dir=\"ltr\"><li>One variable = univariate</li><li>Two variables = bivariate</li><li>More than three variables = multivariate</li></ul><p>When a high number of variables are collected we must be aware of&nbsp;variable dependence:&nbsp;when a change of value for one variable affects the value of another, thus the variables are intrinsically connected (e.g air pressure and temperature).</p><p dir=\"ltr\">Highly dimensional datasets could also be semi-structured or contain nested data, thus increasing the complexity.</p>",
+    "instruction": "",
+    "_id": "5d1f274ef81bf4055b5d57b7",
+    "_parentId": "5d1f2747f81bf4055b5d5771",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sampling",
+    "displayTitle": "Sampling",
+    "body": "<p>When gathering or re-using data it is of critical importance to understand how data has been sampled. It is very rare that a dataset will be complete and represent the whole population, thus at some point a sample will have been, or will need to be taken.&nbsp;</p><p>To ensure a sample is fair, we have to pay careful attention to how we select our sample because it is important for it to be an actual representation of the population and not contain data that favours one particular characteristic.</p>",
+    "instruction": "",
+    "_id": "5d1f45fcf81bf4055b5d598c",
+    "_parentId": "5d1f45e3f81bf4055b5d598b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which sampling technique would you choose?",
+    "displayTitle": "Which technique?",
+    "body": "<p>If you were tasked with sampling the employees of ARUP for use in data analysis, which sampling technique would be most suitable?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d1f47e9f81bf4055b5d59a5",
+    "_parentId": "5d1f274af81bf4055b5d577d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Convenience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Systematic",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Clustered",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>ARUP has many offices that all part of the population we want to represented. The best approach to sampling in this case would be a clustered sampling technique containing data from all offices. Within this clustered approach a systematic sample would be best to ensure data is collected about all different roles within the company.&nbsp;<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>ARUP has many offices that all part of the population we want to represented. The best approach to sampling in this case would be a clustered sampling technique containing data from all offices. Within this clustered approach a systematic sample would be best to ensure data is collected about all different roles within the company.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Fair sampling?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f466bf81bf4055b5d599d",
+    "_parentId": "5d1f4654f81bf4055b5d599b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Fair sampling?",
+    "displayTitle": "Fair sampling?",
+    "body": "<p>If we want to conduct an analysis of the employees at ARUP, will a sample from one office be an appropriate representation of the whole population (all employees)?</p>",
+    "instruction": "Pick you answer, then click 'submit'",
+    "_id": "5d1f4666f81bf4055b5d599c",
+    "_parentId": "5d1f4654f81bf4055b5d599b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The employees in one office are very likely differ from those in other Arup offices, thus sampling from one office will likely lead to bias in the data.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The employees in one office are very likely differ from those in other Arup offices, thus sampling from one office will likely lead to bias in the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Test your knowledge",
+    "displayTitle": "Test your knowledge",
+    "body": "<p>See if you can chose the right graphical ways to evaluate data and identify the problems and deceptions in some others.</p>",
+    "instruction": "",
+    "_id": "5d1f55fff81bf4055b5d5a2b",
+    "_parentId": "5d1f55fef81bf4055b5d5a2a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Flight delays",
+    "displayTitle": "Flight delays",
+    "body": "<p>The following data represents the arrival delay of planes at an airport taken over a 2 month period.&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td>10-20 minutes early</td><td>4,404 flights</td></tr><tr><td>0-10 minutes early</td><td>22,722 flights</td></tr><tr><td>0-10 minutes late</td><td>20,040 flights</td></tr><tr><td>10-20 minutes late</td><td>8,106 flights</td></tr><tr><td>20-30 minutes late</td><td>3,433 flights</td></tr><tr><td>30-40 minutes late</td><td>2,757 flights</td></tr><tr><td>40-50 minutes late</td><td>1,849 flights</td></tr></tbody></table><p>&nbsp;</p><p>Which of the following plots represents&nbsp;the spread of the flight delay data?</p>",
+    "instruction": "",
+    "_id": "5d1f4cc6f81bf4055b5d59a9",
+    "_parentId": "5d1f2a1bf81bf4055b5d5872",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Emergency service performance",
+    "displayTitle": "",
+    "body": "<p>The following is a set of&nbsp;response times of emergency services to incidents:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td>4m11s</td><td>6m00s</td></tr><tr><td>4m30s</td><td>6m20s</td></tr><tr><td>5m32s</td><td>6m50s</td></tr><tr><td>5m48s</td><td>7m30s</td></tr><tr><td>5m59s</td><td>13m23s</td></tr><tr><td>6m00s</td><td>&nbsp;</td></tr></tbody></table><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d1f4c58f81bf4055b5d59a7",
+    "_parentId": "5d1f2a1bf81bf4055b5d5871",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What data type?",
+    "displayTitle": "",
+    "body": "<p>See if you can match the following dataset descriptions to the most appropriate data types.</p>",
+    "instruction": "Select your answers and then click 'submit'",
+    "_id": "5d1f2752f81bf4055b5d581a",
+    "_parentId": "5d1f2749f81bf4055b5d577b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Arrival airport code of a flight",
+        "_options": [
+          {
+            "text": "categorical nominal",
+            "_isCorrect": false
+          },
+          {
+            "text": "categorical ordinal",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Arrival delay of flights to an airport (in minutes)",
+        "_options": [
+          {
+            "text": "numeric discrete",
+            "_isCorrect": false
+          },
+          {
+            "text": "numeric continuous",
+            "_isCorrect": true
+          },
+          {
+            "text": "numeric ratio",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>If there is a limited range of options, no matter how many options then the data type is categorical as is the case the airport codes. With regards to the delay, this is a continuous numeric. It is not a ratio as there is not a zero value due to fact the flight could arrive early. &nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>If there is a limited range of options, no matter how many options then the data type is categorical as is the case the airport codes. With regards to the delay, this is a continuous numeric. It is not a ratio as there is not a zero value due to fact the flight could arrive early. &nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f4367f81bf4055b5d5983",
+    "_parentId": "5d1f2747f81bf4055b5d5771",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why Exploratory Data Analysis?",
+    "displayTitle": "",
+    "body": "<p>The outputs of the exploratory analysis can shape the outputs of the discovery phase and influence the project motivation, and it can also inform the design of the solution that will be building.&nbsp;</p><p>We can explore data from one source, and we can compare it to the information we analyse from multiple sources. The analysis of the combined information is how we can best ensure we make the most informed decisions. Hence, the Exploratory Data Analysis (EDA) is an approach that uses a combination of descriptive and graphical methods to:</p><ul><li>Identify issues in the data</li><li>Determine relationships and general trends in the data</li><li>Test assumptions and suggest hypotheses for evaluation</li><li>Support the selection of appropriate analytical tools and techniques</li><li>Provide a basis for the further collection or data pre-processing prior to evaluation.<br />&nbsp;</li></ul>",
+    "instruction": "",
+    "_id": "5d1f2e6ef81bf4055b5d596f",
+    "_parentId": "5d1f2e67f81bf4055b5d596e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why EDA",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f2e73f81bf4055b5d5970",
+    "_parentId": "5d1f2e67f81bf4055b5d596e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sampling",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f4607f81bf4055b5d598d",
+    "_parentId": "5d1f45e3f81bf4055b5d598b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data types",
+    "displayTitle": "",
+    "body": "<p>It is important to have a good understanding of the different data types - also called measurement scales - because this conditions which statistical measurement can be used for a given data type.</p><p>Imagine you are evaluating the reasons for delays in transport systems. You will need data on delay duration and reason. However when you look at the delay data you might find the delay duration hasn&rsquo;t been collected. In its place &nbsp;a boolean true or false is present if there was a delay. The data type doesn&rsquo;t match expectation and thus limits further analysis.<br />&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d1f439ef81bf4055b5d5988",
+    "_parentId": "5d1f2747f81bf4055b5d576f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Importance of descriptive statistics",
+    "displayTitle": "",
+    "body": "<p>Why is establishing the spread and central tendency of data important in projects at ARUP?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d1f53aff81bf4055b5d5a07",
+    "_parentId": "5d1f536bf81bf4055b5d5a06",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "To check the data is as expected and doesn’t contain bias",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To identify and dispose of outliers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To inform the choice of sampling technique",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Before any conclusions can be drawn from data it is important to check that the data is in the expected shape and doesn&rsquo;t contain bias. In the majority of cases, the shape of data will be known by domain experts. Take for example a dataset of salaries in a company. This should always be positively skewed (mean higher than the median); if it is normally distributed then something is a miss.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Before any conclusions can be drawn from data it is important to check that the data is in the expected shape and doesn&rsquo;t contain bias. In the majority of cases, the shape of data will be known by domain experts. Take for example a dataset of salaries in a company. This should always be positively skewed (mean higher than the median); if it is normally distributed then something is a miss.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "narrative",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Structured, semi-structured and unstructured data",
-    "displayTitle": "Structured, semi-structured and unstructured data",
+    "title": "Sampling techniques",
+    "displayTitle": "Sampling techniques",
     "body": "",
     "instruction": "",
-    "_id": "5cefe5f30c284c0541496064",
-    "_parentId": "5cefa32b0c284c054149601f",
+    "_id": "5d1f2ceef81bf4055b5d5963",
+    "_parentId": "5d1f2ceef81bf4055b5d5962",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1015,92 +2422,65 @@
     "_setCompletionOn": "inview",
     "_items": [
       {
-        "title": "Structured data",
-        "body": "<p>Structured data refers to any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p>Think of data in relational databases or high quality&nbsp;spreadsheets.</p><p>Well structured data is often referred to as machine readable&nbsp;in a form that a computer can process without human assistance.&nbsp;</p><p>Structured data that is high quality and has an adequate sample size (see next section) is ideally suited for EDA.</p>",
+        "title": "Whole population",
+        "body": "<p>A population is a whole, it&#39;s every member of a group. A population is the opposite of a sample.&nbsp;<br />It is very rare that the complete population will be available (or collectable). &nbsp;</p><p>Additionally, using the whole population to build a model or some inferential statistic should be avoided as there is no way to evaluate the model against any other samples; as no other samples can be taken.</p>",
         "_graphic": {
-          "src": "course/en/assets/12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg",
+          "src": "course/en/assets/241b8f5efe4a9ae035aaf75fa48d92a76449452a.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "strapline": "Structured data"
+        "strapline": "Whole population"
       },
       {
-        "title": "Semi-structured data",
-        "body": "<p>Semi-structured data does not obey a formal fixed structure.&nbsp;</p><p>Semi-structured data can be:</p><p>1. A mix of structured and unstructured data</p><p>2. Self-describing using a range of attributes or tags that are not fixed.&nbsp;</p>",
+        "title": "Random sampling",
+        "body": "<p>In a random sample, each individual data point is chosen entirely by chance and each member of the population has an equal chance of being selected.&nbsp;</p><p>Random samples require a way of naming or numbering the target population and then using some type of raffle method to choose those to make up the sample.</p><p>Random sampling is the best method of selecting your sample from the population of interest as there is less chance of sampling bias.</p>",
         "_graphic": {
-          "src": "course/en/assets/2a19879f6b900d72901569f42dbeab2e82f3caa7.jpg",
+          "src": "course/en/assets/e25b99988906329601bc9927610ff8b2aa3ea7e7.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "strapline": "Semi-structured data"
+        "strapline": "Random"
       },
       {
-        "title": "Unstructured data",
-        "body": "<p>Unstructured data is not organised in any pre-defined manner. For example,&nbsp;free-text response&nbsp;to a survey, is unstructured data.</p><p>Typically, unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or coding.</p>",
+        "title": "Convenience sampling",
+        "body": "<p>Convenience sampling is perhaps the easiest method of sampling.</p><p>Convenience sampling is a non-probabilistic method of sampling where the sample is essentially the most willing subset of the population.&nbsp;</p><p>In an ordered list, this might simply be the first X items. Or if collecting data from people it will be those available and willing to take part.</p><p>Useful results can be obtained, but the results are prone to significant volunteer bias.</p>",
         "_graphic": {
-          "src": "course/en/assets/dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg",
+          "src": "course/en/assets/85aab02dfdcfda134ccdcdf573fadcb19ee160ff.png",
           "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
         },
-        "strapline": "Unstructured data"
+        "strapline": "Convenience"
+      },
+      {
+        "title": "Clustered sampling",
+        "body": "<p>In a clustered sample, the population is divided into subgroups, known as clusters, which are randomly selected to be included in the study.&nbsp;</p><p>Clusters are usually already defined, e.g. Arup offices.&nbsp;<br />,.<br />In single-stage cluster sampling, all members of the chosen clusters are then included in the study. In two-stage cluster sampling, a selection of individuals from each cluster is then randomly selected for inclusion.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a2f951fd24a03a95832d1f8df1919b486320859a.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Clustered"
+      },
+      {
+        "title": "Systematic clustering",
+        "body": "<p>In systematic sampling, individuals are selected at regular intervals from the population.&nbsp;</p><p>Systematic sampling is often more convenient than random sampling, and it is easy to administer. However, it may also lead to bias, for example if there are underlying patterns in the order of the individuals in the population.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ddc5c74dc1520e97e611ce44a7b81764f75008e1.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Systematic"
+      },
+      {
+        "title": "Stratified sampling",
+        "body": "<p>In stratified sampling, the population is first divided into subgroups (or strata) who all share a similar characteristic.&nbsp;<br />The sample is then obtained by either taking equal sample sizes from each subgroup or taking a proportional sample (as shown).</p><p>Stratified sampling improves the accuracy and representativeness of the results by reducing sampling bias. However, it requires knowledge of the appropriate characteristics of the population (the details of which are not always available), and it can be difficult to decide which characteristic(s) to stratify by.</p>",
+        "_graphic": {
+          "src": "course/en/assets/793d0f17fe71aea8bb775386cc36c9b7e37b60b9.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Stratified"
       }
     ]
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Averages",
-    "displayTitle": "Averages",
-    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &#39;average&#39;&nbsp;refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers there are in that set. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p><p><strong>Expand the sections below to discover more:</strong></p>",
-    "instruction": "",
-    "_id": "5ce689071e8911053ed45149",
-    "_parentId": "5ce688ab1e8911053ed45148",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_items": [
-      {
-        "title": "mean",
-        "body": "<p>The most common type of average is the arithmetic mean.</p><p>The arithmetic mean, often simply called the mean, is calculated by adding up all the numbers in a list and dividing by the number of items in the list.</p><p>For example take the following list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The sum of the number is&nbsp;<strong>70</strong>, there are&nbsp;<strong>7&nbsp;</strong>items in the list. Therefor the mean is&nbsp;<strong>10&nbsp;</strong>(70 / 7).</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "median",
-        "body": "<p>The median is the middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are seven&nbsp;numbers, the middle number will be the fourth&nbsp;one in the list. Therefore the median of this list of numbers is&nbsp;<strong>10</strong>.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "mode",
-        "body": "<p>The mode is the most frequently occurring number in the list.&nbsp;</p><p>Taking our list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The most frequently occurring number is&nbsp;<strong>13</strong>.</p><p>There can be more than one mode and there can also be no mode.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
   }
 ]

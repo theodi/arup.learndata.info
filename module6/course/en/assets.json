@@ -16,6 +16,73 @@
       }
     ]
   },
+  "672bf2eb96b5642e5d515626558e12effcde751b.jpg": {
+    "title": "Baseline & Area failure",
+    "description": "Baseline & Area failure",
+    "source": "http://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      }
+    ]
+  },
+  "df4f58cc130dde9a671827313192401b8cb263ca.jpg": {
+    "title": "Health care pie",
+    "description": "Unhealthy data. ",
+    "source": "http://viz.wtf/post/143590868627/unhealthy-data",
+    "licence": "All rights reserved",
+    "attribution": "WTF Visualizations",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      },
+      {
+        "title": "Data",
+        "_id": "584804154d7b7e82691e4ba7"
+      },
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      }
+    ]
+  },
+  "4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png": {
+    "title": "Area or stack?",
+    "description": "The area charts",
+    "source": " https://www.cs.ox.ac.uk/people/max.vankleek/",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "584802064d7b7e82691e4b9e"
+      },
+      {
+        "title": "Finding",
+        "_id": "5847ff3c4d7b7e82691e4b91"
+      },
+      {
+        "title": "EDSA",
+        "_id": "5847ff354d7b7e82691e4b90"
+      }
+    ]
+  },
   "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
     "title": "Clipboard Black (NEW)",
     "description": "Clipboard Black (NEW)",
@@ -54,30 +121,6 @@
     "source": "https://www.mathsisfun.com/data/standard-normal-distribution.html",
     "licence": "",
     "attribution": "Maths is fun",
-    "tags": []
-  },
-  "12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg": {
-    "title": "ARUP - Structured data",
-    "description": "ARUP - Structured data",
-    "source": "https://theodi.org",
-    "licence": "CC0",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "2a19879f6b900d72901569f42dbeab2e82f3caa7.jpg": {
-    "title": "ARUP - Semi Structured",
-    "description": "ARUP - Semi Structured",
-    "source": "https://theodi.org",
-    "licence": "CC0",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg": {
-    "title": "ARUP - Unstructured data",
-    "description": "ARUP - Unstructured data",
-    "source": "https://theodi.org",
-    "licence": "CC0",
-    "attribution": "The Open Data Institute",
     "tags": []
   },
   "e022d2597136dfd4621fd74706406bc70efd8e4e.png": {
@@ -214,6 +257,14 @@
     "source": "https://datavizcatalogue.com/index.html",
     "licence": "All rights reserved",
     "attribution": "Data Viz Catalogue",
+    "tags": []
+  },
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
     "tags": []
   }
 }

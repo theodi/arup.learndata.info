@@ -3,7 +3,7 @@
   "displayTitle": "ARUP Module 2 - Data requirements",
   "body": "<p>This module will re-introduce people to the characteristics of data and focus on the data lifecycle in order to raise awareness of what data is, where it comes from and how it is managed throughout the entire data lifecycle. By the end of the module participants should be able to:</p><ul dir=\"ltr\"><li>Describe a dataset (i.e. types, attributes, volume, sources)</li><li>Identify constraints with the dataset (what can/can&rsquo;t be done with it)</li><li>Describe the complete data lifecycle</li></ul>",
   "description": "",
-  "_latestTrackingId": 33,
+  "_latestTrackingId": 35,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -83,6 +83,9 @@
       },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       }
     },
     "_extensions": {

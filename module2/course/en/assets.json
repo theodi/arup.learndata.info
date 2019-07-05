@@ -187,14 +187,6 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
-  "b82190f2dff5a5279d00074f02df09057646c5b6.png": {
-    "title": "ARUP schema",
-    "description": "ARUP schema",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
   "3b3f1b5e9991aa061eacfaf808dab1fccf7b3199.csv": {
     "title": "ARUP-company-data.csv",
     "description": "ARUP-company-data.csv",
@@ -217,6 +209,22 @@
     "source": "",
     "licence": "All rights reserved",
     "attribution": "ARUP",
+    "tags": []
+  },
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
+  "6c71ce21274d19a4b129a6eac4977a2c5e819a04.png": {
+    "title": "ARUP - Characteristics of data",
+    "description": "ARUP - Characteristics of data",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
     "tags": []
   }
 }

@@ -7,61 +7,57 @@
     "_isHidden": false,
     "_isVisible": true,
     "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d061734a6999a055af12277",
-    "_parentId": "5d061734a6999a055af12275",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d065354a6999a055af122ab",
-    "_parentId": "5d065354a6999a055af122aa",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d064f9ea6999a055af122a7",
-    "_parentId": "5d064f9ea6999a055af122a5",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
+    "displayTitle": "",
     "body": "",
     "instruction": "",
     "_id": "5d064cffa6999a055af122a3",
     "_parentId": "5d064cfea6999a055af122a1",
     "_type": "component",
-    "_layout": "right"
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why is metadata important?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f5eaaf81bf4055b5d5a6e",
+    "_parentId": "5d1f3a70f81bf4055b5d5981",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
   },
   {
     "_component": "text",
@@ -85,6 +81,36 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d061734a6999a055af12277",
+    "_parentId": "5d061734a6999a055af12275",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -124,11 +150,11 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Schema",
-    "displayTitle": "",
+    "title": "Component title",
+    "displayTitle": "Component title",
     "body": "",
     "instruction": "",
-    "_id": "5d062ccca6999a055af1229c",
+    "_id": "5d1f6f33f81bf4055b5d5af8",
     "_parentId": "5d062ccca6999a055af1229a",
     "_type": "component",
     "_layout": "right",
@@ -142,9 +168,39 @@
     },
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/b82190f2dff5a5279d00074f02df09057646c5b6.png",
-      "small": "course/en/assets/b82190f2dff5a5279d00074f02df09057646c5b6.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "large": "course/en/assets/6fcd353a48f8f14445f10ff685b635ff6a5aa4e2.png",
+      "small": "course/en/assets/6fcd353a48f8f14445f10ff685b635ff6a5aa4e2.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d064f9ea6999a055af122a7",
+    "_parentId": "5d064f9ea6999a055af122a5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -156,7 +212,7 @@
     "_isVisible": true,
     "title": "Schemas",
     "displayTitle": "Schemas",
-    "body": "<p>It might not always be clear what classes of data are present in a dataset (i.e.&nbsp;Is there an ordinal scale or not?). This is where a schema can help.&nbsp;</p><p>The collection of attributes used in a particular dataset, and the way they are organised, is called a &lsquo;schema&rsquo;.</p><p>Schemas can be as simple as defining which column names to use in a spreadsheet, and what should go into them (e.g. numbers, date/time information, text descriptions, etc).</p>",
+    "body": "<p>It might not always be clear what classes of data are present in a dataset (i.e.&nbsp;Is there an ordinal scale or not?). This is where a schema can help.&nbsp;</p><p>The collection of attributes used in a particular dataset, and the way they are organised, is called a &lsquo;schema&rsquo;.</p><p>Schemas can be as simple as defining which column names to use in a spreadsheet, and what should go into them (e.g. numbers, date/time information, text descriptions, etc).</p><p>Below is an example schema for our dataset:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>Attribute</td><td>Data types</td><td>Validation rules</td></tr><tr><td>Name</td><td>Free text</td><td>None</td></tr><tr><td>Description</td><td>Free text</td><td>None</td></tr><tr><td>Headquarters</td><td>Free text</td><td>None</td></tr><tr><td>Status</td><td>Categorical</td><td>One of &quot;Active&quot;, &quot;Inactive&quot;</td></tr><tr><td>Years active</td><td>Continuous integer</td><td>Greater than 0</td></tr><tr><td>Financial health</td><td>Categorical</td><td>One of &quot;Very poor&quot;, &quot;Poor&quot;, &quot;OK&quot;, &quot;Good&quot;, &quot;Excellent&quot;&nbsp;</td></tr></tbody></table>",
     "instruction": "",
     "_id": "5d062e03a6999a055af1229f",
     "_parentId": "5d062e02a6999a055af1229e",
@@ -180,7 +236,7 @@
     "_isVisible": true,
     "title": "Characteristics of datasets",
     "displayTitle": "Characteristics of datasets",
-    "body": "<p>The characteristics of a dataset influence what you can do with it and how valuable it is for your project.</p><p>There are a number of key dataset characteristics to consider, e.g.&nbsp;</p><ul><li>structure&nbsp;</li><li>file formats used</li><li>size&nbsp;</li><li>terms of use (covered in &quot;Data usage rights&quot; earlier)</li><li>fitness for a particular purpose</li></ul><p>These and other characteristics influence how data may be used.</p>",
+    "body": "<p>Once you have established the data types required and potential schema there are a number of other dataset characteristics that will influence what you can do with data&nbsp;and how valuable it is for your project.</p><p>These include:</p><p>There are a number of key dataset characteristics to consider, e.g.&nbsp;</p><ul><li>structure&nbsp;</li><li>file formats used</li><li>size&nbsp;</li><li>terms of use (covered in &quot;Data usage rights&quot; earlier)</li><li>fitness for a particular purpose</li></ul><p dir=\"ltr\">These and other characteristics should be considered before using data in your projects as they may influence how the data may be used.</p><p>&nbsp;</p>",
     "instruction": "",
     "_id": "5d065bbea6999a055af122be",
     "_parentId": "5d065b1aa6999a055af122b9",
@@ -228,7 +284,7 @@
     "_isVisible": true,
     "title": "Basic classes of data",
     "displayTitle": "Basic classes of data",
-    "body": "<p>Data attributes will vary a lot across our different areas of business. Therefore, it is very important when collecting or acquiring data to define the attributes and <strong>acceptable set of values </strong>related to those.&nbsp;</p><p>The values of a data attribute typically fall into one of the following classes:</p><ul><li>Categorical data can only take certain values,&nbsp;e.g. Arup Regions</li><li>Ordinal data has&nbsp;a meaningful order or sequence, e.g. Arup Grades</li><li>Continuous data can take any value within a certain range, e.g. Years of service</li></ul><p>The class that your data falls into will influence the type of analysis that can be conducted on the data.</p><p>In statistics, these classes are referred to as &lsquo;Levels of Measurement&rsquo;. There are more of them, but the principles remain the same.</p>",
+    "body": "<p dir=\"ltr\">Data attributes will vary widely across our different areas of business. Therefore, it is very important when collecting or acquiring data to define the attributes and acceptable types of values, known as classes, related to each attribute.</p><p dir=\"ltr\">The values of a data attribute typically fall into one of the following classes:</p><ul dir=\"ltr\"><li>Categorical data can only take certain values, e.g. Arup Regions</li><li>Ordinal data has a meaningful order or sequence, e.g. Arup Grades</li><li>Continuous data can take any value within a certain range, e.g. Time to travel to work</li><li>Free text, e.g. An abstract of a report</li></ul><p>The classes that your data fall into will influence the type of analyses that can be conducted on the data.</p>",
     "instruction": "",
     "_id": "5d06297ba6999a055af12290",
     "_parentId": "5d06297ba6999a055af1228f",
@@ -435,7 +491,7 @@
     "_isVisible": true,
     "title": "Assessing data requirements",
     "displayTitle": "Assessing data requirements",
-    "body": "<p>Once you have determined which are your rights and requirements of using data, you will next have to assess&nbsp;if the data requirements meet your project needs. In the following sections you will explore what those requirements are to help you&nbsp;identify if the data is right for your purposes.</p>",
+    "body": "<p>Once you have determined which are your rights to use&nbsp;data, you will next have to assess&nbsp;if the data requirements meet your project needs. In the following sections you will explore what those requirements are to help you&nbsp;identify if the data is right for your purposes.</p>",
     "instruction": "",
     "_id": "5d07ab63b83d630542a4744b",
     "_parentId": "5d07a73cb83d630542a47436",
@@ -474,12 +530,12 @@
       "_isEnabled": false
     },
     "_attempts": 1,
-    "_canShowModelAnswer": false,
+    "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": false,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_questionWeight": 1,
     "_recordInteraction": false,
     "placeholder": "Please select an option",
@@ -542,9 +598,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>An increasing amount of open data, including&nbsp;<strong>transport timetables</strong>, has led to an explosion in the development of applications that integrate such data, helping people get from one place to another. Open data is freely available without having to negotiate complex licence terms, this reduces the friction to collecting and using the data.&nbsp;</p><p>Not all data is open. <strong>Personal records</strong> of employees of ARUP contain not only personal, but confidential information and should remain closed.&nbsp;</p><p>Just because you can find data on the web, doesn&#39;t mean it is open to be used. You should carefully check the terms of use and/or licence related to that data before doing anything with it.&nbsp;</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>An increasing amount of open data, including&nbsp;<strong>transport timetables</strong>, has led to an explosion in the development of applications that integrate such data, helping people get from one place to another. Open data is freely available without having to negotiate complex licence terms, this reduces the friction to collecting and using the data.&nbsp;</p><p>However, just because you can find data on the web, doesn&#39;t mean it is open to be used. You should carefully check the terms of use and/or licence related to that data before doing anything with it; which we will cover in depth in the Data Sources and Acquisition module.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are&nbsp; you sure about that?</strong></p><p>An increasing amount of open data, including&nbsp;<strong>transport timetables</strong>, has led to an explosion in the development of applications that integrate such data, helping people get from one place to another. Open data is freely available without having to negotiate complex licence terms, this reduces the friction to collecting and using the data.&nbsp;</p><p>However, just because you can find data on the web, doesn&#39;t mean it is open to be used. You should carefully check the terms of use and/or licence related to that data before doing anything with it; which we will cover in depth in the Data Sources and Acquisition module.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -586,7 +642,7 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>From managing the company to running and delivering projects, data can play a key role in informing us on the best decisions to make.</p><p>To get the most from data it is necessary to assess if data can help us solve the problem. This starts with evaluating our rights and legal obligations associated with the data in question. Following this, we need to set requirements that ensure the data is fit for purpose. From the attributes, data types and schema to structure, file format and size, all these requirements are important to specify carefully at the start of any project using data.&nbsp;<br />&nbsp;</p><p>&nbsp;</p>",
+    "body": "<p dir=\"ltr\">From managing the company to running and delivering projects, data plays a key role in informing us on the best decisions to make.</p><p dir=\"ltr\">To get the most from data it is necessary to assess if data can help us solve the problem. This starts with evaluating our rights and legal obligations associated with the data in question. Following this, we need to set requirements that ensure the data is fit for purpose. From the attributes, data types and schema to structure, file format and size, all these requirements are important to understand and specify carefully at the start of any project using data.&nbsp;</p>",
     "instruction": "",
     "_id": "5cd54de911812d052c7705d8",
     "_parentId": "5cd54d7911812d052c7705d4",
@@ -623,6 +679,36 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d065354a6999a055af122ab",
+    "_parentId": "5d065354a6999a055af122aa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
@@ -955,9 +1041,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Component title",
+    "title": "Qualitative and quantitative data",
     "displayTitle": "",
-    "body": "<p><strong>Categorise the following into Qualitative and Quantitative data</strong></p>",
+    "body": "<p>Categorise the following into qualitative and quantitative data</p>",
     "instruction": "",
     "_id": "5d061062a6999a055af12271",
     "_parentId": "5d061062a6999a055af12270",
@@ -972,12 +1058,12 @@
       "_isEnabled": false
     },
     "_attempts": 1,
-    "_canShowModelAnswer": false,
+    "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": false,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_questionWeight": 1,
     "_recordInteraction": false,
     "placeholder": "Please select an option",
@@ -1015,7 +1101,7 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data can originate from many sources and be captured in many ways.</p><p>Data often becomes useful only once it is queried or analysed in some way, e.g.:</p><ul><li>What was the average daily rainfall in my home town last month?</li><li>How many people in my team prefer noodles to pizza?</li></ul><p><strong>Quantitative data</strong>, including <strong>sensor readings</strong>,&nbsp;<strong>timesheet</strong> and the majority of that collected through <strong>surveys</strong>&nbsp;provides structured, numeric, objective&nbsp;and&nbsp;easy&nbsp;to interpret results.&nbsp;</p><p><strong>Qualitative data</strong>, including <strong>interview notes</strong>, <strong>reports</strong> and <strong>photos</strong>&nbsp;are&nbsp;more subjective. While being harder to analyse with automated methods, qualitative data provides deeper insight into&nbsp;underlying reasons, opinions and motivations.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data can originate from many sources and be captured in many ways.</p><p>Data often becomes useful only once it is queried or analysed in some way, e.g.:</p><ul><li>What was the average daily rainfall in my home town last month?</li><li>How many people in my team prefer noodles to pizza?</li></ul><p><strong>Quantitative data</strong>, including <strong>sensor readings</strong>,&nbsp;<strong>timesheet</strong> and the majority of that collected through <strong>surveys</strong>&nbsp;provides structured, numeric, objective&nbsp;and&nbsp;easy&nbsp;to interpret results.&nbsp;</p><p dir=\"ltr\"><strong>Quantitative data</strong>, including sensor readings,&nbsp;timesheets and and some data collected through surveys&nbsp;provides structured, numeric, objective and easy to interpret results.&nbsp;</p><p><strong>Qualitative data</strong>, including&nbsp;<strong>reports,</strong>&nbsp;<strong>photos, </strong>and&nbsp;responses<strong> </strong>to open questions in <strong>surveys</strong> and <strong>interviews</strong>&nbsp;are more subjective. While being harder to analyse with automated methods, qualitative data can provide deeper insight into underlying reasons, opinions and motivations.</p>",
       "_incorrect": {
         "final": "<p><strong>Are you sure about that?</strong></p><p>Data can originate from many sources and be captured in many ways.</p><p>Data often becomes useful only once it is queried or analysed in some way, e.g.:</p><ul><li>What was the average daily rainfall in my home town last month?</li><li>How many people in my team prefer noodles to pizza?</li></ul><p><strong>Quantitative data</strong>, including <strong>sensor readings</strong>,&nbsp;<strong>timesheet</strong> and the majority of that collected through <strong>surveys</strong>&nbsp;provides structured, numeric, objective&nbsp;and&nbsp;easy&nbsp;to interpret results.&nbsp;</p><p><strong>Qualitative data</strong>, including <strong>interview notes</strong>, <strong>reports</strong> and <strong>photos</strong>&nbsp;are&nbsp;more subjective. While being harder to analyse with automated methods, qualitative data provides deeper insight into&nbsp;underlying reasons, opinions and motivations.</p>",
         "notFinal": ""
@@ -1084,7 +1170,7 @@
     "_isVisible": true,
     "title": "Attributes, values and metadata",
     "displayTitle": "Attributes, values and metadata",
-    "body": "<p>At the heart of a data record&nbsp;are&nbsp;<strong>attributes</strong>&nbsp;and&nbsp;<strong>values</strong>. An&nbsp;attribute is the name for a specific property or feature of a thing. Sometimes they are also referred to as&nbsp;properties, elements or fields.</p><p>Each attribute will have an associated <strong>value </strong>(i.e.&nbsp;latitude/longitude, postal code, or description).</p><p>In order for a data record to be usable,&nbsp;comprehensive&nbsp;metadata&nbsp;(data about data) is required. Metadata helps define the source and context, as well as any licence terms.&nbsp;</p><p>If the data you receive does not have a clear description of the above mentioned, you should ask the person who is responsible for this dataset to give you specifications. This will allow you to assess if the dataset is right for you.</p>",
+    "body": "<p dir=\"ltr\">At the heart of a data record are&nbsp;<strong>attributes</strong>&nbsp;and&nbsp;<strong>values</strong>. An attribute is the name for a specific property or feature of a thing. Sometimes they are also referred to as properties, elements or fields.</p><p dir=\"ltr\">Each attribute will have an associated <strong>value</strong> (i.e. latitude/longitude, postal code, or description).</p><p dir=\"ltr\">Metadata is additional contextual information about your data (i.e. data about data), which may&nbsp; for example, define the source and context, as well as any licence terms.&nbsp;</p><p dir=\"ltr\">If the data you receive does not have a clear description of the above mentioned, you should ask the person who is responsible for this dataset to give you specifications. This will allow you to assess if the dataset is right for you.</p>",
     "instruction": "",
     "_id": "5d062881a6999a055af1228d",
     "_parentId": "5d062648a6999a055af12282",
@@ -1108,7 +1194,7 @@
     "_isVisible": true,
     "title": "Data requirements",
     "displayTitle": "Data requirements",
-    "body": "<p dir=\"ltr\">From managing the company to running and delivering projects, data can play a key role in informing us on the best decisions to make.</p><p dir=\"ltr\">To get the most from data it is necessary to assess if data can help us solve the problem. This starts with evaluating our rights and legal obligations associated with the data in question.</p><p dir=\"ltr\">Following this, we need to set requirements that ensure the data is fit for purpose. This starts with understanding the fundamental terminology and key concepts related to data.</p><p dir=\"ltr\">This module looks at the important characteristics of data and how these shape the requirements for using data in projects.</p>",
+    "body": "<p dir=\"ltr\">From managing the company to running and delivering projects, data can play a key role in informing us on the best decisions to make.</p><p dir=\"ltr\">To get the most from data it is necessary to assess if data can help us solve the problem. This starts with evaluating our rights and legal obligations associated with the data in question.</p><p dir=\"ltr\">Following this, we need to set requirements that ensure the data is fit for purpose. This requires an understanding of the fundamental terminology and key concepts related to data.</p><p dir=\"ltr\">This module will cover the important characteristics of data and how these shape the requirements for using data in projects.</p>",
     "instruction": "",
     "_id": "5cd5473011812d052c7703bc",
     "_layout": "left",
@@ -1148,8 +1234,8 @@
     },
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/80ecda6f99de417d05b5fb2e40855188dbce85cc.jpg",
-      "small": "course/en/assets/80ecda6f99de417d05b5fb2e40855188dbce85cc.jpg",
+      "large": "course/en/assets/6c71ce21274d19a4b129a6eac4977a2c5e819a04.png",
+      "small": "course/en/assets/6c71ce21274d19a4b129a6eac4977a2c5e819a04.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
@@ -1337,7 +1423,7 @@
     "_isVisible": true,
     "title": "Data usage rights",
     "displayTitle": "Data usage rights",
-    "body": "<p>Not all data can be accessed, used and shared by anyone. Data exists on a spectrum, from <strong>closed</strong> data like employee records that has limited access, to <strong>open</strong> data from transport companies that anyone can access, use and share. There is also a large body of <strong>shared</strong> data that exists between the two, some more closed, some more open.&nbsp;</p><p>Before we agree to deliver a project, we have to consider where data sits on this spectrum and what obligations and legal responsibilities that places on us.&nbsp;</p><p>Explore the spectrum for some examples you might encounter:<br />&nbsp;</p>",
+    "body": "<p>Not all data can be accessed, used and shared by anyone. Data exists on a spectrum, from <strong>closed</strong> data like employee records that has limited access, to <strong>open</strong> data from transport companies that anyone can access, use and share. There is also a large body of <strong>shared</strong> data that exists between the two ends of the spectrum, some more closed, some more open.&nbsp;</p><p>Before we gather and use data, we have to consider where data sits on this spectrum and what obligations and legal responsibilities that places on us.&nbsp;</p><p>Explore the spectrum for some examples you might encounter:<br />&nbsp;</p>",
     "instruction": "",
     "_id": "5d03b82f7cf4f2053e2a9a6a",
     "_parentId": "5d03b82f7cf4f2053e2a9a69",
@@ -1490,7 +1576,7 @@
     "_isVisible": true,
     "title": "Basic data classes",
     "displayTitle": "",
-    "body": "",
+    "body": "<p>In our data record, which attribute contains the following types of values:</p>",
     "instruction": "",
     "_id": "5d062a8ba6999a055af12296",
     "_parentId": "5d062a8ba6999a055af12292",
@@ -1505,7 +1591,7 @@
       "_isEnabled": false
     },
     "_attempts": 1,
-    "_canShowModelAnswer": false,
+    "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": false,
@@ -1605,9 +1691,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>&nbsp;</p>",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>This records describes ARUP as a company. The status is most likely to be the only categorical attribute. Financial health is ordinal while years active is continuous, and long may it be.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>This records describes ARUP as a company. The status is most likely to be the only categorical attribute. Financial health is ordinal while years active is continuous, and long may it be.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1649,7 +1735,7 @@
     "_isVisible": true,
     "title": "Size",
     "displayTitle": "Size",
-    "body": "<p>Size refers to the space the data occupies in some kind of storage system, e.g. a hard drive. The size will&nbsp;influence the design of the system&nbsp;required to store, process and share data.</p><p>It is important to understand how the size of a dataset may change over time. For example, a dataset generated continuously by sensors will keep growing in size. The growth rate might also fluctuate and not stay constant (i.e.&nbsp;a live feed of public transport status updates may vary considerably depending on conditions on the network).</p><p>Predicting growth rates in dataset size requires knowledge of the dataset itself. This should be understood at the requirements phase in order to design and estimate the&nbsp;cost of the adequate&nbsp;system.</p>",
+    "body": "<p dir=\"ltr\">Size refers to the space the data occupies in some kind of storage system, e.g. a hard drive. The size will influence the design of the system required to store, process and share data.</p><p>It is important to understand how the size of a dataset may change over time. For example, a dataset generated continuously by sensors will keep growing in size. The growth rate might also fluctuate and not stay constant (i.e. a live feed of public transport status updates may vary considerably depending on conditions on the network).</p><p dir=\"ltr\">Predicting growth rates in dataset size requires knowledge of the dataset itself. This should be understood at the requirements phase in order to design and estimate the cost of an appropriate system.</p>",
     "instruction": "",
     "_id": "5d065cc8a6999a055af122ca",
     "_parentId": "5d065cc8a6999a055af122c9",
@@ -1673,7 +1759,7 @@
     "_isVisible": true,
     "title": "Test your knowledge",
     "displayTitle": "Test your knowledge",
-    "body": "<p>Which of the following statements are <strong>true</strong>?</p>",
+    "body": "<p dir=\"ltr\">Which of the following statements are <strong>true</strong>?</p>",
     "instruction": "Select two answers and click 'submit'",
     "_id": "5d065354a6999a055af122ac",
     "_parentId": "5d065354a6999a055af122aa",
@@ -1764,7 +1850,7 @@
     "_isVisible": true,
     "title": "Schemas",
     "displayTitle": "",
-    "body": "<p>Shown here is an example schema for our dataset. This schema is written in the JSON Schema format and can be used with tools such as csvlint.io to validate a dataset.&nbsp;</p><p>You can download the <a href=\"course/en/assets/009bc92a4d6d6ccc22b1912fd31febfe9a3bc4d8.json\" target=\"_blank\">schema</a> and associated <a href=\"course/en/assets/3b3f1b5e9991aa061eacfaf808dab1fccf7b3199.csv\" target=\"_blank\">example data</a> and try validating the data against the schema.</p><p>&nbsp;</p>",
+    "body": "",
     "instruction": "",
     "_id": "5d062ccca6999a055af1229b",
     "_parentId": "5d062ccca6999a055af1229a",
@@ -1779,12 +1865,12 @@
       "_isEnabled": false
     },
     "_attempts": 1,
-    "_canShowModelAnswer": false,
+    "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": false,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_questionWeight": 1,
     "_recordInteraction": true,
     "placeholder": "Please select an option",
@@ -1809,9 +1895,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>There are a number of free text fields, so these can&#39;t be a problem as we have no way to validate such fields automatically. Spellings are often a problem in these.</p><p>We also have categorical (status), continuous (years active)&nbsp;and ordinal data (financial health). These can all be verified against the rules set out in the schema.&nbsp;</p><p>The error here is that financial health must be one of &quot;Very poor&quot;, &quot;Poor&quot;, &quot;OK&quot;, &quot;Good&quot; and &quot;Excellent&quot;, whereas in the data the value here is &quot;Very good&quot;. The question is could the schema be wrong?</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are a number of free text fields, so these can&#39;t be a problem as we have no way to validate such fields automatically. Spellings are often a problem in these.</p><p>We also have categorical (status), continuous (years active)&nbsp;and ordinal data (financial health). These can all be verified against the rules set out in the schema.&nbsp;</p><p>The error here is that financial health must be one of &quot;Very poor&quot;, &quot;Poor&quot;, &quot;OK&quot;, &quot;Good&quot; and &quot;Excellent&quot;, whereas in the data the value here is &quot;Very good&quot;. The question is could the schema be wrong?</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1919,7 +2005,7 @@
     "_isHidden": false,
     "_isVisible": true,
     "title": "Can you estimate size?",
-    "displayTitle": "Can you estimate size?",
+    "displayTitle": "",
     "body": "<p>See if you can match the data descriptions below to the file sizes.&nbsp;</p>",
     "instruction": "",
     "_id": "5d065ed1a6999a055af122cb",
@@ -2043,7 +2129,7 @@
     "_isVisible": true,
     "title": "Structured, semi-structured and unstructured data",
     "displayTitle": "Structured, semi-structured and unstructured data",
-    "body": "<p>So far we have been looking at structured data; contained in a format with a tightly controlled vocabulary and schema. This section looks at the three main types of structured, semi-structured and unstructured data.</p>",
+    "body": "<p dir=\"ltr\">So far we have been looking at structured data; contained in a format with a tightly controlled vocabulary and schema. This section looks at the three main types of data: structured, semi-structured and unstructured.</p>",
     "instruction": "",
     "_id": "5cd56c8a11812d052c7705f1",
     "_parentId": "5cd5473011812d052c770380",
@@ -2063,7 +2149,7 @@
     "_items": [
       {
         "title": "Structured data",
-        "body": "<p>Structured data refers to any data stored in a consistent,&nbsp;fixed format.&nbsp;</p><p>Think of data in relational databases or high quality&nbsp;spreadsheets.</p><p>Well structured data is often referred to as machine readable; it has a format a computer can process without human assistance.&nbsp;</p><p><strong>Did you know?&nbsp;</strong>A sum of &quot;<strong>Total&quot;</strong>&nbsp;placed at the bottom of a column in&nbsp;a spreadsheet will break machine readability and will disrupt consistent structure.&nbsp;<strong>Tip</strong>: Place your&nbsp;analysis&nbsp;in a&nbsp;separate sheet!&nbsp;</p>",
+        "body": "<p dir=\"ltr\">Structured data refers to any data stored in a consistent, fixed format.&nbsp;</p><p dir=\"ltr\">Think of data in relational databases that is&nbsp;well-defined and in a, fixed-format.</p><p dir=\"ltr\">Well structured data is often referred to as machine readable; it has a format a computer can process without human assistance.&nbsp;</p><p dir=\"ltr\">Did you know?&nbsp;A sum of &quot;Total&quot;&nbsp;placed at the bottom of a column in a spreadsheet will break machine readability and will disrupt consistent structure.&nbsp;Tip: Place your analysis in a separate sheet!&nbsp;</p><p>&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/12baf14b9175b30d71c0232ed71c2ecfd38cd513.jpg",
           "alt": "",
@@ -2083,7 +2169,7 @@
       },
       {
         "title": "Unstructured data",
-        "body": "<p>Unstructured data is not organised in any pre-defined manner. The majority is text based, such as free text response&nbsp;to a survey.</p><p>Typically unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or coding.</p>",
+        "body": "<p dir=\"ltr\">Unstructured data is not organised in any pre-defined manner. The majority is text based, such as free text responses to a survey.</p><p dir=\"ltr\">Typically unstructured data cannot be easily analysed and requires some level of human interpretation, preprocessing or computational interpretation.</p>",
         "_graphic": {
           "src": "course/en/assets/dd0274aaa2bdcf4c79f3ae54086affcb132449fe.jpg",
           "alt": "",
@@ -2122,7 +2208,7 @@
     "_items": [
       {
         "title": "Tabular data",
-        "body": "<p>The most common structure for data is tabular. Data is organised into rows, each containing a single record.&nbsp;</p><p>Formats like XLS, CSV and databases like Postgres, MySQL and Oracle are ideally suited for tabular data.</p>",
+        "body": "<p dir=\"ltr\">The most common structure for data is tabular. Data is organised into rows, each containing a single record.&nbsp;</p><p dir=\"ltr\">Formats like XLS, CSV and databases like Postgres, MySQL and Oracle are ideally suited for tabular data.</p><p dir=\"ltr\">Example of These can be between the attributes in a single record</p>",
         "_graphic": {
           "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg",
           "alt": "",
@@ -2132,7 +2218,7 @@
       },
       {
         "title": "Hierarchical data",
-        "body": "<p>Hierarchical data shows the relationships between data records, such as a family tree or municipalities in each country.</p><p>Formats such as XML and JSON and semi-structured databases (e.g. NoSQL) are more suited for hierarchical data.</p><p>In some cases hierarchical data structures can also be use to embed nested data in a record, e.g.</p><p>Company name: ARUP<br />Company location: {<br />&nbsp; &nbsp;&nbsp;lat: 51.5216039<br />&nbsp; &nbsp;&nbsp;long: -0.1377894<br />}</p><p>Nested data can also be created using multiple tables in a relational database.</p>",
+        "body": "<p dir=\"ltr\">Relationships between records (e.g. people)</p><p dir=\"ltr\">Hierarchical data shows the relationships between data records, such as a family tree or municipalities in each country.</p><p dir=\"ltr\">Formats such as XML and JSON and semi-structured databases (e.g. NoSQL) are more suited for hierarchical data.</p><p dir=\"ltr\">In some cases hierarchical data structures can also be use to embed nested data in a record, e.g.</p><p dir=\"ltr\">Company name: ARUP</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\">Nested data can also be created using multiple tables in a relational database.</p>",
         "_graphic": {
           "src": "course/en/assets/f271a2d9838334d53d5c8625d0f6f2f2055f2fef.jpg",
           "alt": "",
@@ -2142,7 +2228,7 @@
       },
       {
         "title": "Network data",
-        "body": "<p>Network&nbsp;data allows relationships to exist between any combination of records in any direction.</p><p>A good example of a network data structure is a social network. Consider first, second and third degree contacts on LinkedIn or your network of friends on Facebook.</p><p>Network data can be represented in JSON-LD and XML/RDF. Both of these formats follow the&nbsp;Resource Description Framework (RDF) which simplify and standardise the way network data is represented.</p>",
+        "body": "<p dir=\"ltr\">Relationships between records (e.g. people).&nbsp;</p><p>Network data allows relationships to exist between any combination of records in any direction.</p><p dir=\"ltr\">A good example of a network data structure is a social network. Consider first, second and third degree contacts on LinkedIn or your network of friends on Facebook.</p>",
         "_graphic": {
           "src": "course/en/assets/459d2295255e21bf83e51cc8f9ff550248735286.jpg",
           "alt": "",
@@ -2281,8 +2367,8 @@
     "_isVisible": true,
     "title": "Attributes, Values and Metadata",
     "displayTitle": "",
-    "body": "",
-    "instruction": "Can you identify the attributes, values and metadata in the dataset shown?",
+    "body": "<p dir=\"ltr\">Can you identify the attributes, values and metadata in the dataset shown?</p>",
+    "instruction": "",
     "_id": "5d06285fa6999a055af1228c",
     "_parentId": "5d06285fa6999a055af12288",
     "_type": "component",
@@ -2296,14 +2382,14 @@
       "_isEnabled": false
     },
     "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldResetAllAnswers": false,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_questionWeight": 1,
-    "_recordInteraction": false,
+    "_recordInteraction": true,
     "placeholder": "Please select an option",
     "_items": [
       {
@@ -2360,9 +2446,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>An attribute is the name for a specific property or feature of a thing. In this case the first column. The values are related to the attributes in the second column and the metadata wraps the whole record.&nbsp;</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An attribute is the name for a specific property or feature of a thing. In this case the first column. The values are related to the attributes in the second column and the metadata wraps the whole record.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2423,6 +2509,208 @@
       "large": "course/en/assets/9c9d75115357a337ef0f6e4153388449b185498c.png",
       "small": "course/en/assets/9c9d75115357a337ef0f6e4153388449b185498c.png",
       "attribution": "ARUP <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Setting your requirements",
+    "displayTitle": "Setting your requirements",
+    "body": "<p dir=\"ltr\">Why is it important to have a detailed set of data requirements in your project?</p>",
+    "instruction": "",
+    "_id": "5d1f3a9ef81bf4055b5d5982",
+    "_parentId": "5d1f3a22f81bf4055b5d5974",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Sets clear expectations before the start of the discovery phase",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Enables ARUP to collect as much data as possible",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "By law, data requirements must be in a project brief",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\">At the start of a project, our expects should be thinking &ldquo;Ideally what data would I like to have to help solve the problem?&rdquo;, &ldquo;How will I want to use the data?&rdquo;, &ldquo;Is that data available?&rdquo; and &ldquo;how do I ensure it is usable?&rdquo;</p><p dir=\"ltr\">Establishing a clear set of data requirements helps ensure that any data collected and used is fit for purpose, legal for us to collect and use and of high technical quality.&nbsp;</p><p dir=\"ltr\">Describing the data requirements enables the project team to have a clear strategy in the Discovery Stage since they will be able to scope the project based on such requirements.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">At the start of a project, our expects should be thinking &ldquo;Ideally what data would I like to have to help solve the problem?&rdquo;, &ldquo;How will I want to use the data?&rdquo;, &ldquo;Is that data available?&rdquo; and &ldquo;how do I ensure it is usable?&rdquo;</p><p dir=\"ltr\">Establishing a clear set of data requirements helps ensure that any data collected and used is fit for purpose, legal for us to collect and use and of high technical quality.&nbsp;</p><p dir=\"ltr\">Describing the data requirements enables the project team to have a clear strategy in the Discovery Stage since they will be able to scope the project based on such requirements.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Setting your requirements",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d1f5e44f81bf4055b5d5a4c",
+    "_parentId": "5d1f3a22f81bf4055b5d5974",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Test your knowledge",
+    "displayTitle": "Test your knowledge",
+    "body": "<p dir=\"ltr\">Which of the following must be contained in the metadata relating to a dataset?</p>",
+    "instruction": "",
+    "_id": "5d1f5031f81bf4055b5d59b3",
+    "_parentId": "5d1f3a70f81bf4055b5d5981",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "The cost of the dataset",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The change history of the dataset",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A clear rights statement ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Metadata helps us keep track of the data that we have available in our administrative system, and helps us have log of the data ARUP has used and uses in projects. It is important to include a clear rights statement within the schema that describes our rights over the data, and specifies the rights granted to third parties as covered by Intellectual Property law.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Metadata helps us keep track of the data that we have available in our administrative system, and helps us have log of the data ARUP has used and uses in projects. It is important to include a clear rights statement within the schema that describes our rights over the data, and specifies the rights granted to third parties as covered by Intellectual Property law.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   }
 ]

@@ -3,7 +3,7 @@
   "displayTitle": "ARUP Module 6 - Exploratory Data Analysis",
   "body": "<p dir=\"ltr\">This module introduces participants to the core mathematical principles required to select and analyse data. By the end of the module participants will be able to:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Explain the importance of exploratory data analysis</p></li><li dir=\"ltr\"><p dir=\"ltr\">Apply statistics to evaluate a number of datasets</p></li><li dir=\"ltr\"><p dir=\"ltr\">Describe the pros and cons of a number of different ways to graphically explore data.</p></li></ul>",
   "description": "",
-  "_latestTrackingId": 20,
+  "_latestTrackingId": 32,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -81,6 +81,18 @@
       "_media": {
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
+      "_textinput": {
+        "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
       }
     },
     "_extensions": {
