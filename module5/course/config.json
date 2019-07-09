@@ -68,13 +68,13 @@
       "adapt-contrib-spoor",
       "adapt-devtools",
       "adapt-skillsFramework",
+      "adapt-contrib-matching",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
+      "adapt-contrib-mcq",
+      "adapt-contrib-textInput",
       "adapt-contrib-narrative",
-      "adapt-contrib-accordion",
-      "adapt-contrib-media",
-      "adapt-contrib-slider",
-      "adapt-contrib-matching"
+      "adapt-contrib-accordion"
     ]
   }
 }

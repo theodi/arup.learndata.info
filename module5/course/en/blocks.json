@@ -1,17 +1,40 @@
 [
   {
-    "title": "Cleaning & Transforming Data",
+    "title": "Who's responsibility is it to clean and transform data?",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-nine",
+    "_classes": "inverted color-eight",
     "_trackingId": 1,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d020b87831893053bc202f2",
-    "_parentId": "5d020b87831893053bc202f1",
+    "_id": "5d24cf88ecc46d0547f7d76d",
+    "_parentId": "5d24cf87ecc46d0547f7d767",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Cleaning & Transforming Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-nine",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbc0ecc46d0547f7d53c",
+    "_parentId": "5d24cbc0ecc46d0547f7d53a",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -27,37 +50,14 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-two section-banner",
-    "_trackingId": 2,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202f8",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Common errors in data",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d022666831893053bc203c5",
-    "_parentId": "5d020b87831893053bc202f1",
+    "_id": "5d24cbf1ecc46d0547f7d61f",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -69,241 +69,11 @@
     }
   },
   {
-    "title": "[TODO - SEE DESIGN DOC] How many errors can you spot?",
+    "title": "How will you transform data?",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 4,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202f9",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Refine video",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 5,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202fb",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Other methods for cleaning data",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 6,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202fa",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Validating data against a schema",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 7,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d09fee8f284ec05609f229a",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Dealing with missing or incomplete data",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 8,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0224d2831893053bc203be",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Practical data cleaning in Open Refine",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 9,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0252ff831893053bc203ef",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "2. Transforming data",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-two section-banner",
-    "_trackingId": 10,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202fd",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Why transform data?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d020b87831893053bc202f4",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Why transform data?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 12,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0246fc831893053bc203e2",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "How will you transform data?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 13,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5d0247f2831893053bc203e6",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "How will you transform data?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -322,11 +92,80 @@
     }
   },
   {
+    "title": "2. Transforming data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight section-banner",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce6ecc46d0547f7d6fe",
+    "_parentId": "5d24cce6ecc46d0547f7d6fb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Where are we?",
+    "displayTitle": "Where are we?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbc4ecc46d0547f7d54c",
+    "_parentId": "5d24cbc0ecc46d0547f7d53a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cf87ecc46d0547f7d768",
+    "_parentId": "5d24cf87ecc46d0547f7d767",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "How will you transform data?",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -345,18 +184,179 @@
     }
   },
   {
-    "title": "Who's responsibility is it to clean and transform data?",
+    "title": "Common errors in data",
     "displayTitle": "",
     "body": "",
     "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbf2ecc46d0547f7d625",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Why transform data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce6ecc46d0547f7d6fd",
+    "_parentId": "5d24cce6ecc46d0547f7d6fb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How many errors can you spot?",
+    "displayTitle": "How many errors can you spot?",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbf1ecc46d0547f7d620",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Why transform data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce8ecc46d0547f7d705",
+    "_parentId": "5d24cce6ecc46d0547f7d6fb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Cleaning data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbf2ecc46d0547f7d622",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Why transform data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce7ecc46d0547f7d6ff",
+    "_parentId": "5d24cce6ecc46d0547f7d6fb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "How will you transform data?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce7ecc46d0547f7d700",
+    "_parentId": "5d24cce6ecc46d0547f7d6fb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Methods for cleaning data",
+    "displayTitle": "Methods for cleaning data",
+    "body": "<p>Methods for cleaning data can be grouped into three categories; manual, semi-automatic and automatic. As the scale and speed of acquisition of data increases automatic cleaning processes should be put in place wherever possible.</p>",
+    "_classes": "inverted color-two",
     "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d024ed8831893053bc203eb",
-    "_parentId": "5d020b87831893053bc202f1",
+    "_id": "5d24cbf4ecc46d0547f7d62d",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -368,18 +368,18 @@
     }
   },
   {
-    "title": "Block title",
+    "title": "Dealing with missing or incomplete data",
     "displayTitle": "",
     "body": "",
-    "_classes": "hidden",
+    "_classes": "",
     "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d027952831893053bc203f5",
-    "_parentId": "5d020b87831893053bc202f1",
+    "_id": "5d24cbf2ecc46d0547f7d624",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -391,18 +391,18 @@
     }
   },
   {
-    "title": "Summary",
+    "title": "Other methods for cleaning data",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted footer",
+    "_classes": "inverted color-two",
     "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d020b87831893053bc202f3",
-    "_parentId": "5d020b87831893053bc202f1",
+    "_id": "5d24cbf2ecc46d0547f7d621",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -414,8 +414,8 @@
     }
   },
   {
-    "title": "Block title",
-    "displayTitle": "Block title",
+    "title": "Keeping an audit trail",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "_trackingId": 19,
@@ -424,8 +424,16 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5d09fea9f284ec05609f2297",
-    "_parentId": "5d020b87831893053bc202f1",
-    "_type": "block"
+    "_id": "5d24cbf0ecc46d0547f7d61b",
+    "_parentId": "5d24cbf0ecc46d0547f7d61a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
   }
 ]

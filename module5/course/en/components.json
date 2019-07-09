@@ -6,13 +6,187 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "title": "Considerations when transforming data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cce9ecc46d0547f7d72d",
+    "_parentId": "5d24cce7ecc46d0547f7d6ff",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Who's responsibility is it to clean and transform data?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cf8becc46d0547f7d7ac",
+    "_parentId": "5d24cf88ecc46d0547f7d76d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Errors in data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cbf6ecc46d0547f7d66a",
+    "_parentId": "5d24cbf1ecc46d0547f7d620",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98955938336ffae16e485298bb571133fde9f136.png",
+      "small": "course/en/assets/98955938336ffae16e485298bb571133fde9f136.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Match the method to the data type?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d028020831893053bc203fe",
+    "_parentId": "5d028020831893053bc203fd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-two",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "1. Data cleaning",
+    "displayTitle": "1. Data cleaning",
+    "body": "<p dir=\"ltr\">Data cleaning is the process of identify and correcting issues with the data.</p><p>It should never be assumed that data is suitable for the intended use. Every dataset should be checked for accuracy, completeness, duplicates and currency.</p>",
+    "instruction": "",
+    "_id": "5d24cbf6ecc46d0547f7d669",
+    "_parentId": "5d24cbf1ecc46d0547f7d61f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Why transform data?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24ccebecc46d0547f7d755",
+    "_parentId": "5d24cce8ecc46d0547f7d705",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "title": "Component title",
     "displayTitle": "",
     "body": "",
     "instruction": "",
-    "_id": "5d020b87831893053bc20308",
+    "_id": "5d24cbc5ecc46d0547f7d560",
     "_layout": "right",
-    "_parentId": "5d020b87831893053bc202f2",
+    "_parentId": "5d24cbc0ecc46d0547f7d53c",
     "_type": "component",
     "_onScreen": {
       "_isEnabled": false,
@@ -30,170 +204,6 @@
     }
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d02433f831893053bc203e0",
-    "_parentId": "5d020b87831893053bc202f4",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d028020831893053bc203fe",
-    "_parentId": "5d028020831893053bc203fd",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d02802c831893053bc20402",
-    "_parentId": "5d02802b831893053bc20401",
-    "_type": "component",
-    "_layout": "left"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d024ed8831893053bc203ec",
-    "_parentId": "5d024ed8831893053bc203eb",
-    "_type": "component",
-    "_layout": "left"
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "Component title",
-    "body": "",
-    "instruction": "",
-    "_id": "5d027ffd831893053bc203fb",
-    "_parentId": "5d0247f2831893053bc203e6",
-    "_type": "component",
-    "_layout": "right"
-  },
-  {
-    "_component": "text",
-    "_classes": "inverted color-two",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "1. Data cleaning",
-    "displayTitle": "1. Data cleaning",
-    "body": "<p dir=\"ltr\">Data cleaning is the process of identify and correcting issues with the data.</p><p>It should never be assumed that data is suitable for the intended use. Every dataset should be checked for accuracy, completeness, duplicates and currency.</p>",
-    "instruction": "",
-    "_id": "5d020b88831893053bc20312",
-    "_parentId": "5d020b87831893053bc202f8",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "averages",
-    "displayTitle": "averages",
-    "body": "",
-    "instruction": "",
-    "_id": "5d025300831893053bc203f1",
-    "_parentId": "5d0252ff831893053bc203ef",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "small": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg\" target=\"_blank\">Cmglee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "How many errors can you spot?",
-    "displayTitle": "How many errors can you spot?",
-    "body": "<p>Interactive version of&nbsp;graphic&nbsp;to quiz people on how many errors they can spot.</p>",
-    "instruction": "",
-    "_id": "5d021704831893053bc203a8",
-    "_parentId": "5d020b87831893053bc202f9",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d84e28f35543eddfd2e00e5744e9cb0d2ff141a2.png",
-      "small": "course/en/assets/d84e28f35543eddfd2e00e5744e9cb0d2ff141a2.png",
-      "attribution": "<a href=\"Needs changing\" target=\"_blank\">Needs changing</a> <span class='assetLicence'>[All rights reserved]</span>"
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -202,10 +212,10 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p dir=\"ltr\">Before data can be used as part of a project, the quality and fitness for purpose of that data needs to be checked.</p><p dir=\"ltr\">It should never be assumed that data is suitable for the intended use. Every dataset should be checked for accuracy, completeness, duplicates and currency. In addition the data will most likely need to be transformed or combined with other data to make the data conform to specific quality standards.&nbsp;</p><p dir=\"ltr\">Research <a href=\"https://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf\" target=\"_blank\">dating back to 1999</a>, that <a href=\"https://blog.syncsort.com/2017/11/big-data/myers-data-integration-80-20-rule/\" target=\"_blank\">hasn&#39;t changed much</a> since states that any process informed by data analytics follows the 80/20 rule. That is 80% of time will be spent gathering, cleaning &amp; transforming data ready for only 20% of time to spent on the actual analysis.&nbsp;</p><p dir=\"ltr\">Reducing this time can be achieved through automated processes but a manual validation and fitness for purpose tests will still need to be carried out before conclusions can be drawn from the data. The next module looks at how we can use Exploratory Data Analysis to perform these validation&nbsp;checks.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">Before data can be used as part of a project, the quality and fitness for purpose of that data needs to be checked.</p><p dir=\"ltr\">It should never be assumed that data is suitable for the intended use. Every dataset should be checked for accuracy, completeness, duplicates and currency. In addition the data will most likely need to be transformed or combined with other data to make the data conform to specific quality standards.&nbsp;</p><p dir=\"ltr\">The process of cleaning and transforming data can take substantial time. Depending on the scale, rate and method of acquisition of data it might be advisable to automate the cleaning and transforming process.&nbsp;</p><p dir=\"ltr\">Additionally, if might be necessary to go back a stage in your data lifecycle and change the requirements or collection technique to help reduce the errors and inconsistencies in the the data at time of collection.</p><p dir=\"ltr\">Regardless, a manual validation and fitness for purpose tests will still need to be carried out before conclusions can be drawn from the data. The next module looks at how we can use Exploratory Data Analysis to perform these validation&nbsp;checks.&nbsp;</p>",
     "instruction": "",
-    "_id": "5d020b87831893053bc2030a",
-    "_parentId": "5d020b87831893053bc202f3",
+    "_id": "5d24cf8aecc46d0547f7d785",
+    "_parentId": "5d24cf87ecc46d0547f7d768",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -218,42 +228,48 @@
     }
   },
   {
-    "_component": "text",
-    "_classes": "ticks",
+    "_component": "graphic",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Cleaning & Transforming Data",
-    "displayTitle": "Cleaning & Transforming Data",
-    "body": "<p dir=\"ltr\">Before data can be used as part of a project, the quality and fitness for purpose of that data needs to be checked. There are three main stages in this process:</p><ol dir=\"ltr\"><li>Data cleaning - Identifying and correcting issues with data</li><li>Data transformation - Converting the data to different formats or structures</li><li>Exploratory data analysis - Examining&nbsp;the dataset to identify bias and test hypothesis.</li></ol><p>This module examines the process of cleaning and transforming data ready for analysis. Data cleaning is the essential first step.&nbsp;Exploratory data analysis may happen before or after data transformation.&nbsp;&nbsp;</p>",
+    "title": "Keeping an audit trail",
+    "displayTitle": "",
+    "body": "",
     "instruction": "",
-    "_id": "5d020b87831893053bc20307",
-    "_layout": "left",
-    "_parentId": "5d020b87831893053bc202f2",
+    "_id": "5d24cbf4ecc46d0547f7d62f",
+    "_parentId": "5d24cbf0ecc46d0547f7d61b",
     "_type": "component",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
-    "_component": "text",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Validating data against a schema",
-    "displayTitle": "Validating data against a schema",
-    "body": "<p>One of the most reliable ways to reduce the number of errors in data is to validate it at point of collection against a strict schema.</p><p>Shown on the left is a schema and on the right some invalid data, both in the JSON format.&nbsp;</p><p>See if you can fix the data to conform to the schema.&nbsp;</p>",
+    "title": "Where are we?",
+    "displayTitle": "Where are we?",
+    "body": "<p>We have reached a critical stage in the data lifecycle,&nbsp;data cleaning. Data cleaning is the process of identifying errors and inconsistencies in the dataset and either removing or flagging these for later. Even if a rigorous approach is taken to specify data requirements, gather&nbsp;and store data, there are still highly likely to be errors and inconsistencies in the data. Further, data may be sourced from other projects and the method of collection may have not suited the requirements of your particular project;&nbsp;the data may need to be transformed to make it suitable for the goals and objectives of your project.&nbsp;</p>",
     "instruction": "",
-    "_id": "5d09fec1f284ec05609f2298",
-    "_parentId": "5d09fea9f284ec05609f2297",
+    "_id": "5d24cbcaecc46d0547f7d5f4",
+    "_parentId": "5d24cbc4ecc46d0547f7d54c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -263,137 +279,29 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4bc728463ca488bdb52baa4b8f415578da487fae.jpg",
+      "small": "course/en/assets/4bc728463ca488bdb52baa4b8f415578da487fae.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
   },
   {
-    "_component": "graphic",
+    "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "cleaning",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5d022667831893053bc203c7",
-    "_parentId": "5d022666831893053bc203c5",
+    "title": "Why transform data?",
+    "displayTitle": "Why transform data?",
+    "body": "<p>In addition to the points mentioned previously, why else might it be necessary to transform data?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d24ccebecc46d0547f7d765",
+    "_parentId": "5d24cce8ecc46d0547f7d705",
     "_type": "component",
     "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "color-eight",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Component title",
-    "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_id": "5d020b87831893053bc20309",
-    "_parentId": "5d020b87831893053bc202f3",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "averages",
-    "displayTitle": "averages",
-    "body": "",
-    "instruction": "",
-    "_id": "5d0224d3831893053bc203c0",
-    "_parentId": "5d0224d2831893053bc203be",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "small": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
-      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg\" target=\"_blank\">Cmglee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "inverted color-three",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "2. Transforming data",
-    "displayTitle": "2. Transforming data",
-    "body": "<p dir=\"ltr\">Transforming data is the process of converting data from one structure or format to another. It may also involve the process of combining data with existing or newly sourced data.&nbsp;</p>",
-    "instruction": "",
-    "_id": "5d020b88831893053bc20313",
-    "_parentId": "5d020b87831893053bc202fd",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Dealing with missing data",
-    "displayTitle": "Dealing with missing data",
-    "body": "<p>If it is not possible to fix the data, there are two main approaches for handling missing data, <strong>exclusion</strong> and <strong>interpolation</strong>.&nbsp;</p><p>It is very important to be aware of the potential impact of these on the data:</p><p>Is the data still a representative sample of the population?</p><p>Has the exclusion or interpolation process introduced bias by accident?</p>",
-    "instruction": "",
-    "_id": "5d0224d2831893053bc203bf",
-    "_parentId": "5d0224d2831893053bc203be",
-    "_type": "component",
-    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -404,123 +312,35 @@
     },
     "_items": [
       {
-        "title": "Exclusion",
-        "body": "<p>Exclusion is the removal of an entire record in the sample.&nbsp;</p><p>Excluding a record may be done for many reasons, one of which may be because of the low quality or duplication of the record.&nbsp;</p><p>In addition there may well be inclusion or exclusion criteria that control which records are acceptable in a sample (e.g. age of participant).</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
+        "text": "For legal or ethical reasons",
+        "_shouldBeSelected": true,
+        "feedback": ""
       },
       {
-        "title": "Interpolation",
-        "body": "<p>Interpolation is the creation of new data values derived from estimates generated from the existing data values.&nbsp;</p><p>For example, when graphical data contains a gap, interpolation is used to estimate the values within the gap using the data on either side of the gap or at a few specific points within the gap.&nbsp;</p><p>Interpolation may also be used to create a synthetic dataset that is representative but does not contain any real data (e.g. an anonymous dataset).&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
+        "text": "To ensure we get the required result",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To prevent others from accessing data",
+        "_shouldBeSelected": false,
+        "feedback": ""
       }
     ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Methods for transforming data",
-    "displayTitle": "Methods for transforming data",
-    "body": "<p>Methods for transforming data can be grouped into three categories:</p><p><strong>Manual:&nbsp;</strong>Using tools like Excel. Here the process is entirely manual and might make a lot of use of &quot;find and replace&quot;</p><p><strong>Semi-manual</strong>: The process is still driven by a human, but use of macros and code snippets are used to perform the transformation.&nbsp;</p><p><strong>Automatic</strong>:&nbsp;Undertaken by some sort of adapter. This adapter works with data much like a electricity plug adapter does when you travel to a country that doesn&#39;t use the same plug socket at you do. The adapter is able to interface directly with the source and transform it ready for you to plug directly into.</p>",
-    "instruction": "",
-    "_id": "5d027d42831893053bc203f9",
-    "_parentId": "5d0246fc831893053bc203e2",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Why transform data? (QUESTION, SELECT ALL THAT APPLY)",
-    "displayTitle": "Why transform data? (QUESTION, SELECT ALL THAT APPLY)",
-    "body": "<p>Transforming the data is important in a number of common scenarios:</p><ul><li>To work with data in a particular software (e.g. in a specific format)</li><li>To combine data from multiple sources&nbsp;</li><li>To normalise data types into the same units, categories and scales.&nbsp;</li><li>To make the data conform to a specific data standard</li><li>To enable a specific type of analysis (e.g. a treemap hierarchy)&nbsp;</li><li>To filter and remove data not required in analysis</li><li>To remove data for legal or ethical reasons</li><li>To create a set of derived data or attributes (e.g. a calculated value)</li></ul>",
-    "instruction": "",
-    "_id": "5d02433b831893053bc203df",
-    "_parentId": "5d020b87831893053bc202f4",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "How long does it take to prepare data for analysis?",
-    "displayTitle": "How long does it take to prepare data for analysis?",
-    "body": "<p>On average, how much time do you think you might&nbsp;spend cleaning, transforming and preparing data for analysis vs actually doing the analysis?</p>",
-    "instruction": "",
-    "_id": "5d02796f831893053bc203f6",
-    "_parentId": "5d027952831893053bc203f5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
     "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
     "_questionWeight": 1,
-    "_recordInteraction": false,
-    "labelStart": "0%",
-    "labelEnd": "100%",
-    "_scaleStart": 0,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "_correctAnswer": "80",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 0
-    },
-    "_showNumber": true,
-    "_showScaleIndicator": true,
-    "_showScale": true,
+    "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p dir=\"ltr\">Research&nbsp;<a href=\"https://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf\" target=\"_blank\">dating back to 1999</a>, that&nbsp;<a href=\"https://blog.syncsort.com/2017/11/big-data/myers-data-integration-80-20-rule/\" target=\"_blank\">hasn&#39;t changed much</a>&nbsp;since states that any process informed by data analytics follows the 80/20 rule. 80% of time will be spent gathering, cleaning &amp; transforming data ready for only 20% of time to spent on the actual analysis.&nbsp;</p>",
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Before proceeding to the next stage of data analysis you should double check that the data does not contain any records or attributes that we are not legally allowed to use or retain. Additionally, there maybe&nbsp;ethical issues to consider, both related to the data and also goals of the project. These may also be raised in next stage on Exploratory Data Analysis.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Research&nbsp;<a href=\"https://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf\" target=\"_blank\">dating back to 1999</a>, that&nbsp;<a href=\"https://blog.syncsort.com/2017/11/big-data/myers-data-integration-80-20-rule/\" target=\"_blank\">hasn&#39;t changed much</a>&nbsp;since states that any process informed by data analytics follows the 80/20 rule. 80% of time will be spent gathering, cleaning &amp; transforming data ready for only 20% of time to spent on the actual analysis.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Before proceeding to the next stage of data analysis you should double check that the data does not contain any records or attributes that we are not legally allowed to use or retain. Additionally, there maybe&nbsp;ethical issues to consider, both related to the data and also goals of the project. These may also be raised in next stage on Exploratory Data Analysis.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -554,18 +374,48 @@
     }
   },
   {
-    "_component": "media",
+    "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Cleaning data: Open Refine",
-    "displayTitle": "Cleaning data: Open Refine",
-    "body": "<p>One of the best free tools for visually exploring and cleaning data is Open Refine. It has been specifically designed (originally by Google) to clean messy data. It incorporates a number of powerful algorithms that help clean dirty data. &nbsp;</p>",
-    "instruction": "Watch the video below to find out Open Refine can help identify multiple representations in data and also fix issues with mixed numerical scales.",
-    "_id": "5d02251b831893053bc203c3",
-    "_parentId": "5d020b87831893053bc202fb",
+    "title": "Why transform data?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cce9ecc46d0547f7d71b",
+    "_parentId": "5d24cce6ecc46d0547f7d6fd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "2. Transforming data",
+    "displayTitle": "2. Transforming data",
+    "body": "<p dir=\"ltr\">Transforming data is the process of converting data from one structure or format to another. It may also involve the process of combining data with existing or newly sourced data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24cce9ecc46d0547f7d72b",
+    "_parentId": "5d24cce6ecc46d0547f7d6fe",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -575,34 +425,301 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "cleaning",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cbf8ecc46d0547f7d697",
+    "_parentId": "5d24cbf2ecc46d0547f7d625",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://www.youtube.com/watch?v=B70J_H_zAWM",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
+    "_pageLevelProgress": {
+      "_isEnabled": false
     },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": false,
-    "_startVolume": "50%",
-    "_allowFullScreen": true,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": false,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "small": "course/en/assets/94c4c63ec48f60d70c5e410b4f75b5f07ff640c2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-232737427\" target=\"_blank\">Kirill_M</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Missing data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cbf7ecc46d0547f7d68a",
+    "_parentId": "5d24cbf2ecc46d0547f7d624",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Cleaning data",
+    "displayTitle": "Cleaning data",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cbf7ecc46d0547f7d67e",
+    "_parentId": "5d24cbf2ecc46d0547f7d622",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Manual, semi-manual and automated cleaning",
+    "displayTitle": "Manual, semi-manual and automated cleaning",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cbfaecc46d0547f7d6d7",
+    "_parentId": "5d24cbf4ecc46d0547f7d62d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Match the method to the data type?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d02802c831893053bc20402",
+    "_parentId": "5d02802b831893053bc20401",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Match the method to the data type?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cce9ecc46d0547f7d73d",
+    "_parentId": "5d24cce7ecc46d0547f7d700",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Considerations when transforming data",
+    "displayTitle": "Considerations when transforming data",
+    "body": "<p>There are many ways to transform data. As with data cleaning, this can be done manually, semi-manual or automatically.&nbsp;The methods and tools used depend&nbsp;on a few considerations including:</p><ul><li>How many times will the data need transforming</li><li>The complexity of the changes required</li><li>The size of the data</li><li>The frequency (or velocity) of updates/additions to the data</li><li>The skills and tools you have available&nbsp;&nbsp;</li></ul>",
+    "instruction": "",
+    "_id": "5d24cce9ecc46d0547f7d72c",
+    "_parentId": "5d24cce7ecc46d0547f7d6ff",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Keeping track",
+    "displayTitle": "Keeping track",
+    "body": "<p>At the end of the data cleaning and transforming process, the data is likely to look significantly different from that originally acquired. In order to help keep track of processes affecting the data, which of the following must we keep on record:&nbsp;</p>",
+    "instruction": "Select two answers, then click ‘submit’",
+    "_id": "5d24cbf5ecc46d0547f7d63f",
+    "_parentId": "5d24cbf0ecc46d0547f7d61b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "A copy of the originally acquired data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "An audit log of the changes to the data at each stage",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A copy of the data after each individual cleaning and transforming operation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The list of names of who is to blame for the bad quality data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>It is important to maintain accurate data lineage records; a record data&#39;s origins, what happens to it and where it moves over time.</p><p>It is also paramount to maintain a copy of the originally acquired data (during the data lifecycle) such that it is possible to backtrack all the way to the beginning if mistakes are made.&nbsp;</p><p>Many pieces of cleaning software automatically keep operational logs that can be exported as part of the audit trail.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>It is important to maintain accurate data lineage records; a record data&#39;s origins, what happens to it and where it moves over time.</p><p>It is also paramount to maintain a copy of the originally acquired data (during the data lifecycle) such that it is possible to backtrack all the way to the beginning if mistakes are made.&nbsp;</p><p>Many pieces of cleaning software automatically keep operational logs that can be exported as part of the audit trail.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -616,8 +733,8 @@
     "displayTitle": "Match the method to the data type?",
     "body": "<p>See if you can match the method for cleaning and transforming&nbsp;with the described data.</p>",
     "instruction": "",
-    "_id": "5d027e4d831893053bc203fa",
-    "_parentId": "5d0247f2831893053bc203e6",
+    "_id": "5d24cceaecc46d0547f7d73e",
+    "_parentId": "5d24cce7ecc46d0547f7d700",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -695,20 +812,199 @@
     }
   },
   {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Errors",
+    "displayTitle": "",
+    "body": "<p>Can you spot all the different types of errors in the data shown here.&nbsp;</p>",
+    "instruction": "Enter your answers as grid cell coordinates, for example E3 refers to the value \"826\".",
+    "_id": "5d24cbf6ecc46d0547f7d673",
+    "_parentId": "5d24cbf1ecc46d0547f7d620",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "_answers": [
+          "F3"
+        ],
+        "prefix": "Spelling error",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [
+          "F5"
+        ],
+        "prefix": "Missing values",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [
+          "B3",
+          "B4"
+        ],
+        "prefix": "Date format error",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [
+          "B4"
+        ],
+        "prefix": "Invalid value",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [
+          "E2"
+        ],
+        "prefix": "Data type error",
+        "suffix": "",
+        "placeholder": ""
+      },
+      {
+        "_answers": [
+          "C6"
+        ],
+        "prefix": "Multiple representation",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>It is hard to believe such a small amount of data could contain so many errors. If we assume flight number is unique in a 24 hour period, did you also spot the redundant row of data?</p><ul dir=\"ltr\"><li>Spelling error&nbsp;(F3)</li><li>Redundant data (Row 5)</li><li>Missing value&nbsp;(F5)</li><li>Date errors (B3 &amp; B4)</li><li>Invalid value&nbsp;(B4)</li><li>Data type error&nbsp;(E2)</li><li>Multiple representation&nbsp;(C6)</li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>&nbsp;</p><p>It is hard to believe such a small amount of data could contain so many errors. If we assume flight number is unique in a 24 hour period, did you also spot the redundant row of data?</p><ul dir=\"ltr\"><li>Spelling error&nbsp;(F3)</li><li>Redundant data (Row 5)</li><li>Missing value&nbsp;(F5)</li><li>Date errors (B3 &amp; B4)</li><li>Invalid value&nbsp;(B4)</li><li>Data type error&nbsp;(E2)</li><li>Multiple representation&nbsp;(C6)</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Methods for cleaning data",
+    "displayTitle": "Methods for cleaning data",
+    "body": "<p>Once datasets increase in size, a visual quality check of the raw data may become impractical. There are however a number of summary techniques that can be used to help clean data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24cbf7ecc46d0547f7d674",
+    "_parentId": "5d24cbf2ecc46d0547f7d621",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Frequency tables and facets",
+        "body": "<p>One of the best ways to validate data is to use frequency tables (or facets).</p><p>A frequency table will summarise the range of values an&nbsp;attribute has. For example, the image here shows a frequency table being used to highlight&nbsp;inconsistencies in the names of airline companies.</p><p>Frequency tables can also be used to identify incorrect data types and check the range of values present against those allowed.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/04bbefb0b6d518aa068bb98b1d013be60e79130e.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Frequency tables and facets"
+      },
+      {
+        "title": "Statistical and outlier analysis",
+        "body": "<p>If you are dealing with numerical data, some simple exploratory data analysis can help validate the input data.&nbsp;</p><p>Calculation of the averages (mean, median and mode) can help identify the distribution of the data and the presence of outliers.&nbsp;</p><p>This can also be done visually with a histogram,&nbsp;box-and-whisker or scatter plot (as shown).</p><p>Identification of outliers is also critical to help identify use of mixed numerical scales.&nbsp;</p><p>For more on the use of these methods, please refer to the exploratory data analysis module.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a909002395b6c30768e347c3817274d021d7025e.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "statistical and outlier analysis"
+      },
+      {
+        "title": "Codified fixing",
+        "body": "<p>Data cleaning can become a very repetitive&nbsp;task, especially when needing to be done at scale or on a regular basis.</p><p>Using&nbsp;data processing workflow software or developing code to automate the checks is an efficient way to scale up the cleaning process.&nbsp;</p><p>Commonly such software will validate the data against the defined schema, such as <a href=\"http://csvlint.io\" target=\"_blank\">csvlint.io</a>.&nbsp;</p><p>It is also possible to automate the data cleaning process. OpenRefine allows you to export the&nbsp;cleaning operations as structured code that can be run in a new Refine project or even translated into queries to be executed on a database or via a macro in excel.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/9f925128ca30dec28891ea6f95bdae4390b27131.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Codified fixing"
+      }
+    ]
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Practical exercises",
-    "displayTitle": "Practical exercises",
-    "body": "<p>Explore the exercises below to get hands-on with data cleaning in Open Refine and validating tabular data in csvlint.io.</p><p><a class=\"button\" href=\"http://training.theodi.org/resources/Cleaning_Exercise.pdf\" target=\"_blank\">Data cleaning in Open Refine</a></p><p>To do this exercise you will need to&nbsp;download an install Open Refine from <a href=\"http://openrefine.org/download.html\" target=\"_blank\">openrefine.org</a>. The datasets required have been prepared for you and are linked from the <a href=\"http://training.theodi.org/resources/Cleaning_Exercise.pdf\" target=\"_blank\">exercise sheet</a>.&nbsp;</p><p>Validating data in csvlint.io</p><p>We have prepared a CSV file (you can open this in excel or any spreadsheet program), related JSON schema and schema description. Use csvlint.io to validate the CSV file. You might find it won&#39;t validate and that you may need to try cleaning the data before trying again. Good luck!</p>",
+    "title": "Why transform data?",
+    "displayTitle": "Why transform data?",
+    "body": "<p>Transforming the data is important in a number of common scenarios:</p><ul><li>To work with data in a particular software (e.g. in a specific format)</li><li>To combine data from multiple sources&nbsp;</li><li>To normalise data types into the same units, categories and scales.&nbsp;</li><li>To make the data conform to a specific data standard</li><li>To enable a specific type of analysis</li><li>To create a set of derived data or attributes (e.g. a calculated value)</li></ul>",
     "instruction": "",
-    "_id": "5d025385831893053bc203f4",
-    "_parentId": "5d0252ff831893053bc203ef",
+    "_id": "5d24cce8ecc46d0547f7d71a",
+    "_parentId": "5d24cce6ecc46d0547f7d6fd",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -719,18 +1015,18 @@
     }
   },
   {
-    "_component": "text",
+    "_component": "accordion",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Considerations when transforming data",
-    "displayTitle": "Considerations when transforming data",
-    "body": "<p>There are many ways to transform data. The methods and tools used depend&nbsp;on a few considerations,&nbsp; these are similar to those used for data cleaning. Consider:</p><ul><li>How many times will the data need transforming</li><li>The complexity of the changes required</li><li>The size of the data</li><li>The frequency (or velocity) of updates/additions to the data</li><li>The skills and tools you have available&nbsp;&nbsp;</li></ul>",
+    "title": "Common errors in data ",
+    "displayTitle": "Common errors in data ",
+    "body": "<p>There are a number of common errors in data that you should look out for in any dataset you are working with.</p>",
     "instruction": "",
-    "_id": "5d0246fc831893053bc203e4",
-    "_parentId": "5d0246fc831893053bc203e2",
+    "_id": "5d24cbf8ecc46d0547f7d6aa",
+    "_parentId": "5d24cbf2ecc46d0547f7d625",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -740,6 +1036,306 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Missing values",
+        "body": "<p>Beware blank or &quot;null&quot; values in any dataset unless you are certain you know what they mean.</p><p>Worse than a missing value is when an arbitrary value is used instead.&nbsp;For example &quot;&nbsp; &quot;,0,NULL or even &quot;&amp;nbsp;&quot; might actually be trying to represent a blank value.&nbsp;&nbsp;</p><p>Watch out for dates in 1900, 1904, 1969 and 1970. For reasons beyond obscure, Excel&#39;s default date from which it counts all other dates is&nbsp;January 1st, 1900,&nbsp;<em>unless</em>&nbsp;you&#39;re using Excel on a Mac, in which case it&#39;s&nbsp;January 1st, 1904.&nbsp;Many databases and applications will often generate a date of&nbsp;1970-01-01T00:00:00Z&nbsp;or&nbsp;1969-12-31T23:59:59Z&nbsp;which is the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Unix_time#Encoding_time_as_a_number\" rel=\"nofollow\">Unix epoch for timestamps</a>. In other words this is what happens when a system tries to display an empty value or a&nbsp;0 value as a date.</p><p>Any time you&#39;re working with data that has missing values you should ask yourself: &quot;Do I know what the absence of this value means?&quot; If the answer is no, you should ask your source.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Incomplete data",
+        "body": "<p>If you know what the data is meant to be about, then you can check for incomplete data.&nbsp;</p><p>For example, if you have a dataset covering the United States then you can check to ensure all 50 states are represented.&nbsp;</p><p>If the dataset should confirm to a schema or standard you can also check that all attributes are present.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data type errors",
+        "body": "<p>Many errors in data occur due to lack of validation on data entry, thus data does not conform to the specified schema.&nbsp;</p><p>A common error is the presence of text in a numerical field (e.g. &quot;5-star&quot; instead of 5).&nbsp;</p><p>Alternatively you might just have an invalid value, e.g. a country in a county field or a decimal where you should have a whole number.&nbsp;</p><p>Conversely,&nbsp;the validation might be too harsh and exclude data.&nbsp;Be exceptionally aware of this problem when working with topics where definitions tend to be arbitrary, such as&nbsp;race&nbsp;or&nbsp;ethnicity.&nbsp;</p><p>What does &quot;other&quot; really mean?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Inconsistent date formats",
+        "body": "<p>Dates can be written in inconsistent ways. Mixed date formats are sometimes simple to spot:<br /><br />8-sep-2013 vs 8/9/2013<br /><br />and sometimes less obvious:<br /><br />8/9/2013 vs 9/8/2013.<br /><br />Another challenge is that some applications, like Excel, will &lsquo;guess&rsquo; the format when a dataset is opened, which can hide how dates are actually written in the file.</p><p>The most common error is the mixed use of American (MM/DD/YYYY) and European (DD/MM/YYYY) formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Multiple representations",
+        "body": "<p>People often try to save time when entering data by abbreviating terms. If these abbreviations are not consistent, it can cause errors in the dataset.</p><p>Differences in capitalisation, spacing and genders of adjectives can all cause errors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Duplicate records",
+        "body": "<p>A duplicate record is where the same piece of data has been entered more than once. Duplicate records often occur when datasets have been combined or because it was not known there was already an entry.</p><p><strong>Note</strong>: Duplicate records can be useful to verify data. For instance if two different sources of data contain similar data the two can be cross validated against each other.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Redundant  data",
+        "body": "<p>Redundant data is anything that is not relevant to your work with the dataset. Often a dataset has been created for a specific purpose which requires details you may not need.</p><p>Common occurrences of redundant data include rows that represent total amounts.</p><p>Other times columns of data have been combined or replicated in order to assist human readability.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Missing unique identifiers",
+        "body": "<p>Ideally every record should have a globally unique identifier.&nbsp;</p><p>This helps identify duplicate data, especially when data is combined with other data.&nbsp;</p><p>Unfortunately many database applications use an incrementing number as an identifier. While this works in a single table, it is not a globally unique identifier.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mixed numerical scales",
+        "body": "<p>Numerical values in datasets often use different scales to make it easier for a human to read. These are often caused because the units of collection are not specified.</p><p>In budget datasets, for example, the units are often in the millions. 1,200,000 often becomes 1.2m. However, smaller amounts like 8,000 may&nbsp;still be written in full. For a machine, this means they read the larger figure as 1.2, or&nbsp;the smaller value as 8,000,000,000.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Spelling errors",
+        "body": "<p>Spelling errors are often difficult to identify in tabular data.</p><p>Don&rsquo;t forget to run your data through a spell-checker to catch spelling errors.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Invalid values",
+        "body": "<p>In addition to data type errors, you might also find your dataset has invalid values of the correct data type.&nbsp;</p><p>For example, if a date field is not limited&nbsp;can people enter dates of birth in the future?&nbsp;</p><p>Careful control over ranges and vocabularies helps ensure these errors are kept to a minimum.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-eight",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24cf8aecc46d0547f7d772",
+    "_parentId": "5d24cf87ecc46d0547f7d768",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Dealing with missing data",
+    "displayTitle": "Dealing with missing data",
+    "body": "<p>If it is not possible to fix the data, there are two main approaches for handling missing data, <strong>exclusion</strong> and <strong>interpolation</strong>.&nbsp;</p><p>It is very important to be aware of the potential impact of these on the data:</p><p>Is the data still a representative sample of the population?</p><p>Has the exclusion or interpolation process introduced bias?</p>",
+    "instruction": "",
+    "_id": "5d24cbf7ecc46d0547f7d689",
+    "_parentId": "5d24cbf2ecc46d0547f7d624",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Excluding data",
+        "body": "<p>Exclusion is the removal of an entire record in the sample.&nbsp;</p><p>Excluding a record may be done for many reasons, one of which may be because of the low quality, extreme nature&nbsp;or duplication of the record.&nbsp;</p><p>In addition there may well be inclusion or exclusion criteria that control which records are acceptable in a sample (e.g. age of participant).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Interpolating data",
+        "body": "<p>Interpolation is the creation of new data values derived from estimates generated from the existing data values.</p><p>For example, if a traffic counter&nbsp;breaks for one hour during a day, the values will not be zero. Interpolation using values from the hours before and after can help fill the gap and ensure&nbsp;them&nbsp;sample remains representative.&nbsp;</p><p>Interpolation may also be used to create a synthetic dataset that is representative but does not contain any real data (e.g. an anonymous dataset).&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How to fix errors in data?",
+    "displayTitle": "How to fix errors in data?",
+    "body": "<p>Once you have identified the errors and inconsistencies in your data, what approach should you take to fix them?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d24cbf7ecc46d0547f7d687",
+    "_parentId": "5d24cbf2ecc46d0547f7d622",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Check against the schema to find out the valid values",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Change the values to match the majority",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove the records containing bad quality data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The temptation is to make the dataset consistent through a majority vote; if three dates are in one format and two in another, then do we assume that the minority are wrong?</p><p>The correct approach is to check against the schema for that dataset to discover what, if any, constraints there are on values in the dataset.&nbsp;</p><p>Removing records should be avoided where possible but may be necessary in some cases, such as the record being a clear outlier.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The temptation is to make the dataset consistent through a majority vote; if three dates are in one format and two in another, then do we assume that the minority are wrong?</p><p>The correct approach is to check against the schema for that dataset to discover what, if any, constraints there are on values in the dataset.&nbsp;</p><p>Removing records should be avoided where possible but may be necessary in some cases, such as the record being a clear outlier.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Cleaning & Transforming Data",
+    "displayTitle": "Cleaning & Transforming Data",
+    "body": "<p dir=\"ltr\">Before data can be used as part of a project, the quality and fitness for purpose of that data needs to be checked. There are three main stages in this process:</p><ol dir=\"ltr\"><li>Data cleaning - Identifying and correcting issues with data</li><li>Data transformation - Converting the data to different formats or structures</li><li>Exploratory data analysis - Examining&nbsp;the dataset to identify bias and test hypothesis.</li></ol><p>This module examines the process of cleaning and transforming data ready for analysis. Data cleaning is the essential first step.&nbsp;Exploratory data analysis may happen before or after data transformation.&nbsp;&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24cbc5ecc46d0547f7d563",
+    "_layout": "left",
+    "_parentId": "5d24cbc0ecc46d0547f7d53c",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   },
   {
@@ -753,10 +1349,10 @@
     "displayTitle": "Who's responsibility is it to clean and transform data?",
     "body": "<p><strong>It is the&nbsp;responsibility&nbsp;of the user of the data to ensure it is fit for purpose.&nbsp;</strong></p><p>During the inception phase of a project, expectations should be set around who is responsible for cleaning and transforming the data. If possible, work with the organisation or client who provides the data as only they are likely to understand the full meaning of the data (e.g. what missing values mean).&nbsp;</p><p>Even if the&nbsp;data provider takes responsibility for cleaning and transforming the data, validation checks should still be put in place to ensure that this is happening.&nbsp;</p><p>&nbsp;</p>",
     "instruction": "",
-    "_id": "5d024ed9831893053bc203ed",
-    "_parentId": "5d024ed8831893053bc203eb",
+    "_id": "5d24cf8becc46d0547f7d7ab",
+    "_parentId": "5d24cf88ecc46d0547f7d76d",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -856,192 +1452,6 @@
     }
   },
   {
-    "_component": "accordion",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Common errors in data ",
-    "displayTitle": "Common errors in data ",
-    "body": "<p>There are a number of common errors in data that you should look out for in any dataset you are working with.</p>",
-    "instruction": "",
-    "_id": "5d022667831893053bc203c6",
-    "_parentId": "5d022666831893053bc203c5",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "_items": [
-      {
-        "title": "Missing values",
-        "body": "<p>Beware blank or &quot;null&quot; values in any dataset unless you are certain you know what they mean.</p><p>Worse than a missing value is when an arbitrary value is used instead.&nbsp;For example &quot;&nbsp; &quot;,0,NULL or even &quot;&amp;nbsp;&quot; might actually be trying to represent a blank value.&nbsp;&nbsp;</p><p>Watch out for dates in 1900, 1904, 1969 and 1970. For reasons beyond obscure, Excel&#39;s default date from which it counts all other dates is&nbsp;January 1st, 1900,&nbsp;<em>unless</em>&nbsp;you&#39;re using Excel on a Mac, in which case it&#39;s&nbsp;January 1st, 1904.&nbsp;Many databases and applications will often generate a date of&nbsp;1970-01-01T00:00:00Z&nbsp;or&nbsp;1969-12-31T23:59:59Z&nbsp;which is the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Unix_time#Encoding_time_as_a_number\" rel=\"nofollow\">Unix epoch for timestamps</a>. In other words this is what happens when a system tries to display an empty value or a&nbsp;0 value as a date.</p><p>Any time you&#39;re working with data that has missing values you should ask yourself: &quot;Do I know what the absence of this value means?&quot; If the answer is no, you should ask your source.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Incomplete data",
-        "body": "<p>If you know what the data is meant to be about, then you can check for incomplete data.&nbsp;</p><p>For example, if you have a dataset covering the United States then you can check to ensure all 50 states are represented.&nbsp;</p><p>If the dataset should confirm to a schema or standard you can also check that all attributes are present.</p><p>&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Data type errors",
-        "body": "<p>Many errors in data occur due to lack of validation on data entry, thus data does not conform to the specified schema.&nbsp;</p><p>A common error is the presence of text in a numerical field (e.g. &quot;5-star&quot; instead of 5).&nbsp;</p><p>Alternatively you might just have an invalid value, e.g. a country in a county field.&nbsp;</p><p>Alternatively the validation might be too harsh and exclude data.&nbsp;Be exceptionally aware of this problem when working with topics where definitions tend to be arbitrary, such as&nbsp;race&nbsp;or&nbsp;ethnicity.&nbsp;</p><p>What does &quot;other&quot; really mean?</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Inconsistent date formats",
-        "body": "<p>Dates can be written in inconsistent ways. Mixed date formats are sometimes simple to spot:<br /><br />8-sep-2013 vs 8/9/2013<br /><br />and sometimes less obvious:<br /><br />8/9/2013 vs 9/8/2013.<br /><br />Another challenge is that some applications, like Excel, will &lsquo;guess&rsquo; the format when a dataset is opened, which can hide how dates are actually written in the file.</p><p>The most common error is the mixed use of American (MM/DD/YYYY) and European (DD/MM/YYYY) formats.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Multiple representations",
-        "body": "<p>People often try to save time when entering data by abbreviating terms. If these abbreviations are not consistent, it can cause errors in the dataset.</p><p>Differences in capitalisation, spacing and genders of adjectives can all cause errors.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Duplicate records",
-        "body": "<p>A duplicate record is where the same piece of data has been entered more than once. Duplicate records often occur when datasets have been combined or because it was not known there was already an entry.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Redundant  data",
-        "body": "<p>Redundant data is anything that is not relevant to your work with the dataset. Often a dataset has been created for a specific purpose which requires details you may not need.</p><p>Common occurrences of redundant data include rows that represent total amounts.</p><p>Other times columns of data have been combined or replicated in order to assist human readability.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Missing unique identifiers",
-        "body": "<p>Ideally every record should have a globally unique identifier.&nbsp;</p><p>This helps identify duplicate data, especially when data is combined with other data.&nbsp;</p><p>Unfortunately many database applications use an incrementing number as an identifier. While this works in a single table, it is not a globally unique identifier.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Mixed numerical scales",
-        "body": "<p>Numerical values in datasets often use different scales to make it easier for a human to read. These are often caused because the units of collection are not specified.</p><p>In budget datasets, for example, the units are often in the millions. 1,200,000 often becomes 1.2m. However, smaller amounts like 8,000 may&nbsp;still be written in full. For a machine, this means they read the larger figure as 1.2, or&nbsp;the smaller value as 8,000,000,000.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Spelling errors",
-        "body": "<p>Spelling errors are often difficult to identify in tabular data.</p><p>Don&rsquo;t forget to run your data through a spell-checker to catch spelling errors.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_component": "narrative",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "Methods for cleaning data",
-    "displayTitle": "Methods for cleaning data",
-    "body": "<p>Frequency tables, statistical and outlier analysis, codified fixing</p>",
-    "instruction": "What tools does ARUP use to clean data?",
-    "_id": "5d020b88831893053bc20323",
-    "_parentId": "5d020b87831893053bc202fa",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "Frequency tables and facets",
-        "body": "<p>One of the best ways to validate data is to use frequency tables (or facets).&nbsp;</p><p>A frequency table will summarise the range of values an&nbsp;attribute has.&nbsp;</p><p>Is the data in a consistent data type (e.g. numeric)?</p><p>Are there any unexpected values or expected values missing?</p><p>Does the data look like it follows the defined data standards?</p>",
-        "_graphic": {
-          "src": "course/en/assets/0245d47abb4dd66f8924811da8942cb641a7dd95.png",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "Frequency tables and facets"
-      },
-      {
-        "title": "Statistical and outlier analysis",
-        "body": "<p>If you are dealing with numerical data, some simple exploratory data analysis can help validate the input data.&nbsp;</p><p>Calculation of the averages (mean, median and mode) can help identify the distribution of the data and the presence of outliers.&nbsp;</p><p>This can also be done visually with a histogram or box-and-whisker plot.&nbsp;</p><p>Identification of outliers is also critical to help identify use of mixed numerical scales.&nbsp;</p><p>For more on the use of these methods, please refer to the exploratory data analysis module.</p>",
-        "_graphic": {
-          "src": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
-          "alt": "",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "statistical and outlier analysis"
-      },
-      {
-        "title": "Codified fixing",
-        "body": "<p>Data cleaning can become a very repetitive&nbsp;task, especially when needing to be done at scale or on a regular basis.</p><p>Using&nbsp;data processing workflow software or developing code to automate the checks is an efficient way to scale up the cleaning process.&nbsp;</p><p>Commonly such software will validate the data against the defined schema, such as <a href=\"http://csvlint.io\" target=\"_blank\">csvlint.io</a>.&nbsp;</p><p>It is also possible to automate the data cleaning process. OpenRefine allows you to export the&nbsp;cleaning operations as structured code that can be run in a new Refine project or even translated into queries to be executed on a database or via a macro in excel.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://openrefine.org/\" target=\"_blank\">OpenRefine</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "Codified fixing"
-      }
-    ]
-  },
-  {
     "_component": "matching",
     "_classes": "",
     "_isOptional": false,
@@ -1055,7 +1465,7 @@
     "_id": "5d028020831893053bc203ff",
     "_parentId": "5d028020831893053bc203fd",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -1137,14 +1547,14 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Validating data against a schema",
-    "displayTitle": "Validating data against a schema",
-    "body": "<p>One of the most reliable ways to reduce the number of errors in data is to validate it at point of collection against a strict schema.</p><p>Shown on the left is a schema and on the right some invalid data, both in the JSON format.&nbsp;</p><p>See if you can fix the data to conform to the schema.&nbsp;</p>",
+    "title": "Methods for cleaning data",
+    "displayTitle": "",
+    "body": "<p><strong>Manual cleaning:&nbsp;</strong>Using tools like Excel. The process is entirely manual and might make a lot of use of &quot;find and replace&quot;.&nbsp;</p><p>Tools like Excel are OK to use, however blanket use of find and replace should be avoided without carefully specifying the range of the search. As a simple example, replacing &quot;f&quot; with &quot;female&quot; and &quot;m&quot; with &quot;male&quot; (in that order) will result in &quot;male&quot; and &quot;femaleale&quot; as there is an &quot;m&quot; in female. &nbsp;&nbsp;</p><p><strong>Semi-manual cleaning</strong>: The process is still driven by a human, but use of macros and code snippets are used to ensure consistency of the performed operation. This is safer than a manual change, however a human still has to remember to run the cleaning operations, potentially in the right order.&nbsp;</p><p><strong>Automatic cleaning</strong>:&nbsp; Here both the cleaning operation and point of execution of the cleaning are automatic; no human input is required. Automated cleaning may well act directly on the data in the database or at point of acquisition.&nbsp;</p>",
     "instruction": "",
-    "_id": "5d09fee9f284ec05609f229b",
-    "_parentId": "5d09fee8f284ec05609f229a",
+    "_id": "5d24cbfbecc46d0547f7d6e7",
+    "_parentId": "5d24cbf4ecc46d0547f7d62d",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",

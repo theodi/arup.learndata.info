@@ -1,6 +1,144 @@
 [
   {
-    "title": "Article title",
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbc0ecc46d0547f7d53a",
+    "_parentId": "5d020b87831893053bc202f0",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Cleaning data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cbf0ecc46d0547f7d61a",
+    "_parentId": "5d020b87831893053bc202f0",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Transforming data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cce6ecc46d0547f7d6fb",
+    "_parentId": "5d020b87831893053bc202f0",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    }
+  },
+  {
+    "title": "Transforming data question bank",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -12,30 +150,83 @@
     "_id": "5d020b87831893053bc202f1",
     "_parentId": "5d020b87831893053bc202f0",
     "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "assessment1",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": true,
+        "_blockCount": 1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "1",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      }
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24cf87ecc46d0547f7d767",
+    "_parentId": "5d020b87831893053bc202f0",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_isEnabled": false,
       "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
       "_banks": {
         "_isEnabled": false,
         "_split": "",
         "_randomisation": false
-      },
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": 1
       },
       "_questions": {
         "_resetType": "soft",
         "_canShowFeedback": false,
         "_canShowMarking": false,
         "_canShowModelAnswer": false
-      },
-      "_isPercentageBased": false,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": false,
-      "_assessmentWeight": 1,
-      "_isResetOnRevisit": false,
-      "_attempts": -1
+      }
     }
   }
 ]

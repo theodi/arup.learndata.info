@@ -87,6 +87,12 @@
       },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_textinput": {
+        "ariaRegion": "This question requires you to input your answer in the textbox provided. When you have done so, select the submit button below."
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
       }
     },
     "_extensions": {

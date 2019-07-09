@@ -20,20 +20,24 @@
       }
     ]
   },
-  "14f94f71b66fc8cf7c1f405d8a1fb73e7ffef06d.jpg": {
-    "title": "Open Refine",
-    "description": "Open Refine",
-    "source": "http://openrefine.org/",
-    "licence": "CC-BY-SA",
-    "attribution": "OpenRefine",
+  "9f925128ca30dec28891ea6f95bdae4390b27131.jpg": {
+    "title": "Code",
+    "description": "Coding",
+    "source": "https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978",
+    "licence": "Shutterstock standard licence",
+    "attribution": "spaxiax",
     "tags": [
       {
-        "title": "cleaning",
-        "_id": "5847ffa04d7b7e82691e4b92"
+        "title": "code",
+        "_id": "58889436b61c46e176e7e717"
       },
       {
-        "title": "Photo",
-        "_id": "584801b24d7b7e82691e4b9d"
+        "title": "Coding",
+        "_id": "58500abc4e62ce485eb1460f"
+      },
+      {
+        "title": "programming",
+        "_id": "58948b19fda9f5660ad8421a"
       }
     ]
   },
@@ -43,22 +47,6 @@
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "97302230b50ad006a958d82900985508d759ebeb.png": {
-    "title": "Box plot",
-    "description": "Box plot",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "401ea564f28461094bebcb51696a22b549c3c707.png": {
-    "title": "averages comparison",
-    "description": "averages comparison",
-    "source": "https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg",
-    "licence": "CC-BY-SA",
-    "attribution": "Cmglee",
     "tags": []
   },
   "241b8f5efe4a9ae035aaf75fa48d92a76449452a.png": {
@@ -117,12 +105,44 @@
     "attribution": "",
     "tags": []
   },
-  "d84e28f35543eddfd2e00e5744e9cb0d2ff141a2.png": {
-    "title": "data-cleaning-errors",
-    "description": "data-cleaning-errors",
-    "source": "Needs changing",
-    "licence": "All rights reserved",
-    "attribution": "Needs changing",
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
+  "4bc728463ca488bdb52baa4b8f415578da487fae.jpg": {
+    "title": "2.2:1 Image (1100 x 500)",
+    "description": "2.2:1 Image (1100 x 500)",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  },
+  "98955938336ffae16e485298bb571133fde9f136.png": {
+    "title": "Dirty flights data",
+    "description": "Dirty flights data",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "04bbefb0b6d518aa068bb98b1d013be60e79130e.png": {
+    "title": "Facets and frequency tables",
+    "description": "Facets and frequency tables",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "a909002395b6c30768e347c3817274d021d7025e.png": {
+    "title": "Outliers",
+    "description": "Outliers",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
     "tags": []
   }
 }
