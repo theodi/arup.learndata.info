@@ -1,0 +1,1774 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d364",
+    "_parentId": "5d243cebecc46d0547f7d313",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Making information “pop” ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24720aecc46d0547f7d431",
+    "_parentId": "5d2471d6ecc46d0547f7d42e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "small": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "attribution": "<a href=\"https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003zP\" target=\"_blank\">Tufte</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Match the headline to the visualisation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d246cbcecc46d0547f7d404",
+    "_parentId": "5d246cbcecc46d0547f7d403",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/13c6ef1990556aecb58a317bddb4f78bf8b817d9.jpg",
+      "small": "course/en/assets/13c6ef1990556aecb58a317bddb4f78bf8b817d9.jpg",
+      "attribution": "<a href=\"https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368\" target=\"_blank\">The Economist</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using colour",
+    "displayTitle": "Using colour",
+    "body": "<p>Careful use of colour is essential and can help not only with &#39;pop out&#39;, but also conveying meaning.</p>",
+    "instruction": "",
+    "_id": "5d247275ecc46d0547f7d447",
+    "_parentId": "5d24725cecc46d0547f7d446",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Colour has meaning",
+        "body": "<p>As well as making information &#39;pop out&#39;, colour can also convey meaning.</p><p>For example: red, amber and green represent danger, caution, and safety. As shown in traffic lights.&nbsp;</p><p>However, not all colours convey easily recognisable meaning, and too much use of colour can be confusing. In this way, try to keep the number of colours used to a minimum.&nbsp;<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/38eacb3640bcb9352d696d144a38ad111db88f5c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.quora.com/How-do-I-survive-a-plane-crash\" target=\"_blank\">popular mechanics </a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Colour has meaning"
+      },
+      {
+        "title": "One colour",
+        "body": "<p>The human eye is much more sensitive to changes in a single colour rather than having to process multiple colours.&nbsp;</p><p>Grey scales (using different shades of the same colour) are useful to convey change, as the human eye has far more rods (low light receptors for grey scale) than cones (which handle different ranges of colour each).&nbsp;</p><p>This figure does it with purple to good effect, but what does white mean?&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/c81f325ec319036d82a74877c300839a4b5fff92.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">Dave Tarrant</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "One colour"
+      },
+      {
+        "title": "Picking the right colour",
+        "body": "<p>If you can&#39;t use a grey scale, then it is worth carefully considering the colours to use. Special care should be taken with colours that are too intense.&nbsp;</p><p>Intense colours are those that combine colours which have long wavelengths, stimulating a lot of cones in the eye simultaneously.</p><p>The graph here shows the wavelengths and intensities of a number of colours.&nbsp;The most intense colour to the eye is yellow, as it combines the red and green receptor cones.&nbsp;</p><p>As yellow can be glaring and hard on the eye, try using more neutral tones such as blue and purple, which are both used prevalently in design.</p>",
+        "_graphic": {
+          "src": "course/en/assets/830a363e47beb192ee84e879a30985e533ae8b6a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"URL: http://www.instant-analysis.com/Principles/intensity.gif\" target=\"_blank\">Instant-Analysis</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Picking the right colour"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Adding interactivity",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d247f70ecc46d0547f7d465",
+    "_parentId": "5d247cf2ecc46d0547f7d460",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d359",
+    "_parentId": "5d243cebecc46d0547f7d300",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Match the headline to the visualisation",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d245dc3ecc46d0547f7d3fd",
+    "_parentId": "5d243cebecc46d0547f7d31e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/713a095a5a9736f9603436b20735f420d569d8f5.jpg",
+      "small": "course/en/assets/713a095a5a9736f9603436b20735f420d569d8f5.jpg",
+      "attribution": "<a href=\"http://www.storytellingwithdata.com/blog/2018/3/9/bring-on-the-bar-charts\" target=\"_blank\">Andy S.</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Shaping your narrative",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d35c",
+    "_parentId": "5d243cebecc46d0547f7d307",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Rules of interaction",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d247d01ecc46d0547f7d463",
+    "_parentId": "5d247cf4ecc46d0547f7d461",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "200 years that changed the world",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d247be0ecc46d0547f7d451",
+    "_parentId": "5d247981ecc46d0547f7d450",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/10c74fd273d40053ccbdc6aa2c282108b7392a8b.jpg",
+      "small": "course/en/assets/10c74fd273d40053ccbdc6aa2c282108b7392a8b.jpg",
+      "attribution": "<a href=\"https://www.gapminder.org/tools/#$chart-type=bubbles\" target=\"_blank\">GapMinder</a> <span class='assetLicence'>[CC-BY-NC]</span>"
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Game2",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d247103ecc46d0547f7d42d",
+    "_parentId": "5d2470e8ecc46d0547f7d42b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_source": "https://davetaz.github.io/hiddenObjectGame/game2.html",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 430,
+      "_medium": 430,
+      "_large": 430
+    },
+    "_height": {
+      "_small": 460,
+      "_medium": 460,
+      "_large": 460
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Thinking in dimensions",
+    "displayTitle": "Thinking in dimensions",
+    "body": "<p>Data can have many dimensions.&nbsp;Likewise, there are many visual dimensions that can be used to represent different dimensions in data, i.e. size, position, colour, rotation, opacity, texture, shape, stroke style and movement.&nbsp;</p><p>Take Hans Rosling&rsquo;s 200 years that changed the world motion chart. Can you match the visual dimension to what it represents?<br />&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24797decc46d0547f7d44f",
+    "_parentId": "5d24731eecc46d0547f7d44b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The basics of visualisation design",
+    "displayTitle": "The basics of visualisation design",
+    "body": "<p>The human brain has been specifically designed to help us instantly process and react to what we see. If someone throws a ball at you without warning the eye will pick up on the movement and direction and can take muscular control of you without thinking to help you avoid harm. The same is true in visualisation, it can be very hard to unsee the first thing that pops out.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24705cecc46d0547f7d41f",
+    "_parentId": "5d247043ecc46d0547f7d41e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d243cebecc46d0547f7d320",
+    "_layout": "right",
+    "_parentId": "5d243cebecc46d0547f7d2f2",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Inspiring with data ",
+    "displayTitle": "Inspiring with data ",
+    "body": "<p>To help inspire you, explore some of the best examples of data telling a compelling story.</p>",
+    "instruction": "",
+    "_id": "5d244906ecc46d0547f7d3e2",
+    "_parentId": "5d2448f5ecc46d0547f7d3e1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Communicating outputs vs graphical exploratory data analysis techniques",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24483cecc46d0547f7d3de",
+    "_parentId": "5d244824ecc46d0547f7d3dc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What's the first thing you see?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d247080ecc46d0547f7d420",
+    "_parentId": "5d247043ecc46d0547f7d41e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Communicating outputs",
+    "displayTitle": "Communicating outputs",
+    "body": "<p>There&rsquo;s something breathtaking about data that is communicated well &mdash; it&rsquo;s a lot like marvelling at an engineering masterpiece. Think about how you felt last time you looked at an engineering or architectural masterpiece, how did it make you feel? Did you feel elated? motivated? educated?</p><p>Data communicated well can do exactly the same. Alternatively, when not done well you end up suffering a long presentation of poorly presented, cluttered and misleading charts that don&rsquo;t seem to be relevant to your problem.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d243cebecc46d0547f7d31f",
+    "_layout": "left",
+    "_parentId": "5d243cebecc46d0547f7d2f2",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How effective is pop out?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d2470fdecc46d0547f7d42c",
+    "_parentId": "5d2470e8ecc46d0547f7d42b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_source": "https://davetaz.github.io/hiddenObjectGame/game1.html",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 430,
+      "_medium": 430,
+      "_large": 430
+    },
+    "_height": {
+      "_small": 460,
+      "_medium": 460,
+      "_large": 460
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Key elements of a compelling story",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d245681ecc46d0547f7d3f6",
+    "_parentId": "5d24550cecc46d0547f7d3f4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Communicating outputs vs graphical exploratory data analysis techniques",
+    "displayTitle": "",
+    "body": "<p>Graphical analysis of data can quickly reveal trends in data using simple charts and plots. What do you think the key difference is between the graphical analysis done as part of exploratory data analysis and that required to effectively communicate findings to stakeholders and decision-makers.</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d244839ecc46d0547f7d3dd",
+    "_parentId": "5d244824ecc46d0547f7d3dc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A clear focus on the goals and objectives of the project",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The graphics look more professional",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "You don’t use a scatter chart to communicate outputs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>A clear focus on the goals and objectives of the project is key when communicating outputs to stakeholders and decision-makers. Regardless of the findings, often there is a need to reduce and simplify the outputs to bring clarity to the messages being presented. This may well involve making the graphics more professional and avoiding using scatter plots and other graphics where the message is not immediately clear.&nbsp;<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A clear focus on the goals and objectives of the project is key when communicating outputs to stakeholders and decision-makers. Regardless of the findings, often there is a need to reduce and simplify the outputs to bring clarity to the messages being presented. This may well involve making the graphics more professional and avoiding using scatter plots and other graphics where the message is not immediately clear.&nbsp;<br />&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Keeping it simple",
+    "displayTitle": "Keeping it simple",
+    "body": "<p>Sometimes the best way to communicate a point is to keep it really simple.</p>",
+    "instruction": "",
+    "_id": "5d24812decc46d0547f7d478",
+    "_parentId": "5d2480e1ecc46d0547f7d477",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The simple bar chart",
+        "body": "<p>There is nothing wrong with a well designed bar chart. This example of a stacked bar chart is also exemplary as the colours have a specific meaning&nbsp;and order.</p><p>Other things that make this visualisation effective are.</p><p>1) Limited categories<br />2) All numbers displayed<br />3) Flags and text</p>",
+        "_graphic": {
+          "src": "course/en/assets/70c7b373113b4c6d570452cc206a74c07869a700.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.statista.com/chart/1870/the-winter-olympic-medal-count/\" target=\"_blank\">statista</a> <span class='assetLicence'>[CC-BY-ND]</span>"
+        },
+        "strapline": "The simple bar chart"
+      },
+      {
+        "title": "Using infographics",
+        "body": "<p>Infographics&nbsp;combine statistical information with graphical visuals. They can improve understanding by utilising graphics to enhance the human visual system&#39;s ability to see patterns and trends.</p><p>Essential to any good infographic is consistency in the design throughout.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/f9d66f9f1852fca05c0fb53924ecc3d116147bb5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.quill.com/blog/lifestyle/vacations-are-a-must-proven-reasons-why-you-need-more-time-off.html\" target=\"_blank\">Quill</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Using infographics"
+      },
+      {
+        "title": "Easy as pie",
+        "body": "<p>One of the main problems with a lot of tools is that do not produce a compelling output by default.</p><p>Spending time carefully thinking about design will go a long way to communicating outputs to stakeholders and decision makers.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1b4783e0bab2c646d26a5d86fbe3742a7bedbeb5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.youtube.com/watch?v=qdoiVMQsKgQ\" target=\"_blank\">Slide Cow</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Easy as pie"
+      }
+    ]
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which chart is best?",
+    "displayTitle": "Which chart is best?",
+    "body": "<p>If you wanted to show the differences between &ldquo;Budget Balances&rdquo; and &ldquo;Current-account balances&rdquo; for a single country over the whole time period, which chart would you choose?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d246ec9ecc46d0547f7d412",
+    "_parentId": "5d243cebecc46d0547f7d315",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/3dd016c227402d34e2d333200771a50a256a3494.png",
+          "small": "course/en/assets/3dd016c227402d34e2d333200771a50a256a3494.png",
+          "alt": "",
+          "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "text": "Line chart",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
+          "small": "course/en/assets/8ad4fbe3753e1df65159f4449959e528afa8a3d9.png",
+          "alt": "",
+          "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/de92f5cbd617282aeac1bf79093e1821d37bf7af.png",
+          "small": "course/en/assets/de92f5cbd617282aeac1bf79093e1821d37bf7af.png",
+          "alt": "",
+          "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "text": "Column chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/5db78d9aef09c0b70c18cbe61dc1403b45ec4fec.png",
+          "small": "course/en/assets/5db78d9aef09c0b70c18cbe61dc1403b45ec4fec.png",
+          "alt": "",
+          "attribution": "<a href=\"https://datavizcatalogue.com/index.html\" target=\"_blank\">Data Viz Catalogue</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "text": "Bubble map",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 4,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>This data is a time series and they are most suitable for a line chart. Although a bar chart can be used, they are often superimposed with a line to clearly show the trend and steepness of change.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>This data is a time series and they are most suitable for a line chart. Although a bar chart can be used, they are often superimposed with a line to clearly show the trend and steepness of change.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Key elements of a compelling story",
+    "displayTitle": "",
+    "body": "<p>Identify the key elements of a compelling data story used in all the previous examples:</p>",
+    "instruction": "Select two answers, then click 'submit'",
+    "_id": "5d245513ecc46d0547f7d3f5",
+    "_parentId": "5d24550cecc46d0547f7d3f4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A compelling narrative",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Uncluttered, custom visualisations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Interactive",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Three Dimensional",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>The key in the examples presented us the clarity and simplicity of the visualisation accompanied by a clear narrative to help the viewer understand what it is they are seeing. Using a combination of techniques that appeal to many different senses is key in creating a truly immersive experience. A couple of the examples also had audio and even a soundtrack.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The key in the examples presented us the clarity and simplicity of the visualisation accompanied by a clear narrative to help the viewer understand what it is they are seeing. Using a combination of techniques that appeal to many different senses is key in creating a truly immersive experience. A couple of the examples also had audio and even a soundtrack.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is the headline?",
+    "displayTitle": "What is the headline?",
+    "body": "<p>Can you identify the correct headline for the visualisation shown?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d245dd1ecc46d0547f7d3fe",
+    "_parentId": "5d243cebecc46d0547f7d31e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Why didn't camcorder sales crash like digital cameras?",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Why the GoPro is such a good camcoder",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Surfing is saving the camcorder industry",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>This visualisation clearly shows the comparison between two things over a number of years. In this case it is digital camera sales against camcorders, showing one is steady while the other is in decline. The headline should be directly to this comparison even through the reason for this stability might be a GoPro on a surf board.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>This visualisation clearly shows the comparison between two things over a number of years. In this case it is digital camera sales against camcorders, showing one is steady while the other is in decline. The headline should be directly to this comparison even through the reason for this stability might be a GoPro on a surf board.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Rules of interaction",
+    "displayTitle": "Rules of interaction",
+    "body": "<p>Regardless of the mode of presentation, physical or digital, adding interactivity can add to the experience. But you should abide by three key rules when thinking of adding interaction known as Shneiderman&rsquo;s Visualization Mantra:</p>",
+    "instruction": "",
+    "_id": "5d247cfbecc46d0547f7d462",
+    "_parentId": "5d247cf4ecc46d0547f7d461",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "1. Overview first",
+        "body": "<p>Make sure the story is clear before you encourage people to interact. If people have to interact in order to discover a story then the message will be lost. If your communication is via a physical exhibition then it should be obvious how people can get started regardless at which point people join the experience. This is often a problem with exhibitions that contain a lot of long videos on a loop.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Zoom and filter",
+        "body": "<p>Use interaction to allow people to zoom and focus on the details that matter to them. In the &ldquo;200 years&rdquo; motion chart, this is done through clicking or selecting countries that will then track a path for you to compare what happens over the years.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Details on demand",
+        "body": "<p>Do not reveal too many details up front but give people to option to stop and explore at any point, this aids the understanding and contextualisation of what is being communicated.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is the story?",
+    "displayTitle": "What is the story?",
+    "body": "<p>According to the publisher, the graphic is trying to show &ldquo;The budget balances and current-account balances for ten euro-area countries&rdquo;. From the graphic, can you tell what the total European deficit is?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d246cbdecc46d0547f7d407",
+    "_parentId": "5d246cbcecc46d0547f7d403",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "€360m",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "€140m",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "€1bn",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Almost impossible to tell",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>According to the publisher, the graphic is trying to show &ldquo;The budget balances and current-account balances for ten euro-area countries&rdquo;. This is not a very good headline as it is not telling you what conclusions can be drawn.&nbsp;</p><p>A stacked bar chart is good for comparing totals, the problem here is the negative impact on each chart meaning that the top (or bottom) of the bar is not the total. To get the total you need to add negative and positive money together. So that is unclear.</p><p>Stacked bar charts are not great for illustrating differences as there is no common baseline present. It is even harder when you have two separate graphs with two different scales.&nbsp;</p><p>As the economist admitted in a <a href=\"https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368\" target=\"_blank\">blog</a>, they published a rainbow and that was about it.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>According to the publisher, the graphic is trying to show &ldquo;The budget balances and current-account balances for ten euro-area countries&rdquo;. This is not a very good headline as it is not telling you what conclusions can be drawn.&nbsp;</p><p>A stacked bar chart is good for comparing totals, the problem here is the negative impact on each chart meaning that the top (or bottom) of the bar is not the total. To get the total you need to add negative and positive money together. So that is unclear.</p><p>Stacked bar charts are not great for illustrating differences as there is no common baseline present. It is even harder when you have two separate graphs with two different scales.&nbsp;</p><p>As the economist admitted in a <a href=\"https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368\" target=\"_blank\">blog</a>, they published a rainbow and that was about it.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Shaping the narrative",
+    "displayTitle": "Shaping the narrative",
+    "body": "<p>As&nbsp;you are writing the narrative what should you check?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d2458ebecc46d0547f7d3f9",
+    "_parentId": "5d243cebecc46d0547f7d307",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "It matches the headline",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It references the goals and objectives of the project",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It references and describes the other types of content used (e.g. visualisation)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A compelling narrative starts with the headline. This headline should align with the goals and objectives of the project. It might also be related to a relevant hypothesis that you have either proved or disproved with the data. The narrative should accompany the headline, connecting this with the accompanying content to bring the story together while maintaining focus on the goals and objectives of the project. Making the headline, narrative and additional content clear will often involve the removing of all unnecessary content as opposed to adding more.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A compelling narrative starts with the headline. This headline should align with the goals and objectives of the project. It might also be related to a relevant hypothesis that you have either proved or disproved with the data. The narrative should accompany the headline, connecting this with the accompanying content to bring the story together while maintaining focus on the goals and objectives of the project. Making the headline, narrative and additional content clear will often involve the removing of all unnecessary content as opposed to adding more.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Thinking in dimensions",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Match you answers, then click 'submit'",
+    "_id": "5d247962ecc46d0547f7d44e",
+    "_parentId": "5d24731eecc46d0547f7d44b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "X-Axis Position",
+        "_options": [
+          {
+            "text": "Life expectancy ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Income",
+            "_isCorrect": true
+          },
+          {
+            "text": "Population",
+            "_isCorrect": false
+          },
+          {
+            "text": "World regions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Year",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Y-Axis position",
+        "_options": [
+          {
+            "text": "Life expectancy",
+            "_isCorrect": true
+          },
+          {
+            "text": "Income",
+            "_isCorrect": false
+          },
+          {
+            "text": "Population",
+            "_isCorrect": false
+          },
+          {
+            "text": "World regions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Year",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Circle size",
+        "_options": [
+          {
+            "text": "Life expectancy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Income",
+            "_isCorrect": false
+          },
+          {
+            "text": "Population",
+            "_isCorrect": true
+          },
+          {
+            "text": "World regions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Year",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Circle colour",
+        "_options": [
+          {
+            "text": "Life expectancy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Income",
+            "_isCorrect": false
+          },
+          {
+            "text": "Population",
+            "_isCorrect": false
+          },
+          {
+            "text": "World regions",
+            "_isCorrect": true
+          },
+          {
+            "text": "Year",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Animated motion (not shown)",
+        "_options": [
+          {
+            "text": "Life expectancy",
+            "_isCorrect": false
+          },
+          {
+            "text": "Income",
+            "_isCorrect": false
+          },
+          {
+            "text": "Population",
+            "_isCorrect": false
+          },
+          {
+            "text": "World regions",
+            "_isCorrect": false
+          },
+          {
+            "text": "Year",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>There are five visual dimensions used in Hans Rosling&#39;s motion chart. With the title being &quot;200 years that changed the world&quot; the constant is the animated passing of time. The rest of the dimensions can be customised by the user to explore the data for themselves.&nbsp;</p><p>While the default indicators on the X and Y axis are Income and Life expectancy respectively, these can be changed to one of over 100 different global indicators. Likewise the colour and size of the bubbles can be changed to a number of other indicators such as membership of different communities and child mortality respectively.&nbsp;</p><p>Question is, does the interactity add anything?</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?&nbsp;</strong></p><p>There are five visual dimensions used in Hans Rosling&#39;s motion chart. With the title being &quot;200 years that changed the world&quot; the constant is the animated passing of time. The rest of the dimensions can be customised by the user to explore the data for themselves.&nbsp;</p><p>While the default indicators on the X and Y axis are Income and Life expectancy respectively, these can be changed to one of over 100 different global indicators. Likewise the colour and size of the bubbles can be changed to a number of other indicators such as membership of different communities and child mortality respectively.&nbsp;</p><p>Question is, does the interactity add anything?</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Adding interaction",
+    "displayTitle": "",
+    "body": "<p>Earlier in this module we showcased some of the world&#39;s top immersive infographics, of which some of them are interactive. But is interaction needed?</p><p>The New York Times makes arguably some of the best interactives in the field, however <a href=\"https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb#.5sq4kxyeg\" target=\"_blank\">research by them </a>suggest only between 10-15% actually interact with the visualisation!&nbsp;</p><p>The biggest problem is when the creation of the experience becomes more about building a striking art piece as opposed to the right thing for goals and objectives of the project.&nbsp;</p><p>Think carefully about the goals and objectives of the project and also what method of communication will sit best with the client.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d247d55ecc46d0547f7d464",
+    "_parentId": "5d247cf2ecc46d0547f7d460",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Creating a compelling narrative",
+    "displayTitle": "",
+    "body": "<p>You have worked hard to this point to gather evidence and build a case for using data to inform a potential solution. Get the communication wrong and it may all be in vain.&nbsp;</p><p>When you want to communicate a story, you first need to decide who you want your audience to be and the appropriate form of communication for that audience. For the most part this should&nbsp;already be decided by the goals and objectives set at the start of the project.&nbsp;</p><p>Following this you want to create three key things:</p><ol><li>A clear headline</li><li>A compelling narrative</li><li>A multimedia experience (e.g. a&nbsp;visualisation)</li></ol>",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d363",
+    "_parentId": "5d243cebecc46d0547f7d313",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Hans Rosling - 200 years that changed the world",
+    "displayTitle": "Hans Rosling - 200 years that changed the world",
+    "body": "<p>How has the world changed in the last 200 years? Is China overtaking the US in economic growth, is Africa still poor and deprived or is it also developing?&nbsp;</p><p>Let Hans Rosling reveal all in 1m45s with this extract from&nbsp;&ldquo;Don&rsquo;t Panic: The Truth About Population&rdquo; available at <a href=\"https://www.gapminder.org/videos/dont-panic-the-facts-about-population/\" target=\"_blank\">gapminder.org</a>&nbsp;(used here for educational purposes only).</p>",
+    "instruction": "",
+    "_id": "5d244987ecc46d0547f7d3e4",
+    "_parentId": "5d244973ecc46d0547f7d3e3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "course/en/assets/9dfefb80e128637d82b5a4c4d8063ac5971bd947.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/28f40af1517ecd1ba9614c5839fe950d40c2a11f.jpg",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "A century of flight",
+    "displayTitle": "A century of flight",
+    "body": "<p>To mark 100 years of flight the Guardian newspaper (UK) explores what is next for the industry through an interactive story.</p><p>During the first year after launch the story would use live data and use your approximate location to center the map.&nbsp;You can explore an archived version of the story <a href=\"https://www.theguardian.com/world/ng-interactive/2014/aviation-100-years\" target=\"_blank\">here</a>.</p>",
+    "instruction": "",
+    "_id": "5d244c72ecc46d0547f7d3ea",
+    "_parentId": "5d244c26ecc46d0547f7d3e9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "course/en/assets/f6ab5b829d133d62f10986e3567ff3b6a925d32d.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/5016a54b6e3a43565bb4126a008146a3e23ce349.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Making information \"pop\"",
+    "displayTitle": "Making information \"pop\"",
+    "body": "<p>Using a technique called &#39;pop out&#39; helps direct the eye to the correct place. The dorsal stream reacts quickly to patterns and significant differences presented visually.</p><p>Pop-out works best when a combination of different visual cues are used in combination, e.g. colour, size and line thickness.</p><p>In the picture here, a combination of colour and thickness guides the eye towards the steepest line. This line represents the first high-speed train from Paris to Lyon. The steepness of the line is the speed.</p>",
+    "instruction": "",
+    "_id": "5d247202ecc46d0547f7d42f",
+    "_parentId": "5d2471d6ecc46d0547f7d42e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>You can invest in data technologies,&nbsp;collect all the data you can possibly imagine and build countless complex models, but it&rsquo;s worthless if the findings are not effectively&nbsp;communicated to decision-makers so that action can be taken from the insights.&nbsp;</p><p>A well designed output, tailored to the audience and goals/objectives of the project is essential to ensure the right action is taken. Creating an output with&nbsp;a compelling headline, narrative and accompanying visual and/or auditory content can help the right information &quot;pop&quot; in a very short space of time.&nbsp;</p><p>Think carefully about the design of your outputs, reduce them down to what is essential before being tempted to add lots of data and interactivity that people may never explore.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d358",
+    "_parentId": "5d243cebecc46d0547f7d300",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Reshaping New York",
+    "displayTitle": "Reshaping New York",
+    "body": "<p>The New York Times created a visually rich story in order to demonstrate the changes in New York during the 12 years of Mayor Bloomberg between 2001&nbsp;and 2013. The following is a capture from the story that can be explored <a href=\"http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/index.html\" target=\"_blank\">here</a>.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d245033ecc46d0547f7d3f0",
+    "_parentId": "5d244f88ecc46d0547f7d3ef",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "course/en/assets/b3ddb4f5051f17008fc7f45fd740b70b04cc2398.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/7e9148b9d0db15ccd4cc3dbfef660bd6443c9f8d.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "showtitle",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Where are we?",
+    "displayTitle": "Where are we?",
+    "body": "<p>You can invest in data technologies,&nbsp;collect all the data you can possibly imagine and build countless complex models, but it&rsquo;s worthless if the findings are not effectively&nbsp;communicated to decision-makers so that action can be taken from the insights. Communicating outputs&nbsp;is the essential last stage in ensuring that such action can be taken.</p>",
+    "instruction": "",
+    "_id": "5d243cececc46d0547f7d33e",
+    "_parentId": "5d243cebecc46d0547f7d309",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4bc728463ca488bdb52baa4b8f415578da487fae.jpg",
+      "small": "course/en/assets/4bc728463ca488bdb52baa4b8f415578da487fae.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

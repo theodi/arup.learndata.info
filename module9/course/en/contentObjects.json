@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Communicating outputs",
+    "displayTitle": "Communicating outputs",
+    "body": "<p>This module will look at how data can be effectively communicated. By the end of the module participants will be able to:</p><ul><li>Select appropriate methods to communicate insights from data - Look how effective it was.&nbsp;</li><li>Be aware of the many forms of communicating data - audio, touch, smell, immersive experiences, 3D models</li><li>Describe the role of effective narrative in data communication</li><li>Identify the core aspects of a good data visualisation</li><li>Identify deception in visually represented data - Done in exploratory data analysis&nbsp;</li><li>Importance of dynamic/interactive/exploratory data visualisation<br />&nbsp;</li></ul>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d243cebecc46d0547f7d2eb",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the key questions that can be answered with data",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify opportunities for data to be integrated into existing or create new projects within ARUP",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify a number of tools and methods to integrate data into projects",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]
