@@ -94,7 +94,7 @@
   {
     "title": "Regression Analysis",
     "displayTitle": "Regression Analysis",
-    "body": "<p dir=\"ltr\">Regression analysis is a type of predictive analysis similar to (and often called) trend analysis . It uses existing or historical data to try and predict what might happen in the future.</p><p dir=\"ltr\">One of the best examples of trend analysis is in credit scoring, used throughout financial services. This type of analysis looks at a customers financial history and gives a score to indicate their likelihood of making future credit payments on time.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">Regression analysis is a type of predictive analysis similar to (and often called) trend analysis. It uses existing or historical data to try and predict what might happen in the future.</p><p dir=\"ltr\">One of the best examples of trend analysis is in credit scoring, used throughout financial services. This type of analysis looks at a customers financial history and gives a score to indicate their likelihood of making future credit payments on time.&nbsp;</p>",
     "_classes": "inverted color-eight ",
     "_trackingId": 5,
     "instruction": "",
