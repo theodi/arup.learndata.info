@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Inferential statistics & machine learning",
+    "displayTitle": "Inferential statistics & machine learning",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d800",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the key questions that can be answered with data",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify opportunities for data to be integrated into existing or create new projects within ARUP",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify a number of tools and methods to integrate data into projects",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

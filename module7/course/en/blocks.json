@@ -1,0 +1,738 @@
+[
+  {
+    "title": "Inferential statistics & machine learning",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d806",
+    "_parentId": "5d24e3f3ecc46d0547f7d801",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Machine Learning",
+    "displayTitle": "Machine Learning",
+    "body": "",
+    "_classes": "inverted color-seven section-banner",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25b3215a68c8053644db62",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Key inferential statistics techniques",
+    "displayTitle": "Key inferential statistics techniques",
+    "body": "",
+    "_classes": "inverted color-seven section-banner",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d80a",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Statistics",
+    "displayTitle": "Statistics",
+    "body": "",
+    "_classes": "section-banner inverted color-seven",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d26006f5a68c8053644dbc4",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Regression Analysis",
+    "displayTitle": "Regression Analysis",
+    "body": "<p dir=\"ltr\">Regression analysis is a type of predictive analysis similar to (and often called) trend analysis . It uses existing or historical data to try and predict what might happen in the future.</p><p dir=\"ltr\">One of the best examples of trend analysis is in credit scoring, used throughout financial services. This type of analysis looks at a customers financial history and gives a score to indicate their likelihood of making future credit payments on time.&nbsp;</p>",
+    "_classes": "inverted color-eight ",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25e0925a68c8053644dbb2",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25b4d55a68c8053644db64",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24f55eecc46d0547f7d8fe",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Descriptive and inferential statistics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d80e",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Hypothesis testing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d808",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d807",
+    "_parentId": "5d24e3f3ecc46d0547f7d804",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Applications of machine learning",
+    "displayTitle": "Applications of machine learning",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25b5985a68c8053644db69",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24f75decc46d0547f7d904",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Categorise the following accordingly ",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d811",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "A coin flip",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d80c",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "A coin flip: the alternate hypothesis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d813",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Inferential statistics and sampling",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d810",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Machine learning in action",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25b7fb5a68c8053644db6e",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "What is the most significant cause of overfitting?",
+    "displayTitle": "What is the most significant cause of overfitting?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24f81fecc46d0547f7d907",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24f896ecc46d0547f7d90a",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d81c",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "You have to be certain",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d80b",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Precision and Recall",
+    "displayTitle": "Precision and Recall",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25c25b5a68c8053644db78",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "What threshold offers the best trade-off?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25c5ac5a68c8053644db83",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Evaluating our impact on wildlife",
+    "displayTitle": "Evaluating our impact on wildlife",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24e3f3ecc46d0547f7d812",
+    "_parentId": "5d24e3f3ecc46d0547f7d802",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Correlation",
+    "displayTitle": "Correlation",
+    "body": "<p dir=\"ltr\">It is important to understand the relationship between variables to draw the right conclusions from a statistical analysis. It is the relationship between variables that determines the validity of our conclusions.&nbsp; And the most common method to study such relationships is through correlation and regression analysis.</p><p dir=\"ltr\">The dependency between the variables we analyse is measured by calculating their linear association, called the correlation coefficient. The values of the correlation coefficient are always between -1 and +1 representing perfect negative and perfect positive correlation respectively.</p>",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25abd95a68c8053644db54",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Confidence intervals and normal distribution",
+    "displayTitle": "Confidence intervals and normal distribution",
+    "body": "<p>In the module on exploratory data analysis we introduced the normal distribution as a way to examine the spread of data. If the null hypothesis represents the mean in the distribution (the center), which zones (A, B or C) represent those that are less than 5% likely to occur.&nbsp;</p>",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d24f214ecc46d0547f7d8f8",
+    "_parentId": "5d24e3f3ecc46d0547f7d803",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Correlation and causation examples",
+    "displayTitle": "Correlation and causation examples",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25b0385a68c8053644db5f",
+    "_parentId": "5d24e3f3ecc46d0547f7d805",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Machine learning - clustering",
+    "displayTitle": "Machine learning - clustering",
+    "body": "<p>Clustering is a method used to identify similar groups of data in a dataset. And can either be used in a supervised manner, where some labels in the dataset are known, or unsupervised. The main goal of unsupervised machine learning is to study the intrinsic (and commonly hidden) patterns in the data.&nbsp;</p>",
+    "_classes": "inverted color-two",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25c76a5a68c8053644db85",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Variable section",
+    "displayTitle": "Variable section",
+    "body": "<p dir=\"ltr\">One of the most important aspects of inferential statistics and machine learning is the selection of criteria (or variables) which will be most informative to the situation.&nbsp;</p><p dir=\"ltr\">Take the following data about the characteristics of houses in New York and San Francisco.</p>",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25cde15a68c8053644db8e",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Variable section",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d271727b578120575fb5f97",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Incorrect variable selection",
+    "displayTitle": "Incorrect variable selection",
+    "body": "<p dir=\"ltr\">Incorrect variable selection can occur when ML models are built with variables that are not significantly correlated or have data that has noise and lots of outliers.</p>",
+    "_classes": "inverted color-eight",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25cf245a68c8053644db93",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Machine learning types",
+    "displayTitle": "Machine learning types",
+    "body": "<p dir=\"ltr\">There are&nbsp;four main machine learning techniques, and the difference between them is mainly based on the type&nbsp;of expectations we have for their learning outputs.</p>",
+    "_classes": "inverted color-two",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d25e29d5a68c8053644dbb7",
+    "_parentId": "5d25b3215a68c8053644db61",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]

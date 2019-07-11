@@ -1,0 +1,2753 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Inferential and descriptive statistics",
+    "displayTitle": "Inferential and descriptive statistics",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e688ecc46d0547f7d8bf",
+    "_parentId": "5d24e3f3ecc46d0547f7d80e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24f827ecc46d0547f7d909",
+    "_parentId": "5d24f81fecc46d0547f7d907",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Machine learning&nbsp; (ML) refers to the use of models and algorithms to handle new scenarios by detecting patterns and trends through analysis of observations and self-training from experiences. In many ways, it is an extension of inferential statistics, at scale, often using off the shelf models. And its applications are predominantly used on large complex datasets with a number of dimensions that are considered to be scalable.</p>",
+    "instruction": "",
+    "_id": "5d25b3a65a68c8053644db63",
+    "_parentId": "5d25b3215a68c8053644db62",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "A coin flip: the null hypothesis",
+    "displayTitle": "A coin flip: the null hypothesis",
+    "body": "<p>Let&rsquo;s take a simple coin flip.&nbsp;</p><p>What would be the appropriate null hypothesis for a coin flip that we want to test?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24e3f3ecc46d0547f7d830",
+    "_parentId": "5d24e3f3ecc46d0547f7d80c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "The coin is unbiased",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The coin is biased towards heads",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The coin is biased towards tails",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The null hypothesis should reflect the population, in this case all coins. So we should assume the coin is unbiased.</p><p>The same is true for juries on court cases. The null hypothesis would be that the defendant is innocent and it is up to the jury to decide if there is significant evidence to reject the null hypothesis.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The null hypothesis should reflect the population, in this case all coins. So we should assume the coin is unbiased.</p><p>The same is true for juries on court cases. The null hypothesis would be that the defendant is innocent and it is up to the jury to decide if there is significant evidence to reject the null hypothesis.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24ebc4ecc46d0547f7d8f3",
+    "_parentId": "5d24e3f3ecc46d0547f7d812",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25aac75a68c8053644db4d",
+    "_parentId": "5d24f214ecc46d0547f7d8f8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25cef35a68c8053644db90",
+    "_parentId": "5d25cde15a68c8053644db8e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9708cc67dea8effbd31fc58100725e5ae465c737.jpg",
+      "small": "course/en/assets/9708cc67dea8effbd31fc58100725e5ae465c737.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Precision and recall",
+    "displayTitle": "Precision and recall",
+    "body": "<p dir=\"ltr\">Precision and recall are metrics used in classification models to assess the ability of a model in making the correct predictions. Take the image here of planes and birds. We want to correctly identify planes.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d25d4885a68c8053644db98",
+    "_parentId": "5d25c25b5a68c8053644db78",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a3f0993837e6bbf357152e339ebda2356848d0a0.jpg",
+      "small": "course/en/assets/a3f0993837e6bbf357152e339ebda2356848d0a0.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24f765ecc46d0547f7d906",
+    "_parentId": "5d24f75decc46d0547f7d904",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25b78d5a68c8053644db6b",
+    "_parentId": "5d25b5985a68c8053644db69",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25c9c35a68c8053644db88",
+    "_parentId": "5d25c76a5a68c8053644db85",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Establishing seismic risk of buildings",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e990ecc46d0547f7d8e2",
+    "_parentId": "5d24e3f3ecc46d0547f7d81c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Key inferential statistics techniques",
+    "displayTitle": "",
+    "body": "<p>We generally want to use the analysis derived from a sample to infer future outcomes on a population. The most common techniques that enable us to do that are hypothesis testing, regression analysis and correlation analysis.</p>",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d825",
+    "_parentId": "5d24e3f3ecc46d0547f7d80a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d271728b578120575fb5f99",
+    "_parentId": "5d271727b578120575fb5f97",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/737f7984f009ba90aadf17e75e1eb20005d70125.jpg",
+      "small": "course/en/assets/737f7984f009ba90aadf17e75e1eb20005d70125.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Hypothesis testing",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d824",
+    "_parentId": "5d24e3f3ecc46d0547f7d808",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25a9445a68c8053644db46",
+    "_parentId": "5d24e3f3ecc46d0547f7d80b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d2704a3b578120575fb5f85",
+    "_parentId": "5d25b0385a68c8053644db5f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24f89eecc46d0547f7d90c",
+    "_parentId": "5d24f896ecc46d0547f7d90a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/746bc507103e8801ee724aecfaf62e8107d698f6.jpg",
+      "small": "course/en/assets/746bc507103e8801ee724aecfaf62e8107d698f6.jpg",
+      "attribution": "<a href=\"https://callingbullshit.org\" target=\"_blank\">The University of Washington</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24f5b4ecc46d0547f7d901",
+    "_parentId": "5d24f55eecc46d0547f7d8fe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/750a9ee9496fa0431411b0ce0c89b129a005c165.jpg",
+      "small": "course/en/assets/750a9ee9496fa0431411b0ce0c89b129a005c165.jpg",
+      "attribution": "<a href=\"https://callingbullshit.org/\" target=\"_blank\">University of Washington</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25a92b5a68c8053644db43",
+    "_parentId": "5d24e3f3ecc46d0547f7d813",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25a8fd5a68c8053644db3f",
+    "_parentId": "5d24e3f3ecc46d0547f7d80c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Inferential statistics and sampling",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e959ecc46d0547f7d8d1",
+    "_parentId": "5d24e3f3ecc46d0547f7d810",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25d8c95a68c8053644db9f",
+    "_parentId": "5d25abd95a68c8053644db54",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d157a98eff8777084451db4698cd18d672d7d473.jpg",
+      "small": "course/en/assets/d157a98eff8777084451db4698cd18d672d7d473.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Avoiding overfitting",
+    "displayTitle": "Avoiding overfitting",
+    "body": "<p>If you do not know for certain the underlying probability distribution, how might you avoid overfitting?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24f89becc46d0547f7d90b",
+    "_parentId": "5d24f896ecc46d0547f7d90a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Cross validate against a number of other samples from the population",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Collect more data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Just stick with the average or linear regression",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Cross-validation can detect overfit models by determining how well your model generalizes to other samples from the population. A common error in inferential statistics is using every data point available to build the model, regardless of the definition of the population. Even if your available data is already a sample from the population, partitioning your data. helps you evaluate the reliability of the model on the wider population.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Cross-validation can detect overfit models by determining how well your model generalizes to other samples from the population. A common error in inferential statistics is using every data point available to build the model, regardless of the definition of the population. Even if your available data is already a sample from the population, partitioning your data. helps you evaluate the reliability of the model on the wider population.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overfitting",
+    "displayTitle": "Overfitting",
+    "body": "<p>In fact you can keep adding powers to make a complex polynomial equation that will fit perfectly through every point.&nbsp;</p><p>To fit each point you need to raise x to the power of the number of points minus one, i.e. for this 11 point problem, you could fit ax<sup>10</sup>+&hellip; as shown here.</p><p>As you add powers of x to the equation, the curve better fits historical data, but this influences our predictions as the model is taking into account the detail and noise in the data (such as errors and outliers), decreasing the potential of predicting the next value accurately.&nbsp;This is a problem known as <strong>overfitting</strong>.</p>",
+    "instruction": "",
+    "_id": "5d24f762ecc46d0547f7d905",
+    "_parentId": "5d24f75decc46d0547f7d904",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Every answer is possible",
+    "displayTitle": "Every answer is possible",
+    "body": "<p>If you tried to make a prediction given the last graph then it doesn&#39;t matter what you said as all answers could be equally valid.</p>",
+    "instruction": "Find out why below:",
+    "_id": "5d24f5aeecc46d0547f7d900",
+    "_parentId": "5d24f55eecc46d0547f7d8fe",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Reaching A",
+        "body": "<p><strong>A&nbsp;</strong>represents a fluctuating set of data points. Who is to say we continue to downward trend?&nbsp;It might trend back up again like a set of temperatures throughout the year.&nbsp;</p><p>The equation for this line of best fit would be either <em>y=sin(x)</em> or <em>y=cos(x)</em>.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reaching B",
+        "body": "<p><strong>B&nbsp;</strong>is the average of all the existing points. A nice, accurate, descriptive statistic.&nbsp;</p><p><em>y=360</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reaching C",
+        "body": "<p><strong>C</strong> is a straight line of best fit (linear) through all the points.</p><p>A change in x means a change in y thus:</p><p><em>y=mx+c</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reaching D",
+        "body": "<p><strong>D</strong> is the result of a quadratic line of best fit, or a curve line of best fit.&nbsp;</p><p>In terms of the two factors of yield and salt concentration this would likely be the correct answer.</p><p>The equation for a quadratic needs a power of x in order for it to curve e.g.:</p><p><em>&nbsp;y=ax<sup>2</sup>+bx+c</em></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Applications of machine learning",
+    "displayTitle": "",
+    "body": "<p>Which of the following are applications of machine learning:&nbsp;</p>",
+    "instruction": "Select two answers, then click 'submit'",
+    "_id": "5d25b5b85a68c8053644db6a",
+    "_parentId": "5d25b5985a68c8053644db69",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Image classification",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Customer segmentation based on patterns in purchasing habits",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Air conditioning control systems",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Picking and packing on a supply line ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>Sometimes the differences between applications of machine learning and automation might not be that clear. Generally, machine learning is applied to tasks where classifications or outcomes might change as the input data changes, such as customer segmentation or image analysis. In other situations, such as in air conditioning control and on supply chains there will be a set of rules that are fixed and controlling all situations based upon a simply set of input parameters.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Sometimes the differences between applications of machine learning and automation might not be that clear. Generally, machine learning is applied to tasks where classifications or outcomes might change as the input data changes, such as customer segmentation or image analysis. In other situations, such as in air conditioning control and on supply chains there will be a set of rules that are fixed and controlling all situations based upon a simply set of input parameters.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "dragndrop",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Categorise the following accordingly ",
+    "displayTitle": "Categorise the following accordingly ",
+    "body": "",
+    "instruction": "Drag and drop your answers, then click 'submit'",
+    "_id": "5d24e6ddecc46d0547f7d8cf",
+    "_parentId": "5d24e3f3ecc46d0547f7d811",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Descriptive statistics",
+        "accepted": [
+          "Measures of central tendency (averages)",
+          "Measures of dispersion (range, variance, standard deviation)"
+        ]
+      },
+      {
+        "text": "Inferential statistics",
+        "accepted": [
+          "Regression analysis",
+          "Correlation analysis",
+          "Hypothesis testing"
+        ]
+      }
+    ],
+    "dummyAnswers": [],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The basic idea behind inferential statistics is that you want to use a limited amount of data to make general conclusions. Techniques including regression and correlation analysis are key examples of inferential statistics.&nbsp;</p><p>Anything which is calculated precisely, such as an average or standard deviation is a descriptive statistic.&nbsp;<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The basic idea behind inferential statistics is that you want to use a limited amount of data to make general conclusions. Techniques including regression and correlation analysis are key examples of inferential statistics.&nbsp;</p><p>Anything which is calculated precisely, such as an average or standard deviation is a descriptive statistic.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Variable section",
+    "displayTitle": "",
+    "body": "<p>Can you identify the location of the mystery house from the data above? Which variables are the most suitable to use for differentiating between houses in the two cities?</p>",
+    "instruction": "Select two answers, then click 'submit'",
+    "_id": "5d271728b578120575fb5f98",
+    "_parentId": "5d271727b578120575fb5f97",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Price per sqft",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Elevation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Year built",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Bedrooms",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Bathrooms",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right! </strong></p><p dir=\"ltr\">Key to making the right decision is to combine what the data says with your own expert knowledge. In this case what do you know about New York and San Francisco. In this case, New York is densely populated and you are not likely to get a lot of space for your money. New York is also much flatter than San Francisco.</p><p dir=\"ltr\">Using the two variables of&nbsp;price per SQ ft. and elevation would suggest that our mystery house is in New York.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Key to making the right decision is to combine what the data says with your own expert knowledge. In this case what do you know about New York and San Francisco. In this case, New York is densely populated and you are not likely to get a lot of space for your money. New York is also much flatter than San Francisco.</p><p dir=\"ltr\">Using the two variables of&nbsp;price per SQ ft. and elevation would suggest that our mystery house is in New York.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Inferential statistics and sampling",
+    "displayTitle": "Inferential statistics and sampling",
+    "body": "<p>The basic idea behind inferential statistics is that you want to use a limited amount of data to make general conclusions. Let&rsquo;s focus on two key concepts from the module on exploratory analysis where we covered <strong>samples</strong> and <strong>population</strong>.</p><p>Assume that for your project you need to analyse acoustics inside buildings to improve the quality of concerts. It will be very time consuming and unrealistic to gather data about all buildings across the globe where concerts take place (<strong>the&nbsp;population</strong>) to use as data for your analysis. What you can do is gather data that is most representative as possible to all these buildings (<strong>a sample</strong>) and use rules of statistics to make inferences about the overall population.</p>",
+    "instruction": "",
+    "_id": "5d24e87decc46d0547f7d8d0",
+    "_parentId": "5d24e3f3ecc46d0547f7d810",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "What can incorrect selection of variables result in?",
+    "_id": "5d25cfe25a68c8053644db95",
+    "_parentId": "5d25cf245a68c8053644db93",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Incorrect analysis and solution",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Illegal, unethical or biased results",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A model that is overfitted",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Failure to choose the right variables can lead to model that is overfitted, thus making inferences and predictions irrelevant. The same can be true when too many variables are used. This leads to an incorrect analysis or one with a spurious illogical correlation. Worse, the unsupervised, deep learning system could end up being biased, offensive or even performing illegal actions.&nbsp;</p><p dir=\"ltr\">It is worth emphasising again. Machine learning and inferential statistics are nothing without a domain expert to interpret the results and decide which should be applied to create the right solution to the problem.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Failure to choose the right variables can lead to model that is overfitted, thus making inferences and predictions irrelevant. The same can be true when too many variables are used. This leads to an incorrect analysis or one with a spurious illogical correlation. Worse, the unsupervised, deep learning system could end up being biased, offensive or even performing illegal actions.&nbsp;</p><p dir=\"ltr\">It is worth emphasising again. Machine learning and inferential statistics are nothing without a domain expert to interpret the results and decide which should be applied to create the right solution to the problem.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Inferential statistics & machine learning",
+    "displayTitle": "Inferential statistics & machine learning",
+    "body": "<p>Predicting the future is hard. The understanding of Inferential statistics and machine learning is critical to make sure that any models we are building and insights we generate are going to be sound when applied.&nbsp;</p><p>In this module we fill look at methods that enable making&nbsp;inferences about the future by learning common statistics and machine learning techniques.</p><p>This module covers:</p><ol><li>Types of inferential statistics such as hypothesis testing, overfitting, and correlations</li><li>Machine learning techniques such as types of algorithms, and metrics to evaluate predictions</li></ol>",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d81f",
+    "_layout": "left",
+    "_parentId": "5d24e3f3ecc46d0547f7d806",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Machine learning - clustering",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Which of the following are examples of unsupervised learning:</p>",
+    "instruction": "Select your answers and then click 'submit'",
+    "_id": "5d25c80f5a68c8053644db87",
+    "_parentId": "5d25c76a5a68c8053644db85",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Customer segmentation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Facial recognition in a set of images",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Training a voice assistant",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spam filtering",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right! </strong></p><p>Unsupervised learning is often used as a means of dimensionality reduction. For example if you collected hundreds of data points surrounding flight schedules and delays including: weather conditions, plane details, number of passengers, boarding mechanism. You could use unsupervised learning to evaluate the most pertinent variables that can be altered and managed to build tools that are more precise when detecting delays.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Unsupervised learning is often used as a means of dimensionality reduction. For example if you collected hundreds of data points surrounding flight schedules and delays including: weather conditions, plane details, number of passengers, boarding mechanism. You could use unsupervised learning to evaluate the most pertinent variables that can be altered and managed to build tools that are more precise when detecting delays.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Establishing seismic risk of buildings",
+    "displayTitle": "Establishing seismic risk of buildings",
+    "body": "<p>If we want to model the Seismic Risk of buildings in a city to assess the failure levels, what would be the most logical dataset to acquire?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24e98cecc46d0547f7d8e1",
+    "_parentId": "5d24e3f3ecc46d0547f7d81c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Data on every building globally",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data on every building in the city",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A representative sample of buildings in the city",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>While gathering data on the whole population is desirable, in a typical project this will likely be too time consuming. Gathering a representative sample will be hard enough. Often, the population ends up being the data you can acquire and the sample becomes the sub-set of your data. This way the inferences made can be examined against the population data you have to test your hypothesis.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>While gathering data on the whole population is desirable, in a typical project this will likely be too time consuming. Gathering a representative sample will be hard enough. Often, the population ends up being the data you can acquire and the sample becomes the sub-set of your data. This way the inferences made can be examined against the population data you have to test your hypothesis.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Hypothesis testing",
+    "displayTitle": "Hypothesis testing",
+    "body": "<p>Much of statistical reasoning was developed in the context where you need a definite yes or no answer to the claim in your analysis. &nbsp;</p><p>This method is called hypothesis testing (or significance testing).&nbsp;In a hypothesis test you need to define two hypothesis- a null and an alternative. The null hypothesis takes the position there there is no relationship between one thing and another.</p><p>The purpose of hypothesis testing is to try and prove otherwise. This enables&nbsp;the null hypothesis to be rejected and the alternative hypothesis to be accepted.&nbsp;</p><p>In order to decide whether to accept or reject the alternative, you will rely on a threshold measured by a mathematical formula called the p-value.&nbsp;<br />&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24ee27ecc46d0547f7d8f6",
+    "_parentId": "5d24e3f3ecc46d0547f7d808",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Machine learning in action",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select an answer for each stage and click 'submit'",
+    "_id": "5d25bb315a68c8053644db75",
+    "_parentId": "5d25b7fb5a68c8053644db6e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Step 1",
+        "_options": [
+          {
+            "text": "Manually label a large number of images as “containing cracks” and “no cracks” to create a known labelled dataset.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Take a sample from the labelled dataset to train the machine learning model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to evaluate the success of the model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Expand the labelled dataset until the training and evaluation accuracies are consistent.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Apply the model on the whole dataset.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 2",
+        "_options": [
+          {
+            "text": "Manually label a large number of images as “containing cracks” and “no cracks” to create a known labelled dataset.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to train the machine learning model.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Take a sample from the labelled dataset to evaluate the success of the model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Expand the labelled dataset until the training and evaluation accuracies are consistent.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Apply the model on the whole dataset.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 3",
+        "_options": [
+          {
+            "text": "Manually label a large number of images as “containing cracks” and “no cracks” to create a known labelled dataset.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to train the machine learning model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to evaluate the success of the model.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Expand the labelled dataset until the training and evaluation accuracies are consistent.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Apply the model on the whole dataset.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 4",
+        "_options": [
+          {
+            "text": "Manually label a large number of images as “containing cracks” and “no cracks” to create a known labelled dataset.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to train the machine learning model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to evaluate the success of the model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Expand the labelled dataset until the training and evaluation accuracies are consistent.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Apply the model on the whole dataset.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 5",
+        "_options": [
+          {
+            "text": "Manually label a large number of images as “containing cracks” and “no cracks” to create a known labelled dataset.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to train the machine learning model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Take a sample from the labelled dataset to evaluate the success of the model.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Expand the labelled dataset until the training and evaluation accuracies are consistent.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Apply the model on the whole dataset.",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">This is an example of supervised learning, where a labelled dataset is used to train the model for what to look for. So step 1 can be very onerous and again relies on experts to ensure the training data is correct, representative, not noisy or overfitted.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p>This is an example of supervised learning, where a labelled dataset is used to train the model for what to look for. So step 1 can be very onerous and again relies on experts to ensure the training data is correct, representative, not noisy or overfitted.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d823",
+    "_parentId": "5d24e3f3ecc46d0547f7d807",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25d6f75a68c8053644db9c",
+    "_parentId": "5d25cf245a68c8053644db93",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d820",
+    "_layout": "right",
+    "_parentId": "5d24e3f3ecc46d0547f7d806",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What is the most significant cause of overfitting?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24f824ecc46d0547f7d908",
+    "_parentId": "5d24f81fecc46d0547f7d907",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Not having enough data to analyse",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "When the model has taken noise into account as opposed to the underlying probability distribution",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "When an inconsistent method of data collection has been used",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>An overfit model is one that is too complicated for your data set. When this happens, the regression model becomes tailored to fit the quirks and random noise in your specific sample rather than reflecting the underlying probability distribution in the overall population. A bigger dataset will often have more quirks so still faces the same issues of overfitting.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An overfit model is one that is too complicated for your data set. When this happens, the regression model becomes tailored to fit the quirks and random noise in your specific sample rather than reflecting the underlying probability distribution in the overall population. A bigger dataset will often have more quirks so still faces the same issues of overfitting.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25e5565a68c8053644dbbd",
+    "_parentId": "5d25e29d5a68c8053644dbb7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supervised ML ",
+        "body": "<p>In Supervised Learning, algorithms learn from labeled data. After understanding the data, the algorithm determines which label should be given to new data based on pattern and associating the patterns to the unlabeled new data.</p><p>Two main types of tasks are:</p><ul><li>Classification</li><li>Regression</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Supervised ML "
+      },
+      {
+        "title": "Unsupervised ML",
+        "body": "<p>In unsupervised machine learning, algorithms infer patterns from a dataset without reference labeled data..They&nbsp;cannot be directly applied to a regression or classification problem because you have no idea what the values for the output data might be. Unsupervised learning can instead be used for discovering the underlying structure of the data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Unsupervised ML"
+      },
+      {
+        "title": "Reinforcement ML",
+        "body": "<p dir=\"ltr\">In reinforcement Learning, the&nbsp;algorithms automatically determine the ideal behaviour within a specific context, in order to maximize its performance.</p><p dir=\"ltr\">Commonly used in GameAI to learn correct reward mechanisms for human player or in auction systems where winning at the right price is the goal, not just winning.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Reinforcement ML"
+      },
+      {
+        "title": "Deep Learning",
+        "body": "<p dir=\"ltr\">Learning through complex pattern recognition based on several independent and hidden layers of learning.</p><p dir=\"ltr\">It is&nbsp;a subfield of machine learning&nbsp;inspired by the structure and function of the brain called&nbsp;artificial neural networks.</p><p dir=\"ltr\">Commonly used in fraud detection and behavioural analysis.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Deep Learning"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "A coin flip: the alternate hypothesis",
+    "displayTitle": "A coin flip: the alternate hypothesis",
+    "body": "<p>If the coin was flipped 5 times and 4 of the flips were heads, what could we say about the coin?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24e3f3ecc46d0547f7d832",
+    "_parentId": "5d24e3f3ecc46d0547f7d813",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "The coin is biased towards heads",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The coin is biased towards tails",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It is not clear if the coin is biased or unbiased",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Only flipping the coin 5 times means that each flip is only 20% of the sample. Given the result we would say that 80% of the time we got heads and only 20% tails. Typically this would not be significant enough to conclude that the coin is biased. Thus&nbsp;we either accept the null hypothesis or state it is not clear due to the sample size.&nbsp;</p><p>Important note: This simplified example is for illustrative purposes only. To calculate the actual probability of the coin being biased we need to use a mathematical formula to calculate something called a p-value (for those interested the p-value in this example would be 0.1875, which is close to 0.2).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Only flipping the coin 5 times means that each flip is only 20% of the sample. Given the result we would say that 80% of the time we got heads and only 20% tails. Typically this would not be significant enough to conclude that the coin is biased. Thus&nbsp;we either accept the null hypothesis or state it is not clear due to the sample size.&nbsp;</p><p>Important note: This simplified example is for illustrative purposes only. To calculate the actual probability of the coin being biased we need to use a mathematical formula to calculate something called a p-value (for those interested the p-value in this example would be 0.1875, which is close to 0.2).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Evaluating our impact on wildlife",
+    "displayTitle": "",
+    "body": "<p>In some cases there may be concerns over the impact of our projects on the wildlife population, not just locally but internationally.&nbsp;</p><p>As a result we may need to carry out wildlife surveys, sometimes looking at all wildlife, sometimes looking for known threatened or protected species.&nbsp;</p><p>This survey will represent a small sample of the global population and it is necessary to compare our sample to global statistics to understand the true impact of our project on&nbsp;wildlife.</p>",
+    "instruction": "",
+    "_id": "5d24ebbfecc46d0547f7d8f2",
+    "_parentId": "5d24e3f3ecc46d0547f7d812",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Confidence intervals and the normal distribution",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d24f21becc46d0547f7d8f9",
+    "_parentId": "5d24f214ecc46d0547f7d8f8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "A",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "B",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "C",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>A result is significant if it falls outside of two standard deviations from the mean (null hypothesis). For a coin flip involving 20 flips this would be results where 18, 19 or 20 of the flips give the same result.</p><p>A test of significance can either be one-tailed or two-tailed depending on the nature of the thing being evaluated. An example of a two-tailed significance test would be to compare heights of humans over the last thousand years. Has it changed significantly? and which way, significantly up or significantly down?</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A result is significant if it falls outside of two standard deviations from the mean (null hypothesis). For a coin flip involving 20 flips this would be results where 18, 19 or 20 of the flips give the same result.</p><p>A test of significance can either be one-tailed or two-tailed depending on the nature of the thing being evaluated. An example of a two-tailed significance test would be to compare heights of humans over the last thousand years. Has it changed significantly? and which way, significantly up or significantly down?</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Descriptive and inferential statistics",
+    "displayTitle": "Descriptive and inferential statistics",
+    "body": "<p><strong>Descriptive statistics</strong>: Data is described in a very accurate, precise manner; complete information is provided about that particular dataset. &nbsp;It helps you describe, organise and summarise data.&nbsp;</p><p><strong>Inferential statistics</strong>: Analysis of a sample in order to derive information and draw conclusions regarding a larger population. It helps you observe and analyse in order to generalise and make judgements.&nbsp;</p><p>POINTER: If you need a reminder of the different types of descriptive statistics they are covered in the module on Exploratory Data Analysis. &nbsp;<br />&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d828",
+    "_parentId": "5d24e3f3ecc46d0547f7d80e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "section-banner inverted color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Statistics",
+    "displayTitle": "",
+    "body": "<p>Statistics are important to become acquainted with because they are used in our day to day life, from insurance, to medicine, to weather forecast, to reports and analytics that help us make informed decisions. And there are mainly two types: descriptive and inferential.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d26006f5a68c8053644dbd5",
+    "_parentId": "5d26006f5a68c8053644dbc4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Predicting the future is hard. The understanding of Inferential statistics and machine learning is critical to make sure that any models we are building and insights we generate are going to be sound when applied to the wider population, especially when looking to avoid future disaster.&nbsp;</p><p>In this module we fill looked inferential statistics and machine learning. Two highly interconnected topics and look to not only build a model to predict the future but also adapt to changes as new insight is discovered.&nbsp;</p><p>Having knowledge of these areas is not sufficient however. Expert domain knowledge is required&nbsp;to guide the models and set parameters and rules that ensure they don&#39;t go badly wrong!&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24e3f3ecc46d0547f7d822",
+    "_parentId": "5d24e3f3ecc46d0547f7d807",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d25b5585a68c8053644db66",
+    "_parentId": "5d25b4d55a68c8053644db64",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Correlation and causation examples",
+    "displayTitle": "",
+    "body": "<p>Which of the following is an example of:</p>",
+    "instruction": "",
+    "_id": "5d25d9945a68c8053644dba2",
+    "_parentId": "5d25b0385a68c8053644db5f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Positive correlation (and causation)",
+        "_options": [
+          {
+            "text": "Temperature and Ice-Cream sales ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Ice cream sales and sales of sunglasses",
+            "_isCorrect": false
+          },
+          {
+            "text": "Speed and travel time",
+            "_isCorrect": false
+          },
+          {
+            "text": "Mozzarella cheese and degrees in computer science",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Positive correlation (spurious causation)",
+        "_options": [
+          {
+            "text": "Temperature and Ice-Cream sales ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Ice cream sales and sales of sunglasses",
+            "_isCorrect": true
+          },
+          {
+            "text": "Speed and travel time",
+            "_isCorrect": false
+          },
+          {
+            "text": "Mozzarella cheese and degrees in computer science",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Negative correlation (and causation)",
+        "_options": [
+          {
+            "text": "Temperature and Ice-Cream sales ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Ice cream sales and sales of sunglasses",
+            "_isCorrect": false
+          },
+          {
+            "text": "Speed and travel time",
+            "_isCorrect": true
+          },
+          {
+            "text": "Mozzarella cheese and degrees in computer science",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Positive correlation (spurious)",
+        "_options": [
+          {
+            "text": "Temperature and Ice-Cream sales ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Ice cream sales and sales of sunglasses",
+            "_isCorrect": false
+          },
+          {
+            "text": "Speed and travel time",
+            "_isCorrect": false
+          },
+          {
+            "text": "Consumption of cheese and degrees in computer science",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right</strong></p><p>A simple sanity check is all it takes to deduce if the correlation makes sense (e.g. temperature and ice cream sales, or speed and travel time), is loosely related but not a direct correlation (e.g. ice cream sales and sales of sunglasses) or just spurious and amusing (e.g. consumption of cheese and degrees in computer science).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A simple sanity check is all it takes to deduce if the correlation makes sense (e.g. temperature and ice cream sales, or speed and travel time), is loosely related but not a direct correlation (e.g. ice cream sales and sales of sunglasses) or just spurious and amusing (e.g. consumption of cheese and degrees in computer science).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Precision and recall",
+    "displayTitle": "",
+    "body": "<p>You are trying to correctly identify as many planes as possible while keeping the number of birds incorrectly identified as planes low. Where would you set the threshold to achieve this?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d25c5c95a68c8053644db84",
+    "_parentId": "5d25c5ac5a68c8053644db83",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "First 3 images",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "First 4 images",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "First 5 images",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All images",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p dir=\"ltr\">Including the first five images gives 80% precision and 80% recall and represents the best tradeoff for our classifier. When dealing with millions of images, it is worth thinking how machine learning can help reduce the burden of manual classification. Manual classification of this many images is not only likely to take significant time, but also be inaccurate to loss of concentration. The ideal trade-off is one where the system is better than any alternatives.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Including the first five images gives 80% precision and 80% recall and represents the best tradeoff for our classifier. When dealing with millions of images, it is worth thinking how machine learning can help reduce the burden of manual classification. Manual classification of this many images is not only likely to take significant time, but also be inaccurate to loss of concentration. The ideal trade-off is one where the system is better than any alternatives.</p><p>&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Salt concentration and yield",
+    "displayTitle": "Salt concentration and yield",
+    "body": "<p dir=\"ltr\">The following graph refers to the relationship between salt concentration levels and yield.</p>",
+    "instruction": "",
+    "_id": "5d25e0925a68c8053644dbb4",
+    "_parentId": "5d25e0925a68c8053644dbb2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dd449c9174abf75025ef274103dda5a9dc09fcbc.jpg",
+      "small": "course/en/assets/dd449c9174abf75025ef274103dda5a9dc09fcbc.jpg",
+      "attribution": "<a href=\"https://callingbullshit.org\" target=\"_blank\">University of Washington</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What threshold offers the best trade-off?",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">If our algorithm was to set a threshold after the first image then it would correctly identify one plane. This is 100% precision as every image classified as a plane, is a plane. However the recall is only 20% as there are still four remaining images of planes that have not been classified as such. Moving the threshold to after the second image would give a precision of 100% and recall of 40% etc.&nbsp;</p><p dir=\"ltr\">There is always a trade-off&nbsp;between precision and recall in&nbsp;machine learning systems. How you select the right trade-off will be informed by the requirement of the project and expectation in a particular domain.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d25d4b55a68c8053644db9b",
+    "_parentId": "5d25c5ac5a68c8053644db83",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Machine learning in action",
+    "displayTitle": "Machine learning in action",
+    "body": "<p dir=\"ltr\">Machine learning relies on being trained to start with. This involved gathering a high quality, reliable dataset that can be used to train the machine as a starting point. You will then want to prove the machine can do the task you have given it.</p><p dir=\"ltr\">A project you are on has been tasked with collecting and examining the structural integrity of a tunnel. Over 1 million photos have been taken on&nbsp;tunnel walls and roof. Your task is to use machine learning in order to flag images that may contain cracks in the tunnel wall.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d25b83e5a68c8053644db6f",
+    "_parentId": "5d25b7fb5a68c8053644db6e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Salt concentration and yield",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">How do you think this relationship will evolve if 10 points were added - is the&nbsp;tendency towards A,B,C, or D?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d25e0925a68c8053644dbb3",
+    "_parentId": "5d25e0925a68c8053644dbb2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "A",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "B",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "C",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "D",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Because every answer is possible! Find out more in the next section.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>That&#39;s right!</strong></p><p>Because every answer is possible! Find out more in the next section</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "inverted color-two",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Correlation",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Correlation analysis is used to test statistical significance to understand if the correlations are due to chance caused by random sampling errors.</p><p dir=\"ltr\">A key concept to remember when identifying dependant variables is to never assume a correlation means that a change in one variable causes a change in another. That can lead to misleading interpretations given correlation does not mean causation. Usually, domain knowledge and common sense are key in avoiding making such mistakes.</p>",
+    "instruction": "",
+    "_id": "5d25abe75a68c8053644db55",
+    "_parentId": "5d25abd95a68c8053644db54",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Railway inspection",
+    "displayTitle": "Railway inspection",
+    "body": "<p dir=\"ltr\">Let&rsquo;s look at an application to ML for railway inspections. Manual inspection of railway track would take significant time and effort. Many transport organisations make use of high speed inspection trains that minimise delays while capturing and processing millions of data points an hour to identify track defects. These systems collect many data points including images, sounds and ultrasound scans of the rail head. All are analysed using separate machine learning systems in order to identify areas of interest. In addition crews can also flag areas where data can be retained for manual inspection for improvement of the systems classifiers. (in the UK this train is known affectionately as the flying banana).</p><p dir=\"ltr\">Other applications of ML involve&nbsp;text analysis, image classification, regression analysis and speech and audio recognition.</p><p dir=\"ltr\">&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d25b4ec5a68c8053644db65",
+    "_parentId": "5d25b4d55a68c8053644db64",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "You have to be certain",
+    "displayTitle": "You have to be certain",
+    "body": "<p>A statistical significance test is one that establishes the probability of the result being so extreme that the null hypothesis can be rejected. The rule of thumb is that you have to be at least 95% certain, or to put it another way, the result must be less than 5% likely to occur if the null hypothesis is true.</p><p>Depending on your hypothesis and the consequences of the result, you may want to be more certain than 95%. Conversely it may be appropriate for a lower confidence interval, but as a rule of thumb 95% is used.&nbsp;&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d24f108ecc46d0547f7d8f7",
+    "_parentId": "5d24e3f3ecc46d0547f7d80b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  }
+]
