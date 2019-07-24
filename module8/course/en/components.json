@@ -1,0 +1,1432 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c77d",
+    "_layout": "right",
+    "_parentId": "5d3859fc1059480540b9c75a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying your research",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d385fac1059480540b9c83f",
+    "_parentId": "5d385fa31059480540b9c83d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Hypothesis testing",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c780",
+    "_parentId": "5d3859fd1059480540b9c75c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Whose responsibility is it to review and validate results?",
+    "displayTitle": "",
+    "body": "<p>You may be familiar with the three signatures policy at ARUP; on technical drawings these are for the creator, reviewer and approver. A technical drawing must have all three signatures before it is put forward.&nbsp;</p><p>The same is true for the result of data analysis.&nbsp;</p>",
+    "instruction": "Explore the responsibilities below:",
+    "_id": "5d385e201059480540b9c830",
+    "_parentId": "5d385e1c1059480540b9c82f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Responsibilities of the creator",
+        "body": "<p>It is first and foremost the responsibility of the creator to validate their own work to the point where it can be signed off ready for both review and approval.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Responsibilities of the reviewer",
+        "body": "<p>The reviewer is responsible for verifying the application; the methodology and analysis are sound and correct. For example, the reviewer might check the data integrity, evaluate the use of machine learning or other statistical analysis or examine potential legal and ethical issues. The reviewer is not responsible for checking if the solution is appropriate to solve the problem. Ideally a reviewer should be an expert not already involved or connected to the project.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Responsibilities of the approver",
+        "body": "<p>The approver is responsible for signing of the work as appropriate to the goals and objectives of the project. The approver may not be a subject matter expert however they should be fully aware of the goals and objectives of the project as well as the clients expectations.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The differences between data analysis and technical drawings",
+    "displayTitle": "",
+    "body": "<p>Which of the following challenges might be faced when using data as part of a project?</p>",
+    "instruction": "Select three answers, then click 'submit'",
+    "_id": "5d385eee1059480540b9c835",
+    "_parentId": "5d385e981059480540b9c834",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "The data presents a biased view",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data does not give the expected result",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data is inappropriate to use for solving the problem",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "There is too much data available",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "There is no data available",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Data analysis is more akin to research than well defined product development. As a result all the same challenges common to scientific research are faced. Research could be biased, offer an unexpected result or offer no relevant insights whatsoever. All of these outcomes can end up fundamentally changing the direction of a project. Conversely, the result of data analysis might offer key insights that lead to a much better solution for the client.&nbsp;<br />&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data analysis is more akin to research than well defined product development. As a result all the same challenges common to scientific research are faced. Research could be biased, offer an unexpected result or offer no relevant insights whatsoever. All of these outcomes can end up fundamentally changing the direction of a project. Conversely, the result of data analysis might offer key insights that lead to a much better solution for the client.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying the outcome",
+    "displayTitle": "Verifying the outcome",
+    "body": "<p>Having verified the model, the machine learning algorithm has been applied to every image of the tunnel wall. On average the model has found 1 significant crack per 2m2 of tunnel wall. How might you verify this null hypothesis?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3859fd1059480540b9c782",
+    "_parentId": "5d3859fd1059480540b9c75f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Manually check 10% of the images in the dataset that cover two square meters",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Manually check 10% of the tunnel wall in two square meter segments",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Check against your descriptive data analysis done as part of exploratory data analysis",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>There are wide multitude of places in the process where things can go wrong, all the way from the data collection, to the model construction. Verifying the finding against all previous stages in the process will help prove the hypothesis and that validity of the model. This might even involve going back to the tunnel itself to do a manual inspection of a sample of area.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are wide multitude of places in the process where things can go wrong, all the way from the data collection, to the model construction. Verifying the finding against all previous stages in the process will help prove the hypothesis and that validity of the model. This might even involve going back to the tunnel itself to do a manual inspection of a sample of area.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c77f",
+    "_parentId": "5d3859fd1059480540b9c75b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3862d31059480540b9c84a",
+    "_parentId": "5d3862d31059480540b9c849",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when it doesn’t work in the real world?",
+    "displayTitle": "",
+    "body": "<p>The null hypothesis (1 significant crack per 2m<sup>2</sup> of tunnel wall) holds against the descriptive data analysis but doesn&rsquo;t verify against a multitude of observations in the real world. What is the most likely cause?</p><p>[Hint: Take a look at the Exploratory data analysis module]</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3859fd1059480540b9c783",
+    "_parentId": "5d3859fd1059480540b9c764",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A bias in original data collection or new observations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The data was not cleaned appropriately",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Not enough data was collected",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The data has been corrupted on storage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Only flipping the coin 5 times means that each flip is only 20% of the sample. Given the result we would say that 80% of the time we got heads and only 20% tails. Typically this would not be significant enough to conclude that the coin is biased. Thus&nbsp;we either accept the null hypothesis or state it is not clear due to the sample size.&nbsp;</p><p>Important note: This simplified example is for illustrative purposes only. To calculate the actual probability of the coin being biased we need to use a mathematical formula to calculate something called a p-value (for those interested the p-value in this example would be 0.1875, which is close to 0.2).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Only flipping the coin 5 times means that each flip is only 20% of the sample. Given the result we would say that 80% of the time we got heads and only 20% tails. Typically this would not be significant enough to conclude that the coin is biased. Thus&nbsp;we either accept the null hypothesis or state it is not clear due to the sample size.&nbsp;</p><p>Important note: This simplified example is for illustrative purposes only. To calculate the actual probability of the coin being biased we need to use a mathematical formula to calculate something called a p-value (for those interested the p-value in this example would be 0.1875, which is close to 0.2).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying the system that prepares data",
+    "displayTitle": "",
+    "body": "<p>An automated system has been created in order to avoid errors through manual data cleaning and transformation, how might you verify this system is still working as originally designed?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3859fd1059480540b9c78e",
+    "_parentId": "5d3859fd1059480540b9c778",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Manually check new data output from the system",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Check system integrity regularly with known input and output conditions",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Perform a code verification against a checksum",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>A commonly used way to check the integrity of a system is to check known inputs against expected outputs. This process, known as unit testing, should ideally be applied to the smallest testable part of any system; requiring minimal input and output. It is also a good idea to test what happens with bad inputs and check these are handled as appropriately as good known inputs. For example, what happens when data doesn&rsquo;t match that required in the schema?&nbsp;</p><p>Unit tests should ideally be written at time of construction of the automated system and can be run at regular intervals. There are many online services that can provide automated unit testing services and are often used in software and service development.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A commonly used way to check the integrity of a system is to check known inputs against expected outputs. This process, known as unit testing, should ideally be applied to the smallest testable part of any system; requiring minimal input and output. It is also a good idea to test what happens with bad inputs and check these are handled as appropriately as good known inputs. For example, what happens when data doesn&rsquo;t match that required in the schema?&nbsp;</p><p>Unit tests should ideally be written at time of construction of the automated system and can be run at regular intervals. There are many online services that can provide automated unit testing services and are often used in software and service development.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Iterate to improve",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c79d",
+    "_parentId": "5d3859fd1059480540b9c76c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Completing the verification",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c79e",
+    "_parentId": "5d3859fd1059480540b9c76d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The differences between data analysis and technical drawings",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d385ef31059480540b9c836",
+    "_parentId": "5d385e981059480540b9c834",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verification methods",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3868511059480540b9c85e",
+    "_parentId": "5d3859fd1059480540b9c75d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c795",
+    "_parentId": "5d3859fd1059480540b9c764",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c796",
+    "_parentId": "5d3859fd1059480540b9c75e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Whose responsibility is it to review and validate results?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d385e231059480540b9c831",
+    "_parentId": "5d385e1c1059480540b9c82f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c794",
+    "_parentId": "5d3859fd1059480540b9c75f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Prioritising analysis through open research",
+    "displayTitle": "",
+    "body": "<p>Key to good research is to take an open approach. That is, to make methods, results and conclusions as open as possible, as early as possible.&nbsp;</p><p>Embracing external cooperation, be it with the client or other experts, is key to the success of a project.&nbsp;</p><p>Engaging with key stakeholders can help:</p><ul><li>Prioritise direction</li><li>Avoid pitfalls</li><li>Speed up the process</li><li>Validate analysis sooner</li><li>Ensure appropriateness of the result to the projects goals and objectives.</li></ul><p>Traditionally, Arup would complete its research and development (R&amp;D) in house, working directly with clients. We are now shifting to a more open, collaborative approach, working openly with a wider community to move our research further, faster.</p>",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c79f",
+    "_parentId": "5d3859fd1059480540b9c76e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Completing the verification",
+    "displayTitle": "Completing the verification",
+    "body": "<p>We have only scratched the surface of techniques that can be applied to validate results.&nbsp;</p><p>Other things to consider include:</p>",
+    "instruction": "",
+    "_id": "5d3863c81059480540b9c84f",
+    "_parentId": "5d3859fd1059480540b9c76d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Verification of third party systems",
+        "body": "<p>If you are using any &quot;off the shelf&quot; solutions it may also be necessary to verify these. Is the validation tool complete? Are there limitations of the storage system? Is the machine learning system pre-trained?&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Code review",
+        "body": "<p>If you are creating code to automate your processing, has this been review? Many code management systems, such as GitHub, provide functionality to enable detailed code review.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Small scale application",
+        "body": "<p>There is no replacement for experience. Deploying a small scale application to validate your results is a good way to check results with minimal risk.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c798",
+    "_parentId": "5d3859fd1059480540b9c778",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verification methods",
+    "displayTitle": "",
+    "body": "<p>It is primarily the creators responsibility to verify their research. This section introduces some verification techniques applicable to working with data.&nbsp;</p><p>You should verify all stages of the data lifecycle, from data collection, cleaning and storage through to transformation, analysis and communication. While verification can, and should, be carried out in order at each point, it is often not until the later stages of analysis that it becomes clear what additional verification might be required.&nbsp;</p><p>In this section we are going to use an example to work backwards from the final model through to the data collection to highlight the scientific approaches to verification when using data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c781",
+    "_parentId": "5d3859fd1059480540b9c75d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Validation and prioritisation of analysis",
+    "displayTitle": "Validation and prioritisation of analysis",
+    "body": "<p>We have reached a critical point. Data has been collected and analysed; turned into information that may or may not be used to inform the solution to our original problem. Before proceeding we must be certain that the analysis is robust and appropriate to be used as part of the solution.</p><p>The validation and prioritisation of analysis stage is key to sign-off our work.</p>",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c77c",
+    "_layout": "left",
+    "_parentId": "5d3859fc1059480540b9c75a",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data analysis requires a flexible approach. Data analysis typically forms part of &ldquo;discover and define requirements stage&rdquo;. For this reason it is more like research and findings may result in significant changes of direction for project.&nbsp;</p><p>It is critical to validate, review and approve data analysis before it is taken forward. At ARUP we already operate a three signatures policy for technical diagrams. The same can apply to all stages of data analysis. &nbsp;</p><p>There are many techniques that can be used to validate analysis. In this module we have touched upon a few relevant to this programme. Others will come from experts who have the insight and experience in specific domains. Remember, it is our skills and capability, coupled with our expertise, data, and the insight it generates that enables us to provide intelligent solutions.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3859fd1059480540b9c77e",
+    "_parentId": "5d3859fd1059480540b9c75b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Prioritising analysis through open research",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3864721059480540b9c850",
+    "_parentId": "5d3859fd1059480540b9c76e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Iterate to improve",
+    "displayTitle": "Iterate to improve",
+    "body": "<p>Research is a very iterative process and a flexible approach is needed. It may also be necessary to change direction. Throughout the lifecycle consider a series of breakpoints:</p>",
+    "instruction": "",
+    "_id": "5d38636d1059480540b9c84e",
+    "_parentId": "5d3859fd1059480540b9c76c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Breakpoint 1: During collection",
+        "body": "<p>You might have set the requirements, but is the appropriate data available? Can the data be used or transformed? Can the data be stored in the intended place? Are there any arising legal, ethical or technical issues?&nbsp;</p><p>If you find problems at this stage, ask if data is appropriate for this project?<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Breakpoint 2: During exploratory data analysis",
+        "body": "<p>Is the descriptive data analysis revealing expected or accepted results? Are biases present in the data? Are the results appropriate to the goals and objectives of the project?&nbsp;</p><p>If you find problems at this stage, can different data be collected?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Breakpoint 3: During modelling",
+        "body": "<p>Is the model verifiable; do the results based upon a sample map to the population? Will the model emphasise existing bias? Are any legal, ethical or technical issues arising?&nbsp;</p><p>If problems arise at this stage, it may be necessary to go back to address the data requirements and build up again.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying your research",
+    "displayTitle": "",
+    "body": "<p>What other scientific approaches should be adopted in order to verify findings?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d385fa91059480540b9c83e",
+    "_parentId": "5d385fa31059480540b9c83d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Seek a peer review from outside of the team",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Share results with key stakeholders for scrutiny",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Evaluate your findings against existing literature ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Peer review, sharing of results and evaluation against existing literature are all essential parts of a good scientific research process. All of these aspects should also be considered as early as possible in the life cycle, particularly a literature review. You might find similar things have been done before that can be learnt from, or that you are pushing forward the cutting edge and perhaps should look to publish your novel findings in the interest of transparency and scrutiny for the appropriate community of experts.&nbsp;</p><p>It doesn&rsquo;t really matter if you are pushing forward project management and corporate processes or delivering projects for clients; It is our skills and capability, coupled with our expertise, data, and the insight it generates that enables us to provide intelligent solutions.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Peer review, sharing of results and evaluation against existing literature are all essential parts of a good scientific research process. All of these aspects should also be considered as early as possible in the life cycle, particularly a literature review. You might find similar things have been done before that can be learnt from, or that you are pushing forward the cutting edge and perhaps should look to publish your novel findings in the interest of transparency and scrutiny for the appropriate community of experts.&nbsp;</p><p>It doesn&rsquo;t really matter if you are pushing forward project management and corporate processes or delivering projects for clients; It is our skills and capability, coupled with our expertise, data, and the insight it generates that enables us to provide intelligent solutions.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying the model",
+    "displayTitle": "Verifying the model",
+    "body": "<p>As part of a project you have been working on, you have trained a machine learning system to identify cracks in the wall of a tunnel. Over a million images were captured and a sample of 200 selected, labelled and used to train the system. 80% precision and 80% recall were used to set the acceptable threshold for classification based upon the training set. After training what should be done next?</p><p>[Hint: Take a look at the Inferential statistics &amp; machine learning module]</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3860801059480540b9c846",
+    "_parentId": "5d3859fd1059480540b9c75c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Apply the algorithm on the whole dataset",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Select and label another sample from the population to cross validate the training",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Manually verify the classification back in the tunnel",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>The compute capability on offer today allows us to process immense amounts of data quickly. This leads to the temptation to use all the data available in order to build an inferential model or machine learning system. This leaves you no data left on which the model can be cross validated.&nbsp;</p><p>In this case over a million images were captured, with 200 selected to build the model; this 200 are the training set. Further samples should be taken and labelled in order to form test sets to evaluate if similar performance is achieved to the training set. This would cross-validate the model.&nbsp;</p><p>Conversely if only 200 images were collected and all 200 used to train the system then in order to cross validate the model either more data would need to be collected or a smaller sample from the 200 used as the training set, leaving some to be used to cross validate the model.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The compute capability on offer today allows us to process immense amounts of data quickly. This leads to the temptation to use all the data available in order to build an inferential model or machine learning system. This leaves you no data left on which the model can be cross validated.&nbsp;</p><p>In this case over a million images were captured, with 200 selected to build the model; this 200 are the training set. Further samples should be taken and labelled in order to form test sets to evaluate if similar performance is achieved to the training set. This would cross-validate the model.&nbsp;</p><p>Conversely if only 200 images were collected and all 200 used to train the system then in order to cross validate the model either more data would need to be collected or a smaller sample from the 200 used as the training set, leaving some to be used to cross validate the model.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Collecting new data",
+    "displayTitle": "Collecting new data",
+    "body": "<p>In order to verify your outcome it is decided that more data needs to be collected. This data is collected in a fair, unbiased way. However, during the evaluation a completely strange set of outcomes are discovered. Even the same exploratory data analysis does not match up with the findings from the original dataset, what might have gone wrong?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3862141059480540b9c847",
+    "_parentId": "5d3859fd1059480540b9c75e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "The data hasn’t been prepared for analysis in the same way",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The model is overfitting",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "An error in calculation has happened",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">The most likely cause is that the data hasn&rsquo;t been prepared for analysis in the same way. Can you remember what requirements were set for data collection? Have these been applied appropriately? Has the data been cleaned, transformed and stored in the same way? If the process was manual was accurate documentation (or log) kept about the changes made to the original dataset that will need to be reproducible on the new dataset. If any of these stages goes wrong then we could be comparing Apples and Oranges!</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The most likely cause is that the data hasn&rsquo;t been prepared for analysis in the same way. Can you remember what requirements were set for data collection? Have these been applied appropriately? Has the data been cleaned, transformed and stored in the same way? If the process was manual was accurate documentation (or log) kept about the changes made to the original dataset that will need to be reproducible on the new dataset. If any of these stages goes wrong then we could be comparing Apples and Oranges!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Verifying newly collected data",
+    "displayTitle": "Verifying newly collected data",
+    "body": "<p>A long gap between original and new data collection can lead to problems. The most common reason for this is a lack of clarity of the data requirements. A detailed set of requirements ensure that all data collected is fit for purpose. Which of the following can be used to help verify data conforms to the data requirements?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3862d31059480540b9c84d",
+    "_parentId": "5d3862d31059480540b9c849",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A detailed schema",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "An agreed method of collection for data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "An agreed sharing policy for data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Quality of data is everything. A detailed schema can verify new data conforms to the data requirements. Everything from checking column titles, to the categories used and ranges of numbers. A schema is essential to help ensure the quality of data. Even incremental increases in data quality can lead to breakthroughs. For example, in one country the police standardised the way different types of knife crime are described. They created a limited vocabulary of acceptable terms and applied this to their data. As a result old case files could be reopened and investigated. This led to the successful prosecution of a number of people for crimes committed.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Quality of data is everything. A detailed schema can verify new data conforms to the data requirements. Everything from checking column titles, to the categories used and ranges of numbers. A schema is essential to help ensure the quality of data. Even incremental increases in data quality can lead to breakthroughs. For example, in one country the police standardised the way different types of knife crime are described. They created a limited vocabulary of acceptable terms and applied this to their data. As a result old case files could be reopened and investigated. This led to the successful prosecution of a number of people for crimes committed.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

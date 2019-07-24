@@ -1,0 +1,347 @@
+[
+  {
+    "title": "Verification methods",
+    "displayTitle": "Verification methods",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c75d",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Iterate to improve",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c76c",
+    "_parentId": "5d3859fc1059480540b9c757",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Whose responsibility is it to review and validate results?",
+    "displayTitle": "Whose responsibility is it to review and validate results?",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d385e1c1059480540b9c82f",
+    "_parentId": "5d3859fc1059480540b9c755",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Validation and prioritisation of analysis",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fc1059480540b9c75a",
+    "_parentId": "5d3859fc1059480540b9c759",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted footer",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c75b",
+    "_parentId": "5d3859fc1059480540b9c756",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Verifying the model",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c75c",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Completing the verification",
+    "displayTitle": "Completing the verification",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c76d",
+    "_parentId": "5d3859fc1059480540b9c757",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "The differences between data analysis and technical drawings",
+    "displayTitle": "The differences between data analysis and technical drawings",
+    "body": "<p>While the three signatures approach is highly encouraged in the data lifecycle, there are significant differences between the purposes of the data analysis compared to the creation of a technical drawing.&nbsp;</p><p>The most significant difference is the stage in project each is typically related to. A technical drawing is an output of a project; signed off and delivered to the client during the &ldquo;design and build&rdquo; stage. Data analysis is typically something that takes place a stage earlier during the &ldquo;discover and define requirements stage&rdquo;.&nbsp;</p><p>Additionally, data typically comes from a number of sources owned and managed by a variety of people and organisations. This makes the verification process a challenge for all involved.&nbsp;</p>",
+    "_classes": "color-two",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d385e981059480540b9c834",
+    "_parentId": "5d3859fc1059480540b9c755",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Verifying the outcome",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c75f",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Verifying your research",
+    "displayTitle": "Verifying your research",
+    "body": "<p>Data analysis and scientific research are closely connected. The results of the research may be irrelevant, or they may inform a complete change of direction for the project.</p>",
+    "_classes": "inverted color-two",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d385fa31059480540b9c83d",
+    "_parentId": "5d3859fc1059480540b9c755",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Prioritising analysis through open research",
+    "displayTitle": "Prioritising analysis through open research",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c76e",
+    "_parentId": "5d3859fc1059480540b9c757",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "What happens when it doesn’t work in the real world?",
+    "displayTitle": "What happens when it doesn’t work in the real world?",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c764",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Collecting new data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c75e",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Verifying the system that prepares data",
+    "displayTitle": "Verifying the system that prepares data",
+    "body": "",
+    "_classes": "inverted color-eight",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3859fd1059480540b9c778",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Verifying newly collected data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-eight",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3862d31059480540b9c849",
+    "_parentId": "5d3859fc1059480540b9c754",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]
