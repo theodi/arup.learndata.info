@@ -1,0 +1,1726 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Automated data acquisition",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ecd2810cfd605688dfb59",
+    "_parentId": "5d3eccf810cfd605688dfb57",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Manual data acquisition",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eccc810cfd605688dfb49",
+    "_parentId": "5d3eccb010cfd605688dfb47",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sourcing data from clients",
+    "displayTitle": "Sourcing data from clients",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ec43110cfd605688dfb06",
+    "_parentId": "5d3ec41810cfd605688dfb04",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data requirements",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ebdb110cfd605688dfaf0",
+    "_parentId": "5d3ebd9a10cfd605688dfaee",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Clipbaord",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eda0a10cfd605688dfbdf",
+    "_parentId": "5d3ed9e510cfd605688dfbdd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "ARUP logo",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ebccd10cfd605688dfac5",
+    "_layout": "right",
+    "_parentId": "5d3ebccc10cfd605688dfab8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data acquisition techniques",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ecd7f10cfd605688dfb69",
+    "_parentId": "5d3ecd3610cfd605688dfb67",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Know your data sources",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ec40210cfd605688dfafe",
+    "_parentId": "5d3ec1d510cfd605688dfafc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using data from multiple sources",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ec62010cfd605688dfb12",
+    "_parentId": "5d3ec60010cfd605688dfb10",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Acquiring client data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ed22c10cfd605688dfb9a",
+    "_parentId": "5d3ed1bf10cfd605688dfb98",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using existing data",
+    "displayTitle": "Using existing data",
+    "body": "<p>With the amount of data collected today, it is highly likely that data might already exist. When using existing data you should check:</p>",
+    "instruction": "",
+    "_id": "5d3ec96110cfd605688dfb1b",
+    "_parentId": "5d3ec94e10cfd605688dfb1a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "1. The relevance of the data",
+        "body": "<p>Check how the data was collected and for what purpose. Is it out of date? Does it match the project requirements?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Our rights to use the data",
+        "body": "<p dir=\"ltr\">Rights might have expired and might need to be re-obtained if possible.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Is the data still supported",
+        "body": "<p>Does the data still have an owner? Who can provide insight into the data and its applicability to the project.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data acquisition",
+    "displayTitle": "Data acquisition",
+    "body": "<p dir=\"ltr\">Data acquisition is the process of getting data from a source into a location or system where it can be stored, analysed, or otherwise reused.</p><p dir=\"ltr\">There are many methods for acquiring data. It is important to ensure that the method selected is the most appropriate to meet the project objectives.</p><p dir=\"ltr\">There are two main techniques of data acquisition covered in this section; manual and automatic.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3ecc7f10cfd605688dfb38",
+    "_parentId": "5d3ecbd110cfd605688dfb37",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data can come from a variety of sources. Some we may already have, some might come from the client or third parties and sometimes we might need to collect new data.</p><p dir=\"ltr\">Any data sources must:</p><ol dir=\"ltr\"><li>Meet the project requirements</li><li>Come with the appropriate rights for use and sharing</li><li>Be sourced in a legal manner</li><li>Be collected, used and shared ethically</li></ol><p>&nbsp;</p><p>Data can be acquired in many ways. The method of data acquisition will depend largely on the same factors but may also be affected by factors such as effort, reliability and frequency of acquisition. At ARUP we are flexible to the approach source and acquire data. There is a deluge of data available.&nbsp;We&nbsp;encourage everyone to think carefully about our need for the data as well as our obligations and rights.</p>",
+    "instruction": "",
+    "_id": "5d3eda0410cfd605688dfbde",
+    "_parentId": "5d3ed9e510cfd605688dfbdd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data feeds and APIs",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ecfe810cfd605688dfb79",
+    "_parentId": "5d3ecf7810cfd605688dfb77",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using existing data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ec96410cfd605688dfb1c",
+    "_parentId": "5d3ec94e10cfd605688dfb1a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data acquisition",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ecc8210cfd605688dfb39",
+    "_parentId": "5d3ecbd110cfd605688dfb37",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "True or false?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ec9f710cfd605688dfb26",
+    "_parentId": "5d3ec9c110cfd605688dfb24",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "dragndrop",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Know your data sources",
+    "displayTitle": "Know your data sources",
+    "body": "<p>Can you sort the following data sources into the different categories.</p>",
+    "instruction": "Drag and drop your answers, then click 'submit'",
+    "_id": "5d3ec22110cfd605688dfafd",
+    "_parentId": "5d3ec1d510cfd605688dfafc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Project data",
+        "accepted": [
+          "Building models",
+          "Interview notes"
+        ]
+      },
+      {
+        "text": "External data",
+        "accepted": [
+          "Transport timetables"
+        ]
+      },
+      {
+        "text": "Corporate data",
+        "accepted": [
+          "Human resourcing database"
+        ]
+      }
+    ],
+    "dummyAnswers": [],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Project data is what we create in the course of delivering a project, examples include building modes, reports and emails, photos and even results of surveys and interviews we perform.</p><p>Corporate data covers data required to run the business and our projects. This includes, but is not limited to: timesheets, finances, customer relationship and human resources systems.</p><p>External data is that we acquired from a third party who collects and manages that data. Some external data may overlap with project data. Examples include transport timetables, weather data and readings from existing sensors or systems.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Project data is what we create in the course of delivering a project, examples include building modes, reports and emails, photos and even results of surveys and interviews we perform.</p><p>Corporate data covers data required to run the business and our projects. This includes, but is not limited to: timesheets, finances, customer relationship and human resources systems.</p><p>External data is that we acquired from a third party who collects and manages that data. Some external data may overlap with project data. Examples include transport timetables, weather data and readings from existing sensors or systems.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Sourcing data from clients",
+    "displayTitle": "",
+    "body": "<ol><li dir=\"ltr\"><p dir=\"ltr\">Be clear at the bid and contract stage about what data is required to meet the project requirements.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Establish the terms of use of the data, i.e. what can or can not be done with the data during and after the project.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Set the data requirements. These should include a specification of the required data, attributes and characteristics.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Set clear expectations on what can (and cannot) be achieved with the data.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Establish domain expertise, or ask the client to support the project team to understand the data.</p></li></ol>",
+    "instruction": "",
+    "_id": "5d3ec42e10cfd605688dfb05",
+    "_parentId": "5d3ec41810cfd605688dfb04",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Choosing the right acquisition technique",
+    "displayTitle": "",
+    "body": "<p>Select the dataset that is best matched to the stated acquisition technique:</p>",
+    "instruction": "",
+    "_id": "5d3ed73f10cfd605688dfbc7",
+    "_parentId": "5d3ed58c10cfd605688dfbb0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "In a spreadsheet, acquired manually",
+        "_options": [
+          {
+            "text": "A small list of transactions from a finance system",
+            "_isCorrect": true
+          },
+          {
+            "text": "A live feed of transport data",
+            "_isCorrect": false
+          },
+          {
+            "text": "A large set of historical observations",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "In a database, acquired manually",
+        "_options": [
+          {
+            "text": "A small list of transactions from a finance system",
+            "_isCorrect": false
+          },
+          {
+            "text": "A live feed of transport data",
+            "_isCorrect": false
+          },
+          {
+            "text": "A large set of historical observations",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Via a programme interface, acquired automatically",
+        "_options": [
+          {
+            "text": "A small list of transactions from a finance system",
+            "_isCorrect": false
+          },
+          {
+            "text": "A live feed of transport data",
+            "_isCorrect": true
+          },
+          {
+            "text": "A large set of historical observations",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p>The most appropriate method of data acquisition depends on a range of factors including size, frequency and sensitivity. In this case, a spreadsheet will capably handle a set of financial transactions. A database dump may be required for a much larger dataset while a live feed is most suited to APIs that provide remote access.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure&nbsp;about that?</strong></p><p>The most appropriate method of data acquisition depends on a range of factors including size, frequency and sensitivity. In this case, a spreadsheet will capably handle a set of financial transactions. A database dump may be required for a much larger dataset while a live feed is most suited to APIs that provide remote access.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Choosing the right acquisition technique",
+    "displayTitle": "",
+    "body": "<p>The choice of which technique to use will depend on many factors:</p>",
+    "instruction": "",
+    "_id": "5d3ed3e210cfd605688dfbae",
+    "_parentId": "5d3ed3bb10cfd605688dfbab",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Appropriateness to the project",
+        "body": "<p dir=\"ltr\">Will a one off manual collection of data be appropriate to fulfil the goals and objectives of the project?</p><p dir=\"ltr\">Will automated collection result in a deluge of data and can this be managed later in the process?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Coverage",
+        "body": "<p>Will the chosen acquisition method be reliable and give enough coverage?</p><p>Will the chosen acquisition method lead to the collection of biased data?</p><p>Is it possible to verify the coverage of the total population from the chosen acquisition method?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Frequency of acquisition",
+        "body": "<p>Will data need to be collected on a regular basis? If so, is the acquisition method repeatable to ensure consistency of data?</p><p>Will the data change regardless of the acquisition method?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Effort and cost",
+        "body": "<p>Is the chosen method of acquisition the most efficient and cost worthy?</p><p>Should more effort be spent on acquisition to save time cleaning and transforming the data later?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reliability",
+        "body": "<p>Will the chosen method provide reliable data?</p><p>Who will be responsible for the process of acquisition and do they understand the need?</p><p>Does the data come from a trusted source?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Security and compliance",
+        "body": "<p>Are there any security and compliance requirements that may affect the chosen method of acquisition?</p><p>Does the data contain any unnecessary attributes or even personal data?</p><p>Does the chosen method of acquisition minimise risk?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using data from multiple sources",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">You should:</p><ol><li dir=\"ltr\"><p dir=\"ltr\">Check the applicability of the data to the project</p></li><li dir=\"ltr\"><p dir=\"ltr\">Check compatibility of the licenses for using the data</p></li><li dir=\"ltr\"><p dir=\"ltr\">Establish who is responsible for the data</p></li><li dir=\"ltr\"><p dir=\"ltr\">Establish a process around updates to the data - what happens and who is responsible.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Check the compatibility of the data with the project requirements. Even if the schema is the same it is likely that the data will be different (ie. different identifiers used).</p></li></ol><p dir=\"ltr\">We will explore the process of cleaning and transforming data later. At this stage it is important to establish the appropriateness, responsibilities and usability of each dataset.</p>",
+    "instruction": "",
+    "_id": "5d3ec61d10cfd605688dfb11",
+    "_parentId": "5d3ec60010cfd605688dfb10",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "notify-imagegrid",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data sources at ARUP",
+    "displayTitle": "Data sources at ARUP",
+    "body": "<p dir=\"ltr\">Data source is the term for a system, service, or supplier that creates, captures, or provides data.</p><p dir=\"ltr\">At Arup we make a distinction between three main data sources:</p>",
+    "instruction": "",
+    "_id": "5d3ec11810cfd605688dfaf8",
+    "_parentId": "5d3ebdf510cfd605688dfaf4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_columns": 3,
+    "_reverseDirection": false,
+    "_gridrowHeight": {
+      "_constrainHeight": false,
+      "_heightAmount": 200
+    },
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "title": "External data",
+          "gridmessage": "<p>Data acquired or provided to us for use in one or more projects. Might be supplied by a client, purchased by ARUP or sourced openly.&nbsp;</p>"
+        }
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "title": "Corporate data",
+          "gridmessage": "<p>Data we create or collect in order to run the business.</p><p><br />&nbsp;</p>"
+        }
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+          "alt": "",
+          "title": "Project data",
+          "gridmessage": "<p>Data we create in the course of delivery a project.</p><p><br />&nbsp;</p>"
+        }
+      }
+    ],
+    "bottomText": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data sources & acquisition",
+    "displayTitle": "Data sources & acquisition",
+    "body": "<p dir=\"ltr\">Data can come from a variety of sources. Some we may already have, some might come from the client or third parties and sometimes we might need to collect new data.</p><p dir=\"ltr\">There are many methods of data acquisition. Data might be given to us, or exist, in files. Some might be accessible through online services. Other data might be written down in or collected from surveys.&nbsp;</p><p dir=\"ltr\">Using multiple sources of data improves the quality and robustness of our solution. We rarely use only one source to base our decisions since doing so can lead to misleading interpretations.&nbsp;</p><p dir=\"ltr\">This module looks at the common sources of data we use at ARUP, methods of acquisition and how to evaluate appropriateness.</p>",
+    "instruction": "",
+    "_id": "5d3ebccd10cfd605688dfac4",
+    "_layout": "left",
+    "_parentId": "5d3ebccc10cfd605688dfab8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "When data is too large",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ed30910cfd605688dfbaa",
+    "_parentId": "5d3ed2ea10cfd605688dfba8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Choosing the right acquisition technique",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ed5a410cfd605688dfbb2",
+    "_parentId": "5d3ed58c10cfd605688dfbb0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Passive data acquisition",
+    "displayTitle": "Passive data acquisition",
+    "body": "<p dir=\"ltr\">Also known as exhaust data, many digital systems create log files that can be a great source of data.</p><p>Everything from heating systems, to busses and bridges. These are&nbsp; littered with sensors and digital systems that continuously collect data.</p><p dir=\"ltr\">Think carefully if any of these could be appropriate, and existing, sources of data for use in your project.</p>",
+    "instruction": "",
+    "_id": "5d3ed19010cfd605688dfb88",
+    "_parentId": "5d3ed17a10cfd605688dfb87",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Dealing with a data deluge",
+    "displayTitle": "Dealing with a data deluge",
+    "body": "<p dir=\"ltr\">The ability to generate vast quantities of data is overwhelming the capacity of institutions to manage it and researchers to make use of it.</p><p dir=\"ltr\">We have to be smart. Being smart is to think about the problem first. First scope the need for data, then ask: if we could acquire the data, what sort of data do we need.</p><p dir=\"ltr\">Put simply, collect and use the right data. Store that data in the appropriate place and use it in an intelligent way that solves the problem.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3ebd6710cfd605688dfaea",
+    "_parentId": "5d3ebd5010cfd605688dfae9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Manual data acquisition",
+    "displayTitle": "Manual data acquisition",
+    "body": "<p dir=\"ltr\">Manual data acquisition is a process controlled and executed by you. It is best suited for smaller scale one-off data acquisition processes. Examples include downloading files from a website or extracting data from ARUP systems.</p><p dir=\"ltr\">In other cases, manual data acquisition may take the form of a survey or interviews.</p><p dir=\"ltr\">Manual data collection is more suited to more exploratory, unstructured and qualitative data.</p><p dir=\"ltr\">Manual data collection is also more suitable when data is dynamic and subject to regular change.</p>",
+    "instruction": "",
+    "_id": "5d3eccc110cfd605688dfb48",
+    "_parentId": "5d3eccb010cfd605688dfb47",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Automated data acquisition",
+    "displayTitle": "Automated data acquisition",
+    "body": "<p dir=\"ltr\">Automated data acquisition cuts out the human. A system or processor sources data autonomously and feeds it to the system where it will be stored or used.</p><p dir=\"ltr\">Automated data acquisition is more suited for large scale, longer term data collection. Once set up, automated data collection tends to be more consistent.</p><p dir=\"ltr\">Automated data collection systems can also perform other operations, such as data verification. This can reduce the amount of time cleaning and transforming data at a later stage.</p>",
+    "instruction": "",
+    "_id": "5d3ecd1010cfd605688dfb58",
+    "_parentId": "5d3eccf810cfd605688dfb57",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Choosing the right acquisition technique",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ed3e610cfd605688dfbaf",
+    "_parentId": "5d3ed3bb10cfd605688dfbab",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data requirements",
+    "displayTitle": "Data requirements",
+    "body": "<p dir=\"ltr\">There are many different data sources. Any data sources must:</p><ol dir=\"ltr\"><li>Meet the project requirements</li><li>Come with the appropriate rights for use and sharing</li><li>Be sourced in a legal manner</li><li>Collected, used and shared ethically</li></ol><p dir=\"ltr\">In the previous module, we addressed the project requirements. This module introduced the spectrum of open, shared and closed data. It also looked at the technical requirements including the importance of schemas. In this module we&#39;ll take a deeper look at how these principles apply to different data sources and acquisition methods.</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3ebdad10cfd605688dfaef",
+    "_parentId": "5d3ebd9a10cfd605688dfaee",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Dealing with a data deluge",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ebd6a10cfd605688dfaeb",
+    "_parentId": "5d3ebd5010cfd605688dfae9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Passive data acquisition",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ed19410cfd605688dfb89",
+    "_parentId": "5d3ed17a10cfd605688dfb87",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using data feeds and APIs",
+    "displayTitle": "Using data feeds and APIs",
+    "body": "<p>Data feeds offer a more consistent way to collect, manage and use data.&nbsp;At ARUP we encourage the use of trusted data feeds, some of which we purchase commercial agreements to access.</p><p>These feeds will often be available through an Application Programming Interface (API). An API&nbsp;provides a consistent way for one service to talk to another. They are widely used to provide access to data through data feeds. APIs are essentially a communication protocol through which data can be requested.</p><p>Many pieces of modern data processing software, including PowerBI, Tableau, R Studio and even Excel can interface directly with these APIs to acquire and use live data.</p><p>In many ways, these data feeds are very similar to connecting directly to a central database. The advantage of using data feeds is that in many cases the&nbsp;responsibility for&nbsp;storing, managing and providing access to data lies with a third party. However, it is still your responsibility to check the data is appropriate for use in your project.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3ecfe510cfd605688dfb78",
+    "_parentId": "5d3ecf7810cfd605688dfb77",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Acquiring client data",
+    "displayTitle": "Acquiring client data",
+    "body": "<p>A client has given you data on a memory key, what should you do?</p>",
+    "instruction": "Select your answer, then click 'submit' ",
+    "_id": "5d3ed22210cfd605688dfb99",
+    "_parentId": "5d3ed1bf10cfd605688dfb98",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Take a copy of the source data and store this safely. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Check with the supplier the authenticity of the received data (e.g. via a checksum)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Verify the integrity and security of the data in a safe environment.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Before using data given to us by anyone, we need to ensure it is safe and appropriate to do so. The integrity, authenticity and usability of the data has to be verified and recorded. You should also check that the file is not infected with any computer viruses. A secure copy of the source data should also be stored for future reference.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Before using data given to us by anyone, we need to ensure it is safe and appropriate to do so. The integrity, authenticity and usability of the data has to be verified and recorded. You should also check that the file is not infected with any computer viruses. A secure copy of the source data should also be stored for future reference.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data acquisition techniques",
+    "displayTitle": "",
+    "body": "<p>Sort the following into manual and automatic types of data acquisition:</p>",
+    "instruction": "",
+    "_id": "5d3ecd7c10cfd605688dfb68",
+    "_parentId": "5d3ecd3610cfd605688dfb67",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Extracts from existing systems (ie. sharepoint)",
+        "_options": [
+          {
+            "text": "Manual",
+            "_isCorrect": true
+          },
+          {
+            "text": "Automatic",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Live transport data",
+        "_options": [
+          {
+            "text": "Manual",
+            "_isCorrect": false
+          },
+          {
+            "text": "Automatic",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Downloads from the web",
+        "_options": [
+          {
+            "text": "Manual",
+            "_isCorrect": true
+          },
+          {
+            "text": "Automatic",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Manual data acquisition is a process controlled and executed by you. It is best suited for smaller scale one-off data acquisition processes. Examples include downloading files from a website or extracting data from ARUP systems.</p><p dir=\"ltr\">Automated data acquisition cuts out the human. A system or processor sources data autonomously and feeds it to the system where it will be stored or used. Any form or consistent data that is growing in size is more suited for automated data acquisition. Examples include live transport data, weather data and regularly changing data from sensors and other systems.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Manual data acquisition is a process controlled and executed by you. It is best suited for smaller scale one-off data acquisition processes. Examples include downloading files from a website or extracting data from ARUP systems.</p><p dir=\"ltr\">Automated data acquisition cuts out the human. A system or processor sources data autonomously and feeds it to the system where it will be stored or used. Any form or consistent data that is growing in size is more suited for automated data acquisition. Examples include live transport data, weather data and regularly changing data from sensors and other systems.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "True or false?",
+    "displayTitle": "True or false?",
+    "body": "<p>All data available on our systems is owned by ARUP?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3ec9f410cfd605688dfb25",
+    "_parentId": "5d3ec9c110cfd605688dfb24",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">The individual or organisation that creates or holds data may not be the same as the legal owner of the data.&nbsp;</p><p dir=\"ltr\">The individual or organisation that creates or holds data may not be the same as the legal owner of the data.&nbsp;</p><p dir=\"ltr\">So while we may have data in our systems, we may not own that data or be permitted to use it freely.</p><p dir=\"ltr\">Be careful to check any commercial or legal terms surrounding the data.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The individual or organisation that creates or holds data may not be the same as the legal owner of the data.&nbsp;</p><p dir=\"ltr\">The individual or organisation that creates or holds data may not be the same as the legal owner of the data.&nbsp;</p><p dir=\"ltr\">So while we may have data in our systems, we may not own that data or be permitted to use it freely.</p><p dir=\"ltr\">Be careful to check any commercial or legal terms surrounding the data</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "When data is too large",
+    "displayTitle": "When data is too large",
+    "body": "<p>In some rare cases, data can be too large to download, even when an automated method of acquisition is available.</p><p>What approach might have to be taken in this case?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3ed30610cfd605688dfba9",
+    "_parentId": "5d3ed2ea10cfd605688dfba8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Locate the processor near the dataset",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Get the data put on large hard disks and shipped to us.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Look for another data source",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That&rsquo;s right!</strong></p><p dir=\"ltr\">Sometimes you have to take the application to the data, rather than the data to the application. This is one of the key ideas behind cloud computing services, such as those provided by Amazon. Cloud providers often host large datasets on behalf of organisations. To use the data, compute power is directly connected, in the cloud. Organisations will often have pre-packaged applications that are transported into the cloud and connected to the data. These can also be scaled to whatever size and speed depending on the required output. This way of working offers maximum flexibility throughout the entire data processing workflow.&nbsp;<br /><br />See Amazon Datasets for some examples: <a href=\"https://registry.opendata.aws/\" target=\"_blank\">https://registry.opendata.aws</a></p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Sometimes you have to take the application to the data, rather than the data to the application. This is one of the key ideas behind cloud computing services, such as those provided by Amazon. Cloud providers often host large datasets on behalf of organisations. To use the data, compute power is directly connected, in the cloud. Organisations will often have pre-packaged applications that are transported into the cloud and connected to the data. These can also be scaled to whatever size and speed depending on the required output. This way of working offers maximum flexibility throughout the entire data processing workflow.&nbsp;<br /><br />See Amazon Datasets for some examples: <a href=\"https://registry.opendata.aws/\" target=\"_blank\">https://registry.opendata.aws</a></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using external data sources",
+    "displayTitle": "Using external data sources",
+    "body": "<p>Many appropriate datasets may already be accessible to you or available. These may be from open data sources, available to anyone, or available to use via a commercial agreement.</p>",
+    "instruction": "",
+    "_id": "5d3ec49010cfd605688dfb0d",
+    "_parentId": "5d3ec47110cfd605688dfb0c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Open Data",
+        "body": "<p dir=\"ltr\">Open data is data that can be freely used, re-used and redistributed by anyone.</p><p dir=\"ltr\">Many governments, public sector bodies, and companies release their data openly to support innovation, service improvement, economic development, and transparency.</p><p dir=\"ltr\">Open data is typically free to access, though a nominal charge may be levied to cover the costs of distribution.</p><p>To be classed as open data, dataset must have an open licence applied to it. This defines the legal basis on which the data can be used and redistributed.</p><p dir=\"ltr\">Arup already makes extensive use of open data sources for completion of projects.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Open Data"
+      },
+      {
+        "title": "Commercial data",
+        "body": "<p dir=\"ltr\">We frequently purchase data to deliver projects.&nbsp;</p><p dir=\"ltr\">This can several forms, including:</p><p>1. Purchasing licences for existing data products, such as those from national mapping services.</p><p>2.&nbsp;Commissioning surveys for data collection, such as topographic scans of ground formations.</p><p dir=\"ltr\">It is important to be very clear on the data requirements before signing contracts. Additionally, samples of data should be validated against data requirements prior to acceptance.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Commercial data"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data in use at ARUP",
+    "displayTitle": "Data in use at ARUP",
+    "body": "<p>Explore the three case studies to find out how ARUP has used data to help deliver the right solution to our customers.</p><p>CASE STUDIES MUST FOCUS ON SOURCES, INTERNAL, EXTERNAL, PROJECT etc.</p>",
+    "instruction": "",
+    "_id": "5d3ecaa110cfd605688dfb32",
+    "_parentId": "5d3eca8110cfd605688dfb31",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Case study 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 1"
+      },
+      {
+        "title": "Case study 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 2"
+      },
+      {
+        "title": "Case study 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 3"
+      }
+    ]
+  }
+]
