@@ -1,0 +1,59 @@
+{
+  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
+    "title": "ODI Learning Roundal Green-Blue",
+    "description": "Main ODI logo",
+    "source": "http://theodi.org/",
+    "licence": "All rights reserved",
+    "attribution": "The Open Data Institute",
+    "tags": [
+      {
+        "title": "ODI logo",
+        "_id": "58481cbf4d7b7e82691e4bc0"
+      },
+      {
+        "title": "intro logo",
+        "_id": "58beddf9d084d5167a04ae89"
+      }
+    ]
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "de2cf196732655029f305def48ea7a02b6aaa7f1.png": {
+    "title": "Screenshot-arup-M5.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "cb5c787115508fb48310357a72de275de032e61a.png": {
+    "title": "Screenshot-slide-M5.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "3070849be21b518b62b2f1984ec9f7a3ffb8a3ec.png": {
+    "title": "Screenshot-website-P500.png",
+    "description": "",
+    "source": "",
+    "licence": "",
+    "attribution": "",
+    "tags": []
+  },
+  "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
+    "title": "Square image placeholder",
+    "description": "Square image placeholder",
+    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
+    "licence": "CC0",
+    "attribution": "Adapt eLearning",
+    "tags": []
+  }
+}

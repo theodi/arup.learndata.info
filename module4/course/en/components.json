@@ -1,0 +1,2269 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Appropriate for the project need ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef11210cfd605688dfca6",
+    "_parentId": "5d3ef0f710cfd605688dfca4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Intro logo",
+    "displayTitle": "Intro logo",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eef6810cfd605688dfc4b",
+    "_parentId": "5d3eeee010cfd605688dfc40",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data management principles ",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eef8810cfd605688dfc60",
+    "_parentId": "5d3eeeef10cfd605688dfc42",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data storage methods",
+    "displayTitle": "Data storage methods",
+    "body": "<p>Data storage comes in all shapes and sizes, from memory keys and disks to data lakes. In this section we introduce some of the different types and outline the pros and cons of each.</p>",
+    "instruction": "",
+    "_id": "5d3eef3a10cfd605688dfc4a",
+    "_parentId": "5d3eeeff10cfd605688dfc44",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "averages",
+    "displayTitle": "averages",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc2f",
+    "_parentId": "5d3eeecd10cfd605688dfc0d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cb5c787115508fb48310357a72de275de032e61a.png",
+      "small": "course/en/assets/cb5c787115508fb48310357a72de275de032e61a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>Is this the level of detail that is expected for this slide?</p><p><a href=\"https://www.dfa.cornell.edu/treasurer/cash-management/proccreditcards/compliance/datastorage\" target=\"_blank\">https://www.dfa.cornell.edu/treasurer/cash-management/proccreditcards/compliance/datastorage</a></p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc32",
+    "_parentId": "5d3eeecd10cfd605688dfc0d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p dir=\"ltr\">Advances in technology have improved data storage methods&nbsp;and have made it easier and more affordable for small and medium-sized businesses.&nbsp;While this reduces the complications&nbsp;associated with finding, configuring, securing and integrating new storage options, the technology changes also affect the way data storage management is handled and effectively employed.</p><p dir=\"ltr\">Data may typically have a longer lifespan than the project that creates it. Though the funding period formally defines the lifespan of most projects, the resultant data may be available for many years afterward. If an organisation manages and preserves the data properly, the data is available for use well into the future, increasing the investment made in generating it by increasing visibility and usefulness. The time spent in planning and implementing effective data management pays dividends far in excess of its investment costs.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc2e",
+    "_parentId": "5d3eeecd10cfd605688dfc0c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "ARUPs data governance principles",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef06f10cfd605688dfc8d",
+    "_parentId": "5d3ef05b10cfd605688dfc8c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Legal and contractual obligations",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef02e10cfd605688dfc77",
+    "_parentId": "5d3ef00410cfd605688dfc75",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-eight",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc1b",
+    "_parentId": "5d3eeecd10cfd605688dfc0c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "ARUPs data governance principles",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef09210cfd605688dfca3",
+    "_parentId": "5d3ef05b10cfd605688dfc8c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Data audit",
+        "body": "<p>What data does the company hold or have access to?</p><p>Who is responsible for that data?</p><p>How often is a data audit carried out to ensure obligations are met?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data acquisition",
+        "body": "<p>Where is the data from?</p><p>What licence is the data available under?</p><p>Who supports the data?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data storage, use and access",
+        "body": "<p dir=\"ltr\">Is the storage appropriate for the data?</p><p dir=\"ltr\">If required is the storage secure and/or encrypted? Are back-ups taken?</p><p dir=\"ltr\">Who has access to the data?&nbsp;&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data renewal",
+        "body": "<p>Who is responsible for ensuring data access is maintained?</p><p>How often does this need to be done?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data retention",
+        "body": "<p>For how long can the data be retained?</p><p>Who is responsible for enacting the data retention policy?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Storage and Management",
+    "displayTitle": "Data Storage and Management",
+    "body": "<p dir=\"ltr\">In order to access and use data, companies need that data to be stored. Just like your belongings, data needs to be stored within an infrastructure. The location of the storage can be of the form of computers, servers, cloud storage, hardware and software. However, not all data needs the same requirements, and depending on certain criteria, the data will be stored in one way or another. To use a simple metaphor, you wouldn&rsquo;t store a suitcase in a kitchen cabinet. The same analogy applies to data.</p><p dir=\"ltr\">In this module we will define different data storage options, and we will explore the data criteria that will help you choose which data storage is more appropriate in a given case.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc1a",
+    "_layout": "left",
+    "_parentId": "5d3eeecd10cfd605688dfc0b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc17",
+    "_layout": "right",
+    "_parentId": "5d3eeecd10cfd605688dfc0b",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/de2cf196732655029f305def48ea7a02b6aaa7f1.png",
+      "small": "course/en/assets/de2cf196732655029f305def48ea7a02b6aaa7f1.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Matching data requirements",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef18e10cfd605688dfcc2",
+    "_parentId": "5d3ef17710cfd605688dfcc0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Being flexible",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef1cb10cfd605688dfce1",
+    "_parentId": "5d3ef1b710cfd605688dfcdf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data storage & management",
+    "displayTitle": "Data storage & management",
+    "body": "<p dir=\"ltr\">Data needs a place to rest, to be accessed and used. Choosing the right place to store and manage data depends on many factors.&nbsp;</p><p dir=\"ltr\">Think of data like a personal possession in your house. You choose where to put things so they are in the most appropriate place. You&nbsp; wouldn&#39;t put a suitcase in a kitchen cabinet. The same analogy applies to data.&nbsp;</p><p dir=\"ltr\">This module looks at the different data storage options, and explores the criteria that help make an appropriate choice.</p>",
+    "instruction": "",
+    "_id": "5d3eef0a10cfd605688dfc46",
+    "_parentId": "5d3eeee010cfd605688dfc40",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Matching data requirements",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Different types of data suit different methods of storage and management. Thinking about suitable storage should happen at the data requirements stage. Data requirements should be based upon an ideal method of storage that matches the intended use.</p><p dir=\"ltr\">Such requirements need to outline the structure and format of the data as well as the access and security policies.</p><p dir=\"ltr\">More careful thought might need to be given at this stage to the scale of the storage. How many people need access to the data? Will this be concurrently? Will the processing require significant compute power?&nbsp; Will many versions of the data need to be managed? How often will updates need to be performed?</p>",
+    "instruction": "",
+    "_id": "5d3ef18b10cfd605688dfcc1",
+    "_parentId": "5d3ef17710cfd605688dfcc0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Being flexible",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Data analysis is more akin to research than well defined product development. This means that as you start to use data, discoveries could be made that change the course of the project.</p><p dir=\"ltr\">It is important to be flexible. Even the best set of data requirements in the world will usually miss something. Choosing a flexible method to store and manage data will lower the impact of any changes in the project.</p><p>Consider all the need to scale, but don&#39;t over engineer. With data, unlike bridges, you can iterate or even have multiple copies.</p><p dir=\"ltr\">Another aspect to consider is the reuse of the data in other projects. A flexible solution, or a solution aligned with those already in use, eases reuse of data in other projects.</p>",
+    "instruction": "",
+    "_id": "5d3ef1c710cfd605688dfce0",
+    "_parentId": "5d3ef1b710cfd605688dfcdf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Legal and contractual obligations",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Before choosing any form of data storage we need to be clear of our legal and contractual obligations. Stipulations might be set in a number of different places. The project contract might set some conditions, these need to be compatible with the data licence or commercial agreement. There are also laws surrounding data use that might be set by different jurisdictions, i.e. GDPR.</p><p dir=\"ltr\">The more pervasive the data licence (e.g. open), the easier it is to fulfil all our obligations. However, you should still double check the licence applies to all the data. Did you know? Personal data can be openly licensed but still subject to data protection regulations.</p>",
+    "instruction": "",
+    "_id": "5d3ef02810cfd605688dfc76",
+    "_parentId": "5d3ef00410cfd605688dfc75",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Appropriate for the project need",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Once the legal and governance aspects have been checked, the next step is to address project requirements.&nbsp;</p><p dir=\"ltr\">Think about the following:</p>",
+    "instruction": "",
+    "_id": "5d3ef10d10cfd605688dfca5",
+    "_parentId": "5d3ef0f710cfd605688dfca4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "The use of the data",
+        "body": "<p>Think carefully about how the data will need to be used.</p><p>Will it need to be combined or enriched with other data?</p><p>Does it need to be processed in a specific way?</p><p>Is the data suitable in its current state?</p><p>Will the process of transforming and preparing the data for analysis take too long?</p><p>Will other parts of the project have to be flexible as a result?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The capability of those involved",
+        "body": "<p>Do we have the skills to work with the available data?</p><p>Do we need to engage with external experts?</p><p>Is any specific training necessary?</p><p>Is the effort in obtaining the skills a worthwhile exercise for this dataset?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Limitations of budget and time",
+        "body": "<p>Is the proposed use of data suitable for the assigned budget and time frame?</p><p>Is there a more logical way to store the data (or leave it in situ) that would achieve the same outcome?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data management principles",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">To this point the focus has been on setting out scope. Goals and objects have been set, data requirements outlined and sources identified.</p><p dir=\"ltr\">So is the scoping complete? Not yet.&nbsp;</p><p dir=\"ltr\">We next need to look at how the data will be stored and managed.</p><p dir=\"ltr\">There are many ways to store and manage data. It is important that the storage selected:</p><ol dir=\"ltr\"><li>Fulfils our legal and contractual obligations</li><li>Conforms to ARUPs data governance principles</li><li>Appropriate for the project need</li><li>Matches the requirements of the data</li></ol><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3eef0510cfd605688dfc45",
+    "_parentId": "5d3eeeef10cfd605688dfc42",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Local data storage",
+    "displayTitle": "Local data storage",
+    "body": "<p dir=\"ltr\">Local storage is storage that is not uploaded to the cloud. It is storage that takes the form of hardware. Your computer has a hardware that stores data but it&rsquo;s capacity is limited. It is very likely you won&rsquo;t be able to store all of ARUP data into one single computer. However, many computers can be connected to each other and store the data internally with a local server.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc33",
+    "_parentId": "5d3eeecd10cfd605688dfc0e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Advantages:",
+        "body": "<ul dir=\"ltr\"><li><strong>Increased security:</strong>&nbsp;Access to files and permissions are controlled by the internal IT department..</li><li><strong>Speed:&nbsp;</strong>Local storage is normally the quickest way to store and access data files.</li><li><strong>Physical back-up:</strong>&nbsp;The data and files are stored in a hardware.</li><li><strong>No need for internet connection:&nbsp;</strong>There is no Internet connection required, and any mobile device data charges do not apply.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disadvantages:",
+        "body": "<ul dir=\"ltr\"><li><strong>Expensive maintenance:&nbsp;</strong>Creating and maintaining local storage systems is expensive.</li><li><strong>Dependency on cost of updates:&nbsp;</strong>Hardware is expensive, and so are the licenses for updates on software that companies need to allow you to for example, use Excel, other Microsoft applications, and other software ARUP needs to run the business.</li><li><strong>Risk of hardware damage:&nbsp;</strong>All equipment that is physical, can be damaged if for example a building sets on fire or damaged by a flood.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Local data storage",
+    "displayTitle": "",
+    "body": "<p>Local data storage exists on your own computer or in a shared project folder. Local storage is best used for short term data use by a very limited number of people. Additionally the size and speed at which the data can be manipulated and processed are limited.</p>",
+    "instruction": "",
+    "_id": "5d3ef3d210cfd605688dfcff",
+    "_parentId": "5d3ef3a010cfd605688dfcfe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Advantages",
+        "body": "<p dir=\"ltr\"><strong>Local security control</strong>: Access to files and permissions are controlled entirely by the machine owner or internal IT department. To get access to the data typically requires some form of physical access to a machine.&nbsp;</p><p dir=\"ltr\"><strong>Speed</strong>: Local storage is convenient and easy to use.&nbsp;</p><p dir=\"ltr\"><strong>Physical backup</strong>: Backups are monitored and controlled locally</p><p><strong>Offline access</strong>: There is no Internet connection required to access and work with the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disadvantages",
+        "body": "<p dir=\"ltr\"><strong>High overhead cost</strong>: The cost of managing local storage, equipment, software, backups etc is an expensive and time consuming process. Also regular updates to hardware are required, so migration cost can also be expensive.&nbsp;</p><p dir=\"ltr\"><strong>Difficult to audit</strong>: Data governance is everyone&#39;s responsibility, especially when data is stored locally. While the central IT department might be able to enforce access control policies over systems, these do not often cascade to enforce retention policies on individual files or databases stored locally. This also means that there is a high risk that data formats and structures can become inconsistent.&nbsp;&nbsp;</p><p dir=\"ltr\"><strong>Small scale</strong>: If you are working in a team then sharing of data often ends up being over email and version control becomes a nightmare. sample_data_20191201-v1.4-final-edited.xls anyone?&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Local data storage",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef3d510cfd605688dfd00",
+    "_parentId": "5d3ef3a010cfd605688dfcfe",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Central data storage",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3ef45310cfd605688dfd21",
+    "_parentId": "5d3ef42d10cfd605688dfd1f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Cloud services",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eff2a10cfd605688dfd44",
+    "_parentId": "5d3efeff10cfd605688dfd42",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data storage techniques",
+    "displayTitle": "Data storage techniques",
+    "body": "<p dir=\"ltr\">There are many types of storage techniques, each suited for different types of data. Many types can also be managed locally, centrally and via the cloud.&nbsp;</p><p dir=\"ltr\">Explore the key types of data storage below to find out more:</p>",
+    "instruction": "",
+    "_id": "5d3effd810cfd605688dfd69",
+    "_parentId": "5d3effab10cfd605688dfd68",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data storage",
+    "displayTitle": "Data storage",
+    "body": "<p>Data storage, often called storage or memory, is a technology consisting of computer components and recording media that are used to retain digital data. It is a core function and fundamental component of computers. The central processing unit of a computer is what manipulates data by performing computations.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc34",
+    "_parentId": "5d3eeecd10cfd605688dfc0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Cloud data storage",
+    "displayTitle": "Cloud data storage",
+    "body": "<p dir=\"ltr\">Cloud storage is a data storage service provided by companies like Box, Dropbox, Amazon Cloud Drive, Azure, etc,. These providers copy your data into multiple servers so to increase the memory and speed of processing tasks, such as creating a query from a database, and running an exploratory analysis on a large dataset. This storage is connected to a device, such as computers, who connect to the cloud storage when needed.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc35",
+    "_parentId": "5d3eeecd10cfd605688dfc10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Advantages:",
+        "body": "<ul dir=\"ltr\"><li><strong>Easy to use: </strong>Almost all cloud storage providers installs a folder on your desktop. All that is required to do is drag and drop the files you need to save on the cloud into this folder and the sync will happen in the background without interrupting the tasks you are doing. For example, if you have a Google Drive app installed in your home computer, and you are working on a document at home that you want to access tomorrow but the computer you have at work, you can drag that file into the App&rsquo;s folder. The next day when you log into your Google Drive from another computer, you will be able to have access to that file.</li><li><strong>Disaster Recovery:</strong> Once your data is on the cloud, you can access it from anywhere with any device, provided you have an internet connection. Hence your files stay accessible to you irrespective of system crashes, computer viruses, or device theft.</li><li><strong>High bandwidth:</strong> Cloud computing allows for several users to be connected at the same time. Following the Google Drive example, you can share that folder you created earlier with other members of your team and have access simultaneously to copy, edit, and collaborate in any form you need.</li><li><strong>Easy to scale:</strong> Since cloud servers are connected to several servers, you can always pay for more storage and access more servers than the ones you have initially paid for given there is no local restriction.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disadvantages:",
+        "body": "<ul dir=\"ltr\"><li><strong>Need access to the internet:</strong> Although disaster recovery is one of the key advantages of using cloud storage services, if there is a power outage, your access to the internet is cut and so is your ability to connect the documents you have stored. That is only if you have kept only one copy that is stored only online. &nbsp;</li><li><strong>Security is out of your hands:</strong> &nbsp;Companies like Google, AWS, Azure..that provide you with cloud servers are the ones who manage this service, and its security regulations. Protecting their clients data is one of their priorities but nonetheless, the cybersecurity systems they have in place are managed only by them.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Storage Requirements",
+    "displayTitle": "Data Storage Requirements",
+    "body": "<p>Understanding which what is the data that will be stored, and how often it will need to be accessed, are criteria amongst other factors that determine which data storage needs are required.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc36",
+    "_parentId": "5d3eeecd10cfd605688dfc11",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data Storage at ARUP",
+    "displayTitle": "",
+    "body": "<p>The learning deck we received from ARUP mentions the P500 project, and in the document that outlines the learning objectives per module there are three examples suggested:</p><p>- Arup server</p><p>- Steven Thompson and Luke Cooper</p><p>- Best practice manager</p><p>&nbsp;</p><p>Could we please ask for more information regarding which examples they have in mind using, and the framing they would like to highlight.</p><p>I searched online since the deck mentioned this information is made public, and found this site (screenshot on the left)</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc37",
+    "_parentId": "5d3eeecd10cfd605688dfc12",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc38",
+    "_parentId": "5d3eeecd10cfd605688dfc12",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3070849be21b518b62b2f1984ec9f7a3ffb8a3ec.png",
+      "small": "course/en/assets/3070849be21b518b62b2f1984ec9f7a3ffb8a3ec.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data storage at ARUP",
+    "displayTitle": "Data storage at ARUP",
+    "body": "<p>In this section we will explore the requirements and criteria that were used in the decision-making process that led into the implementation of our data storage system.</p>",
+    "instruction": "",
+    "_id": "5d3eeece10cfd605688dfc3b",
+    "_parentId": "5d3eeecd10cfd605688dfc13",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are advantages of storing data locally?",
+    "displayTitle": "What are advantages of storing data locally?",
+    "body": "",
+    "instruction": "Which of the following are advantages of storing data locally?",
+    "_id": "5d3eeece10cfd605688dfc3c",
+    "_parentId": "5d3eeecd10cfd605688dfc14",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Scalability",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Hard-copy of the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Cheap maintenance",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What are disadvantages of storing data in the cloud?",
+    "displayTitle": "What are disadvantages of storing data in the cloud?",
+    "body": "",
+    "instruction": "Which of the following are disadvantages of storing data in the cloud?",
+    "_id": "5d3eeece10cfd605688dfc3d",
+    "_parentId": "5d3eeece10cfd605688dfc15",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Dependence on internet connection",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lack of cybersecurity control",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "High bandwidth ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Which three criteria did ARUP prioritise when selecting their data storage system?",
+    "displayTitle": "Which three criteria did ARUP prioritise when selecting their data storage system?",
+    "body": "",
+    "instruction": "Select the three criteria that were most important:",
+    "_id": "5d3eeece10cfd605688dfc3e",
+    "_parentId": "5d3eeece10cfd605688dfc16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "option 1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "option 2",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "option 3",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "option 4",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "option 5",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Central data storage",
+    "displayTitle": "",
+    "body": "<p>Centralised data storage is similar to a central file store specifically for data. Examples include databases, record management and content management systems.&nbsp; Such systems can be manage structured or unstructured data. Often these systems will be managed by the IT department who are able to ensure a central backup and audit can take place.</p>",
+    "instruction": "",
+    "_id": "5d3ef44d10cfd605688dfd20",
+    "_parentId": "5d3ef42d10cfd605688dfd1f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Advantages",
+        "body": "<p dir=\"ltr\"><strong>Centralised management and audit</strong>: There will often be others who manage and audit the data stored in the company systems.&nbsp;</p><p dir=\"ltr\"><strong>Distributed access</strong>: Existing company wide policies can be used to dynamically control access.&nbsp;</p><p><strong>Physical backup</strong>: Part of the management will involve physical backups being taken a managed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disadvantages",
+        "body": "<p dir=\"ltr\"><strong>Limited choice</strong>: The choice of data storage platform may be limited to that the company is willing to offer support for.&nbsp;</p><p dir=\"ltr\"><strong>High overhead cost</strong>: The cost of managing local storage, equipment, software, backups etc is an expensive and time consuming process. Also regular updates to hardware are required, so migration cost can also be expensive.&nbsp;</p><p dir=\"ltr\"><strong>Limited flexibility</strong>: A lack of flexibility means it could be hard to match the project data requirements. It may also be challenging to get data out of the system into the application that needs to process it.&nbsp;</p><p dir=\"ltr\"><strong>Slow to set up</strong>: The process of setting up the data storage can take longer than the intended period of use. This is due to the overhead of having to set up the audit and management processes and match existing policies.&nbsp;</p><p><strong>Limited external exposure</strong>: Internal systems will often be very locked down. Sharing with external stakeholders can be challenging and become a blocker to progress.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Cloud services",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Get access to as much storage and processing power you want in a matter of few clicks. Sounds ideal, but once again the responsibility for data governance, management and audit is yours. Are your Amazon buckets secure, or do they <a href=\"https://threatpost.com/leaky-amazon-s3-buckets-expose-data-of-netflix-td-bank/146084/\">leak</a>?</p><p dir=\"ltr\">Cloud services provide flexibility and scalability without the overhead&nbsp;of managing physical equipment. More organisations are beginning to centralise management of cloud services. The trade-off again is how this limits choice and flexibility</p>",
+    "instruction": "",
+    "_id": "5d3eff2810cfd605688dfd43",
+    "_parentId": "5d3efeff10cfd605688dfd42",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Advantages",
+        "body": "<p dir=\"ltr\"><strong>Flexible</strong>: Regardless of the type of data you have and its requirements, there will be a cloud service that matches.&nbsp;</p><p dir=\"ltr\"><strong>Scalable</strong>: Cloud services can start small and you can quickly scale up and down as required.&nbsp;&nbsp;</p><p dir=\"ltr\"><strong>Accessible</strong>: Access control policies can be global and not just constrained to employees of ARUP.&nbsp;</p><p dir=\"ltr\"><strong>No fixed cost</strong>: If scaling is used correctly, then costs can be controlled and linked to demand.</p><p dir=\"ltr\"><strong>Quick to set up</strong>: Once you have an account it can take just a few clicks to be set up.&nbsp;</p><p dir=\"ltr\"><strong>Direct connections</strong>: Cloud services are connected to the internet backbone and can consume and process online data very quickly.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Disadvantages",
+        "body": "<p dir=\"ltr\"><strong>Unclear future</strong>: You are rarely in control of how the services develop. Risks include:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Being shutdown with short notice periods.</p></li><li dir=\"ltr\"><p dir=\"ltr\">Interfaces changing and becoming incompatible with your software</p></li></ul><p dir=\"ltr\"><strong>Hard to manage and audit</strong>: Lack of central control and speed of set-up can often lead to negligence in data management.&nbsp;</p><p><strong>Vendor risks</strong>: Can the cloud provider be trusted with the data? Are we sure they are compliant with our legal and governance principles?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "File based storage (e.g. excel)",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">File based data storage is easy and convenient. It is usually directly associated with a desktop application of some sort. Historically file based storage was done locally or centrally. This makes version control and distributed editing a nightmare.&nbsp;</p><p dir=\"ltr\">More recently, file based editing has transitioned to the organisational cloud. Services such as Microsoft Office365 take the desktop editing paradigm and add advantages of cloud services, such as collaborative editing and sharing.</p><p dir=\"ltr\">The downside is that conformance to data requirements is still the responsibility of the application users.</p>",
+    "instruction": "",
+    "_id": "5d3f00d610cfd605688dfd6b",
+    "_parentId": "5d3f009e10cfd605688dfd6a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "File based storage (e.g. excel)",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f00d910cfd605688dfd6c",
+    "_parentId": "5d3f009e10cfd605688dfd6a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Non-relational databases",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f01a610cfd605688dfdb7",
+    "_parentId": "5d3f018510cfd605688dfdb5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Relational databases",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f011f10cfd605688dfd91",
+    "_parentId": "5d3f011410cfd605688dfd8f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Relational databases",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Relational databases were originally developed to help deduplicate data. Being able to relate distinct tables of information together through the use of record identifiers. They also had the advantages of being strictly structured and able to verify data conforms to a schema.&nbsp;</p><p dir=\"ltr\">As the internet grew, so relational databases were centralised. Around this services and applications would be developed to interact with the database. Challenges were faced in collaborative editing and technologies including transnational locking were added.&nbsp;</p><p dir=\"ltr\">Relational databases are still the backbone of the majority of data systems in use today.</p>",
+    "instruction": "",
+    "_id": "5d3f011b10cfd605688dfd90",
+    "_parentId": "5d3f011410cfd605688dfd8f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Non-relational databases",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Also known as NoSQL databases, non-relational databases provide a means to store data that is not in a tabular structure. They are ideally suited to hierarchical and graph data. Additionally they tend to store data semi-structured data that has no fixed schema.&nbsp;</p><p dir=\"ltr\">Like relational databases, they can be used locally but real value comes with scale. Non-relational databases scale much better than relational databases as they do not need to cross reference data. This means that large scale distributed transactions can be carried out that do not risk data corruption.&nbsp;</p><p dir=\"ltr\">Being semi-structured, means that non-relational databases typically require bespoke applications to built to manage and work with the data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3f01a110cfd605688dfdb6",
+    "_parentId": "5d3f018510cfd605688dfdb5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data warehouses and data lakes",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">These are simply terms for large scale relational and non-relational databases systems that collect a lot of data.</p><p dir=\"ltr\">Data warehouses are typically viewed as authorities of highly curated, trusted information. These are normally centrally managed relational databases.&nbsp;</p><p dir=\"ltr\">Conversely, a data lake stores a mass of diverse semi-structured data from IoT devices, websites, mobile apps, social media and corporate applications.&nbsp;Typically a data lake exists in the cloud and stores raw, un-curated data that has to be filtered and processed prior to usage.</p>",
+    "instruction": "",
+    "_id": "5d3f021710cfd605688dfddb",
+    "_parentId": "5d3f01fe10cfd605688dfdda",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data warehouses and data lakes",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f021b10cfd605688dfddc",
+    "_parentId": "5d3f01fe10cfd605688dfdda",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Picking the right data management solution",
+    "displayTitle": "Picking the right data management solution",
+    "body": "<p>Picking the right solution can be complex. There is no one size fits all. This is why at ARUP we understand the need for our experts to choose for themselves the most appropriate solution for each project.&nbsp; Test your knowledge in our quiz and see if you can apply the principles above to pick the right answers.</p>",
+    "instruction": "",
+    "_id": "5d3eef3510cfd605688dfc49",
+    "_parentId": "5d3eef2810cfd605688dfc48",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Transport data",
+    "displayTitle": "Q: Transport data",
+    "body": "<p>You need a system capable of storing a huge amount of live varied transport data from bus, train and road networks. This data will allow us to build models on accurate data on demand rather than having to perform lots of data collection later.&nbsp;</p><p>Where might you store this data?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d3f041510cfd605688dfe00",
+    "_parentId": "5d3f034110cfd605688dfdff",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A spreadsheet on a laptop",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A centrally managed database",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A data lake in the cloud",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>A data lake is best suited to storing&nbsp;a mass of diverse semi-structured data from IoT devices, websites, mobile apps, social media and even transport systems.&nbsp;</p><p>Many transport providers already make use of cloud data services. This means there may even be an opportunity to hook directly into their data feeds for fast, direct access.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A data lake is best suited to storing&nbsp;a mass of diverse semi-structured data from IoT devices, websites, mobile apps, social media and even transport systems.&nbsp;</p><p>Many transport providers already make use of cloud data services. This means there may even be an opportunity to hook directly into their data feeds for fast, direct access.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Transport data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f054e10cfd605688dfe01",
+    "_parentId": "5d3f034110cfd605688dfdff",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Humidity conditions",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f05b210cfd605688dfe26",
+    "_parentId": "5d3f057f10cfd605688dfe24",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Humidity conditions",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f074710cfd605688dfe4c",
+    "_parentId": "5d3f074710cfd605688dfe4a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Humidity conditions",
+    "displayTitle": "Q: Humidity conditions",
+    "body": "<p>You need a place to store and analyse two months of humidity conditions data from a museum. The dataset consists of several thousand records.&nbsp;</p><p>Which of the following would be most appropriate?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3f05a910cfd605688dfe25",
+    "_parentId": "5d3f057f10cfd605688dfe24",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A shared spreadsheet",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A data lake in the cloud",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A centrally managed database",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A spreadsheet is best suited for small, static datasets. It is recommended that all data be stored where it can also be effectively shared, for instance a centrally managed file store. This stops it from being trapped on one person&#39;s desktop. As Office365 now provides collaborative editing, this means that spreadsheets are even more flexible for project use.&nbsp;A shared spreadsheet</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A spreadsheet is best suited for small, static datasets. It is recommended that all data be stored where it can also be effectively shared, for instance a centrally managed file store. This stops it from being trapped on one person&#39;s desktop. As Office365 now provides collaborative editing, this means that spreadsheets are even more flexible for project use.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Q: Building intelligence dashboard",
+    "displayTitle": "Q: Building intelligence dashboard",
+    "body": "<p>You need a place to store data that is being used to create a series of building management dashboards to allow people to intelligently respond to different conditions.</p><p>Which of the following would be most appropriate?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3f074710cfd605688dfe4b",
+    "_parentId": "5d3f074710cfd605688dfe4a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "A shared spreadsheet",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A data lake in the cloud",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A centrally managed database",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A centrally managed database is often the most consistent and reliable source of well managed data. Services, such as dashboards, need to rely on this data being consistent in order to work.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A centrally managed database is often the most consistent and reliable source of well managed data. Services, such as dashboards, need to rely on this data being consistent in order to work.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Handling personal data",
+    "displayTitle": "Handling personal data",
+    "body": "<p>Imagine you are working with a client on a project about the environmental impact of transport in a city. The client wishes to share with us a dataset sourced from sensors attached to people&#39;s personal vehicles. The data contains the vehicle identification, location and emissions reading.</p><p>What is the first thing that needs to be considered?</p>",
+    "instruction": "Select you answer, then click 'submit'",
+    "_id": "5d3f081a10cfd605688dfe76",
+    "_parentId": "5d3f081910cfd605688dfe72",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "Is the data anonymised?",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Have people the personal data is about been informed about how it is going to be used?",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "How encryption can be used to transfer the data securely",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p dir=\"ltr\">The data contains personal data, in this case the vehicle identification. This can potentially be used to identify an individual. Any information relating to an identified or identifiable person and is protected by data protection regulations in most countries. Even if the client anonymises the data, we still need to check that individuals the data is about are aware of how the data is going to be used.&nbsp;</p><p dir=\"ltr\">Following this, it might be possible to examine how anonymise the data to prevent anyone from being able to re-identify any individual. Using anonymised data is preferable, even when an individual has given informed consent for data about them to be used. Anonymised data reduces risk and also opens up more options for data storage and transfer, avoiding the need for the data to be geographically located in a certain country.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The data contains personal data, in this case the vehicle identification. This can potentially be used to identify an individual. Any information relating to an identified or identifiable person and is protected by data protection regulations in most countries. Even if the client anonymises the data, we still need to check that individuals the data is about are aware of how the data is going to be used.&nbsp;</p><p dir=\"ltr\">Following this, it might be possible to examine how anonymise the data to prevent anyone from being able to re-identify any individual. Using anonymised data is preferable, even when an individual has given informed consent for data about them to be used. Anonymised data reduces risk and also opens up more options for data storage and transfer, avoiding the need for the data to be geographically located in a certain country.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Handling personal data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f081a10cfd605688dfe77",
+    "_parentId": "5d3f081910cfd605688dfe72",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Handling commercially sensitive data",
+    "displayTitle": "Handling commercially sensitive data",
+    "body": "<p dir=\"ltr\">A client wishes to transfer us some commercially sensitive data for use in a project.&nbsp;</p><p dir=\"ltr\">What would be the best method for transferring this data?</p>",
+    "instruction": "Select your answer, then click 'submit'",
+    "_id": "5d3f081b10cfd605688dfe9a",
+    "_parentId": "5d3f081a10cfd605688dfe73",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "text": "On a USB key",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Via a third party like dropbox",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Using an encrypted transfer directly into ARUP systems",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p dir=\"ltr\">Data that isn&rsquo;t open will likely have limitations on how it can be transferred and stored. Using a direct encrypted transfer ensures that the data is managed by audited and accepted cyber security policies.&nbsp;</p><p dir=\"ltr\">These policies have been created and enforced to both protect and enable everyone to make the most of data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Data that isn&rsquo;t open will likely have limitations on how it can be transferred and stored. Using a direct encrypted transfer ensures that the data is managed by audited and accepted cyber security policies.&nbsp;</p><p dir=\"ltr\">These policies have been created and enforced to both protect and enable everyone to make the most of data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Handling commercially sensitive data",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f081b10cfd605688dfe9b",
+    "_parentId": "5d3f081a10cfd605688dfe73",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data needs a place to rest, to be accessed and used. Choosing the right place to store and manage data depends on many factors.</p><p>We must ensure that any choices made conform to our legal, ethical and governance principles. Choices also need to be appropriate for the project and potentially flexible to&nbsp;changes.</p><p>Thinking about suitable storage should ideally happen at the data requirements stage. Selecting the right method of storage should then be a straightforward process of matching requirements with the ideal solution.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5d3f098e10cfd605688dfee4",
+    "_parentId": "5d3f096210cfd605688dfee3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Clipboard",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5d3f099310cfd605688dfee5",
+    "_parentId": "5d3f096210cfd605688dfee3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  }
+]

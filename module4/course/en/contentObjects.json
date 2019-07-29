@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Data Storage and Management",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">&nbsp;</p><ol></ol>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d028abb831893053bc20405",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe a dataset (i.e. types, attributes, volume, sources)",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify constraints with the dataset",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Describe the complete data lifecycle",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "[Archive] Data Storage and Management",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">&nbsp;</p><ol></ol>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5d3eeecd10cfd605688dfc09",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe a dataset (i.e. types, attributes, volume, sources)",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Identify constraints with the dataset",
+          "credits": null,
+          "level": null
+        },
+        {
+          "outcome": "Describe the complete data lifecycle",
+          "credits": null,
+          "level": null
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]
